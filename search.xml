@@ -1,16 +1,301 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>daily life</title>
+    <url>/2019/12/30/191230-daily/</url>
+    <content><![CDATA[<blockquote>
+<p>生活要为自己创造惊喜</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h3><pre><code>打电话的时候号码里有个横线怎么拨打？
+不用打横线就行了
+
+USB 有四根线，两根充电，两根传输数据
+充电会窃取数据
+
+你会给失聪的人设计什么样的闹钟？
+都失聪了还要给他设计闹钟, 多此一举
+
+这都不行我也是没什么特别好的办法了，推荐你去下一个360之类的。。。
+他比123流氓多了，一般可以轻松地处理掉这种小问题。 
+
+为什么宁愿等 60s 广告，也不愿买腾讯会员
+有那个闲心没那个闲钱</code></pre><h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><p>即将毕业的和毕业一年内的都统称应届毕业生，说简单一点就是:”从你拿毕业证起,到你下一届拿毕业证的这段时间都称应届毕业生!</p>
+<blockquote>
+<h3 id="mine"><a href="#mine" class="headerlink" title="mine"></a>mine</h3></blockquote>
+<ul>
+<li>USB3.0 分线器</li>
+<li>OTG转接头</li>
+<li>MicroUSB 转 Type-C 转接头</li>
+</ul>
+<h3 id="SEO"><a href="#SEO" class="headerlink" title="SEO"></a>SEO</h3><ul>
+<li>如何获得预选的目标关键词<ul>
+<li>Google 搜索下拉框</li>
+<li>网页底部的”相关搜索”</li>
+</ul>
+</li>
+</ul>
+<h4 id="如何让图片被搜索引擎收录"><a href="#如何让图片被搜索引擎收录" class="headerlink" title="如何让图片被搜索引擎收录"></a>如何让图片被搜索引擎收录</h4><h4 id="图片命名"><a href="#图片命名" class="headerlink" title="图片命名"></a>图片命名</h4><ul>
+<li><code>DateTime.now.ToString(&quot;yyyyMMddHHmmss&quot;)+“.jpg&quot;;</code></li>
+</ul>
+<h4 id="后端只提供API接口，前端通过ajax和mvvm框架渲染DOM"><a href="#后端只提供API接口，前端通过ajax和mvvm框架渲染DOM" class="headerlink" title="后端只提供API接口，前端通过ajax和mvvm框架渲染DOM"></a>后端只提供API接口，前端通过ajax和mvvm框架渲染DOM</h4><pre><code>前端界面文件一般在/src/main/webapp/WEB-INF中，其中菜单文件在WEB-INF中的tags中</code></pre><p>search：</p>
+<ol>
+<li>java… csdn</li>
+<li>“xxx入门”</li>
+</ol>
+<p>马太效应</p>
+<p>API  Application Programming Interface,应用程序编程接口</p>
+<p>Java 并发编程的艺术</p>
+<p>首先是模仿，然后才是创新<br>思考技术原理</p>
+<p>数据战争</p>
+<p>每学一个框架其实就是熟悉一些接口的用法，不对<br>学习框架如何才能深入</p>
+<p>电脑桌面不要放太多文件和图标，会使电脑反应变慢的，软件尽量不要安装在c盘。</p>
+<p>硬盘划分主分区、扩展分区、逻辑分区、活动分区有什么不同？<br>通过映像劫持实现Notepad2替换记事本</p>
+<p>断点续传<br>电脑桌面不要放太多文件和图标，会使电脑反应变慢的，软件尽量不要安装在c盘。</p>
+<p>硬盘划分主分区、扩展分区、逻辑分区、活动分区有什么不同？<br>通过映像劫持实现Notepad2替换记事本</p>
+<p>断点续传</p>
+<p>Oracle:<br>双核CPU服务器<br>无限期使用<br>32万美元 ~ 200万</p>
+<p>租的服务器<br>安装Oracle</p>
+<p>淘宝： 去E 去I 去O</p>
+<p>公司 Tomcat weblogic  mysql/Oracle</p>
+<p>银行 webShelle  IBM  db2</p>
+<p>INS : </p>
+<p>不知道原理的靠边站</p>
+<p>2018 年《麻省理工科技评论》全球十大突破性技术：①人工智能(云端 AI)、②对抗性神经网络、③人造胚胎、④“基因占卜”、⑤传感城市、⑥巴别鱼耳塞、⑦完美的网络隐私、⑧材料的量子飞跃、⑨实用型 3D 金属打印机、⑩零碳排放天然气发电。(199IT)</p>
+<p>进行左连接时，就有涉及到主表、辅表，这时主表条件写在WHERE之后，辅表条件写在ON后面</p>
+<p>共享单车，，不是共享是租赁<br>ofo</p>
+<p>ebron亿帮动力网<br>36kr,氪</p>
+<p>互联网加<br>电商，智能推荐<br>新农和，数据挖掘和分析</p>
+<p>共享充电宝也是租赁<br>共享与众包<br>共享，每个人既是提供者，也是回报的接受者</p>
+<p>资源供给问题</p>
+<p>滴滴，共享单车的标签都是，共享经济</p>
+<p>冯.诺依曼</p>
+<p>进制转化</p>
+<p>数据库，图形界面存储</p>
+<p>excel选项，加载项，分析工具库，转到，分析工具库          数据，数据分析，移动平均，间隔（n）</p>
+<p>柱状图加折线图，子弹图（柱状图折叠）</p>
+<p>按F12快捷键，打开开发者工具后台，打开console一栏，下面输入$=0，按回车即可</p>
+<p>但职场就是职场，你进入它的剧场就必须迅速切换角色，不断练习演好“专业”</p>
+<p>当别人将文件发送给你后，他的工作就已经完成了。<br>如何保存、归类是你的工作，让别人再发一遍是你工作不到位而给别人添了麻烦</p>
+<p>宏碁acer: qi 通棋</p>
+<p>性能优化，架构先行</p>
+<p>秭zi: 古代数目名，一万亿</p>
+<p>墨菲定理，有句老话说常在河边站哪有不湿鞋（学名墨菲定律）</p>
+<p>构造方法禁止加入任何业务逻辑，如果有初始化逻辑，请放在init方法中</p>
+<p>pojo类必须写toString()方法，方便排查问题</p>
+<p>getter/setter方法中，不要增加业务逻辑，增加排查问题的难度</p>
+<p>循环体内，字符串的连接方式，使用StringBuilder的append方法进行扩展</p>
+<p>Java中遍历map的两种方法：keySet 和 entrySet(推荐)</p>
+<p>搜狗拼音拆字 u + 拼音+拼音<br>蕈 u + cao + xi + zao</p>
+<p>西文空格<br>页面布局 —— 背景</p>
+<p>视频，安全，樱桃<br>线程，下落速度</p>
+<p>PH 试纸<br>先测水，再测洗过的水</p>
+<p>任何要削皮的水果都要先洗</p>
+<p>用小苏打粉</p>
+<p>淘米水去油乌</p>
+<p>人体最大的器官是皮肤</p>
+<p>桑指桑树，梓是梓树</p>
+<p>光电帝国 爱迪生/特斯拉/wesinghouse</p>
+<p>AC就是Alternating current 的英文缩写,意思是交流电, DC就是Direct current 的英文</p>
+<p>物联网     IOT<br>智能路由器</p>
+<p>cctv2<br>玻璃科技<br>cctv10   走进科学</p>
+<p>PH 试纸<br>先测水，再测洗过的水</p>
+<p>任何要削皮的水果都要先洗</p>
+<p>用小苏打粉<br>淘米水去油乌<br>人体最大的器官是皮肤</p>
+<p>忙拧<br>红肉苹果，红花，白花</p>
+<p>容差越小，选取的颜色相似度越小</p>
+<p>连续不勾选，      添加到选区</p>
+<p>shift ,鼠标，等比缩放</p>
+<p>消除锯齿，工具栏<br>选择，取消选择<br>选择，羽化，例，贺卡</p>
+<p>楠树<br>苦nian</p>
+<p>单叶，，单身复叶有关节<br>马蹄莲，，，洋葱<br>猪笼草</p>
+<p>一寸等于3.33333…….厘米</p>
+<p>图像，画布大小</p>
+<p>戴尔电脑：你要多少我装给你</p>
+<p>小苏打水</p>
+<p>alt 取样    点击修改的    但颜色会与原来的色进行综合，用于人脸等</p>
+<p>仿制图章，完全覆盖</p>
+<p>工具，鼠标滑轮或抓手工具</p>
+<p>长安 ： 长治久安  ，西安的旧称</p>
+<p>奥沙利文<br>塞尔比</p>
+<p>土豆干洗<br>球形施肥<br>槟榔切割机，浮动定位原理<br>破冰机<br>谷仓翻新<br>安全锤</p>
+<p>央视影音</p>
+<p>剥虾皮<br>十五米的秋千，朝鲜<br>动物油脂40度凝固，用冰块<br>冷冻细菌比冷藏多</p>
+<p>螳螂头部360度旋转<br>动物感官大揭秘</p>
+<p>是真的吗</p>
+<p>菠萝削皮之后，由于有“内刺”的缘故，通常我们需要用刀划出一道道沟<br>而凤梨则没有“内刺”</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>191222-chinese</title>
+    <url>/2019/12/22/191222-chinese/</url>
+    <content><![CDATA[<blockquote>
+<p>chinese</p>
+</blockquote>
+<a id="more"></a>
+
+<p><img src="/images/Chinese/interpunction.png" alt="标点符号"></p>
+<p><a href="http://www.360doc.com/content/19/1129/23/1597421_876426307.shtml" target="_blank" rel="noopener">初中语文文学常识</a></p>
+<p>上联：<br>享清福不在为官，只要囊有钱，仓有米，腹有诗书，便是山中宰相。<br>下联：<br>祈寿年无须服药，但愿身无病，心无忧，门无债主，可为地上神仙。<br>横批：<br>天天快乐！</p>
+<h3 id="chinese-words"><a href="#chinese-words" class="headerlink" title="chinese-words"></a>chinese-words</h3><p>魑魅魍魉chī mèi wǎng liǎng </p>
+<p>小妹</p>
+<p>发乎情止乎礼</p>
+<p>喆,zhe(2)      佘she(2)<br>《老夫子》</p>
+<p>诡辩</p>
+<p>电的出现引发了赢者通吃的马太效应<br>鸡蛋花       蛋树      糖槭</p>
+<p>魑魅魍魉(chi mei wang liang)：比喻形形色色的坏人</p>
+<p>子(zǐ)、丑(chǒu)、寅(yín)、卯(mǎo)、辰(chén)、巳(sì)、午(wǔ)、未(wèi)、申(shēn)、酉(yǒu)、戌(xū)、亥(hài)。</p>
+<p>佛教有“三法印”的说法，即“诸行无常、诸法无我、涅槃寂静”</p>
+<p>宕 dang</p>
+<p>汉字五千年</p>
+<p>桃花潭水深千尺 — 无与伦比<br>枕头 – 置之脑后</p>
+<p>二十四节气歌<br>春雨惊春清谷天<br>夏满芒夏暑相连<br>秋处露秋寒霜降<br>冬雪雪冬小大寒<br>对应：<br>立春、雨水、惊蛰、春分、清明、谷雨<br>立夏、小满、芒种、夏至、小暑、大暑<br>立秋、处暑、露水、秋分、寒露、霜降<br>立冬、小雪、大雪、冬至、小寒、大寒</p>
+<p>春捂秋冻：<br>人自身是一个系统，春天穿多一些是对冬天的一种适应，秋天穿少一些是对夏天气候的和向冬天过渡的一种准备。两者都是为了使人的身体逐渐适应气候的变化而不致于生病。</p>
+<p>ISBN: International Standard Book Number<br>国际标准书号，是专门为识别图书等文献而设计的国际编号</p>
+<p>主谓宾<br>介词短语、不定式、动词</p>
+<h3 id="picture"><a href="#picture" class="headerlink" title="picture"></a>picture</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/Chinese/1001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/Chinese/1001.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/Chinese/1011.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/Chinese/1012.png" alt=""></div></div></div></div>
+
+<h3 id="论语"><a href="#论语" class="headerlink" title="论语"></a>论语</h3><p>子曰：“学而时习之，不亦说乎？？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？”</p>
+<p>有子曰：“其为人也孝弟，而好犯上者，鲜矣；不好犯上，而好作乱者，未之有也。君子务本，本立而道生。孝弟而道生。孝弟也者，其为仁之本与！”</p>
+<p>子曰：“巧言令色，鲜矣仁。”</p>
+<p>曾子曰：“吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？”</p>
+<p>子曰：“道千”</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>191222-english</title>
+    <url>/2019/12/22/191222-english/</url>
+    <content><![CDATA[<blockquote>
+<p>english</p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="website"><a href="#website" class="headerlink" title="website"></a>website</h3><ul>
+<li><a href="https://en-letter.xiao84.com/biao/" target="_blank" rel="noopener">26个英文字母表发音</a> </li>
+<li><a href="https://zhuanlan.zhihu.com/p/26191013" target="_blank" rel="noopener">纠正你读错的电脑英文词汇 — ①</a></li>
+</ul>
+<h4 id="version"><a href="#version" class="headerlink" title="version"></a>version</h4><p>1st(first) | 2nd(second) | 3rd(third) | 4th(fourth) | 5th(fifth) | 6th(sixth) | 7th(seventh) | 8th(eighth) | 9th(ninth) | 10th(tenth)</p>
+<h4 id="26个字母书写顺序"><a href="#26个字母书写顺序" class="headerlink" title="26个字母书写顺序"></a>26个字母书写顺序</h4><p><img src="/images/English/hand-writing-01.png" alt="hand-writing-01.png"><br><img src="/images/English/hand-writing-02.png" alt="hand-writing-02.png"></p>
+<h4 id="abbreviation"><a href="#abbreviation" class="headerlink" title="abbreviation"></a>abbreviation</h4><p><a href="https://zhuanlan.zhihu.com/p/28732690" target="_blank" rel="noopener">英文缩写大全</a></p>
+<p><img src="/images/English/abbreviate.png" alt="hand-writing-02.png"></p>
+<ul>
+<li>quantity - qty</li>
+<li>address - addr</li>
+<li>Doctor - Dr.</li>
+<li>average - avg</li>
+<li>形参（parameters）、实参（arguments）</li>
+<li>library - lib / initialize - init / template - tpl / module - mod</li>
+<li>controller - ctr/ctrl / action - act / paramter - param / argument - arg</li>
+<li>Time To Live - TTL / current - curr / return - ret / register - reg </li>
+<li>category - cate / navigation - nav / background - bg / button - btn</li>
+<li>calculation - calc</li>
+</ul>
+<p>【拉丁文缩写】<br>A.D. （公元）: Anno Domini<br>CV （简历）: curriculum vitae<br>e.g. （例如）: exempli gratia<br>etc. （等等…）: et cetera<br>et al. （以及其他人；等人）： et alii<br>i.e. （即是）: id est</p>
+<p>【日常缩写】<br>P.S. （附言）: post scriptum<br>Ph.D. （博士）: Philosophi Doctor<br>ATM：Automated Teller Machine 自动取款机<br>POS：Point of Sales 刷卡机<br>App：是 application 的缩写，正确发音为：爱P~<br>PDF：全称Portable Document Format 译为便携文档格式<br>GPS：Global Positioning System全球定位系统<br>CD：Compact Disc压缩光盘</p>
+<p>【其他缩写】<br>R.I.P.: requiescat in pace 息止安所<br>CRM：Customer Relationship Management 客户关系管理<br>ERP：Enterprise Resource Planning 企业资源计划<br>IT：Information Technology 信息技术<br>BBS：Bulletin Board System 论坛<br>4S店：零售（Sale）、零配件（Spare part）、售后服务（Service）、信息反馈（Survey）<br>BMW：Bayerische Motoren Werke 宝马（全称为巴伐利亚机械制造厂股份公司）</p>
+<h4 id="punctuations"><a href="#punctuations" class="headerlink" title="punctuations"></a>punctuations</h4><p>colon/semicolon(;) / comma(,) / ellipsis(…)<br>apostronphe(<code>撇号) / plus(+) / question mark(?)</code>!` Exclamation Mark (英式) / Point (美式)<br>hyphen(- 连字符) / dash(—— 破折号)<br>slash(/) / backslash()<br>‘ ’ single quotation marks 单引号<br>“ ” double quotation marks 双引号<br>句號 Full Stop (英式) / Period (美式)<br>括號 Bracket (英式) / Parentheses (美式)</p>
+<p>dot .</p>
+<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><h4 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h4><ol>
+<li>斜体书写的字母都稍向右斜，斜瓶度要一致</li>
+<li>i j t 的上端都在第一格的中间</li>
+<li>f 要比 j,p 要高，与大写字母同样高或稍低一些，它们的下端都抵第四线</li>
+</ol>
+<p>ran,就是前三个字母，全文是random，ram是计算机只读储存器的意思，就是内存条</p>
+<p>select / option</p>
+<p>invoke</p>
+<p>Lifelong learning</p>
+<p>opinion 意见</p>
+<p>right-click / double-click</p>
+<p>Call AutoHotkey.exe on the command line and pass the script’s filename as a command-line parameter.</p>
+<p>If AutoHotkey is pinned to the taskbar or Start menu on Windows 7 or later, recent or pinned scripts can be launched via the program’s Jump List.</p>
+<p>portal传送门<br>portalook.com / coocode.org / think4y.com</p>
+<p>climate 气候 / weather 天气<br>typhoon 台风 / tornado 龙卷风<br>windy / cloudy / sunny / snowy / shower</p>
+<p><img src="/images/English/weather-01.png" alt=""></p>
+<h4 id="read"><a href="#read" class="headerlink" title="read"></a>read</h4><p>Youtube (You-tube [tju:b]) 念 优tiu啵 不念 优吐毙</p>
+<p>Skype [?ska?p] 念 死盖破 不念 死盖屁</p>
+<p>Adobe [??d??bi] 念 阿兜笔 不念 阿斗伯</p>
+<p>Chrome [kr??m] 念 克肉姆</p>
+<p>C# (C Sharp) 念 C煞破</p>
+<p>GNU [(g)nu?] 念 哥怒</p>
+<p>GUI [?ɡui] 念 故意</p>
+<p>JAVA [?d?ɑ?v?] 念 扎蛙 不念 夹蛙</p>
+<p>AJAX [?e?d??ks] 念 诶(ei)贾克斯 不念 阿贾克斯</p>
+<p>Ubuntu [u?buntu?] 念 巫不恩兔 不念 友邦兔</p>
+<p>Debian [?d?bi?n] 念 得(dei)变</p>
+<p>Linux [?l?n?ks] [?l?n?ks] 两种发音 丽娜克斯 和 李扭克斯 都可以</p>
+<p>LaTeX [?le?t?k]  [?le?t?x]  [?lɑ?t?x] [?lɑ?t?k] 雷泰克，拉泰克 都可以 （根据Knuth的建议，雷泰克斯和拉泰克斯不正确。而且LaTeX的重音是放在雷或拉上。感谢@Rio讨论。另外感谢发音大牛@梁海刚刚指出， [?lɑ?t?x] 注音符号里的x发的不是克斯的音，而是接近“巴赫”的那个赫。）</p>
+<p>GNOME [ɡ?no?m] [no?m] 两种发音 格弄姆 弄姆 都可以  </p>
+<p>App [??p] 念阿破（与爱破也比较像，参见音标），不能把三个字母拆开念成A P P。=====一般英语=====null [n?l] 念 闹jpg [?d?e?p?ɡ] 念 zhei派个 不念 勾屁记</p>
+<p>WiFi [?wa?fa?] 念 歪fai<br>mobile [mo?bil] [?mo?bil] [?m?ubail] 膜拜哦 和 牟bou 都可以</p>
+<p>integer [??nt?d??] 念 音剃摺儿 不念 阴太阁儿</p>
+<p>cache [k??] 念 喀什 不念 卡尺</p>
+<p>@ 念 at=====感谢@Lawrence Li同学的补遗=====</p>
+<p>Tumblr (Tumbler) 念 贪不勒</p>
+<p>nginx (Engine X)念 恩静 爱克斯（@Lawrence Li有不同意见）</p>
+<p>Apache [??p?t?i?] 念 阿趴气</p>
+<p>Lucene [?lu?sin] 念 鲁信MySQL [ma? ??skju???l] [ma? ?si?kw?l] 念 买S奎儿 或 买吸扣 都可以Exposé [?ks?p??ze?] 念 埃克斯剖Z （重音在Z上）</p>
+<p>RFID 【本条争议颇大】：有人念af rid, ri fid，但是RFID官方念法依然是四个字母分开读R F I D</p>
+<p>JSON (jason) 念 zhei森</p>
+<p>Processing [?pr??ses??] 重音在Pro上</p>
+<p>avatar [??v?’tɑr] 念 艾瓦塌儿</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>191222-talk</title>
+    <url>/2019/12/22/191222-talk/</url>
+    <content><![CDATA[<blockquote>
+<p>自说自话</p>
+</blockquote>
+<a id="more"></a>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>191221-tips</title>
+    <url>/2019/12/21/191221-tips/</url>
+    <content><![CDATA[<blockquote>
+<p>道德只宜律已，不宜律人</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="places"><a href="#places" class="headerlink" title="places"></a>places</h3><p>海岸大桥<br>澳大利亚 / 悉尼</p>
+<p>ApowerMirror 投屏</p>
+<h3 id="setting"><a href="#setting" class="headerlink" title="setting"></a>setting</h3><p>那我们怎么设置呢？<br>把想快速打开的软件，复制，或者直接拖动到Windows下的systems 32目录下，</p>
+<p>4）Linux更加兼容。当您了解Linux、了解标准文件格式以及免费文件格式时，后面这句话就会得到解释。首先，我问为什么在Linux Ofice中能打开所有文件，比如DOC和Windows DOCX，但是Windows却不打开ODF Office，ODF Office是ISO国际标准多年认可的格式？从矢量绘图，音乐，图像，文本，文档开始看几乎所有的免费文件格式……所有免费格式在Windows中都不兼容，特别是在Microsoft工具中，并且通常用于其他操作系统和众多工具。</p>
+<p>硬盘专用的电源线，有两种一种是平口一种是圆口的，一般使用的平口的，一头插入硬盘就可以了其他的地方不需要插入了。如果电源只有圆口，那么就插入硬盘的圆口电源口即可，都是防呆的插不入的就不是这个口。接着插入好了，把机箱的挡板扣上，连上外接线。注意这时候硬盘是没有系统的，如果把原来的硬盘拆了会造成无法开机的情况。需要安装系统才可以使用。</p>
+<p>Fluent UI在正式推出时改名Ribbon，Office从此告别了菜单的年代，Ribbon从2007年一直保持到了现在。</p>
+<p>Origin科学绘图</p>
+<p>近期墙升级导致搬瓦工无法翻墙的解决方法</p>
+<p>成天干货谁也受不了！<br>我们星球的定位以解闷为主，以科普点儿小知识和小聪明为辅。</p>
+<p>得到一个exe文件<br>用Windows的同学有些不知道<br>exe文件是可以再解压的</p>
+<p>以标称容量为4TB的硬盘为例：十进制计算4TB=4000GB，电脑系统换算成二进制时，实际容量应该是4000GB<em>1000</em>1000<br><em>1000/1024</em>1024*1024=3725.29GB。<br>但由于硬盘出厂时，写入的厂商信息、硬盘信息、固件等文件以及启动引导分区和部分坏块所占用的空间，实际容量将会比3725.29GB更小。</p>
+<p>NFC</p>
+<h3 id="图"><a href="#图" class="headerlink" title="图"></a>图</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1003.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1004.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1011.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1012.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1013.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1014.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1021.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1022.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1023.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1024.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/tips/1002.jpg" alt=""></div></div></div></div>]]></content>
+  </entry>
+  <entry>
     <title>191209-write</title>
     <url>/2019/12/09/191209-write/</url>
     <content><![CDATA[<blockquote>
 <p> 要什么入门，直接上路</p>
 </blockquote>
 <a id="more"></a>
-<h3 id="刘润五分钟商学院"><a href="#刘润五分钟商学院" class="headerlink" title="刘润五分钟商学院"></a>刘润五分钟商学院</h3><p>如何快速毁掉一个人一天的好心情</p>
+<h3 id="刘润五分钟商学院"><a href="#刘润五分钟商学院" class="headerlink" title="刘润五分钟商学院"></a>刘润五分钟商学院</h3><h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><p>那些漫无目的的人生</p>
+<p>张工培训HTP<br>低频下的电器运行效果</p>
+<p>如何快速毁掉一个人一天的好心情</p>
 <h3 id="SolidWork"><a href="#SolidWork" class="headerlink" title="SolidWork"></a>SolidWork</h3><p>font-word:  Open Sans</p>
 <p>工具书</p>
-<h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><p><a href="http://www.360doc.com/content/15/0609/16/25354153_476836483.shtml" target="_blank" rel="noopener">http://www.360doc.com/content/15/0609/16/25354153_476836483.shtml</a><br>78种</p>
+<h3 id="other-1"><a href="#other-1" class="headerlink" title="other"></a>other</h3><p><a href="http://www.360doc.com/content/15/0609/16/25354153_476836483.shtml" target="_blank" rel="noopener">http://www.360doc.com/content/15/0609/16/25354153_476836483.shtml</a><br>78种</p>
 <p>薛定谔的猫</p>
 <p>墨菲定理 （百科：<a href="https://baike.baidu.com/item/%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/746284?fr=aladdin&amp;fromid=65622&amp;fromtitle=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E7%90%86）" target="_blank" rel="noopener">https://baike.baidu.com/item/%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/746284?fr=aladdin&amp;fromid=65622&amp;fromtitle=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E7%90%86）</a><br>墨菲定律根本内容是：如果事情有变坏的可能，不管这种可能性有多小，它总会发生。</p>
 <p>原话是这样说的：If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.(如果有两种选择,其中一种将导致灾难,则必定有人会作出这种选择.)根据“墨菲定律”：<br>　　一、任何事都没有表面看起来那么简单；<br>　　二、所有的事都会比你预计的时间长；<br>　　三、会出错的事总会出错；<br>　　四,如果你担心某种情况发生,那么它就更有可能发生.</p>
@@ -34,11 +319,61 @@
   <entry>
     <title>191209-music</title>
     <url>/2019/12/09/191209-music/</url>
-    <content><![CDATA[<a id="more"></a>
-
+    <content><![CDATA[<blockquote>
+<p>待定</p>
+</blockquote>
+<a id="more"></a>
 <h3 id="歌名"><a href="#歌名" class="headerlink" title="歌名"></a>歌名</h3><p>|明天会更好||    |</p>
-<p>那些漫无目的的人生</p>
-<p>张工培训HTP<br>低频下的电器运行效果</p>
+<p>祝你一路顺风</p>
+<p>讲真的 | 静悄悄  | Monsters-katie sky | 盗将行</p>
+<p>一辈子很短，要爱对的人</p>
+<p>Liekkas Sofia Jannok</p>
+<p>远走高飞</p>
+<p>一曲斜阳</p>
+<p>我们 -陈奕迅</p>
+<p>友情岁月 -郑伊健</p>
+<p>旅行 -许巍</p>
+<p>王妃 -萧敬腾</p>
+<p>为你我受冷风吹</p>
+<p>缘分</p>
+<p>故梦</p>
+<p>潘玮柏、林俊杰、周杰伦</p>
+<p>剑伤 -李易峰</p>
+<p>假如爱有天意 -李健</p>
+<p>岁月神偷 -王玟岐</p>
+<p>七月上 -Jam</p>
+<p>雅俗共赏 -许嵩</p>
+<p>离人愁 -李袁杰</p>
+<p>去年夏天 -魏晗</p>
+<p>光年之外 -邓紫琪</p>
+<p>云烟成雨 -房东的猫</p>
+<p>粉红色的回忆 -韩宝仪</p>
+<p>失恋阵线联盟 -草蜢</p>
+<p>风筝误 -刘珂矣</p>
+<p>离人愁</p>
+<p>我们都一样</p>
+<p>灰色空间</p>
+<p>街角的祝福</p>
+<p>离开</p>
+<p>下一个天亮</p>
+<p>那就这样吧</p>
+<p>我知道</p>
+<p>卡农</p>
+<p>希望 -李宗盛</p>
+<p>少年锦时</p>
+<p>活着</p>
+<p>差一步</p>
+<p>春天里</p>
+<p>那些后来躺在黑名单的人，最开始也都是踩着七彩云朵而来照亮过整个世界。<br>        – 《最佳损友》</p>
+<p>认真喜欢一个人的时候，最怕自己变得无趣。恨不得日夜翻书三百章，什么野史趣史风流史都看上一道儿，什么甜话浑话俏皮话都为你学上一遭，殚精竭虑的恨不能把自己剖开给你看。浑身上下都抖擞这几句话“我超有趣的”“我可有意思了”“你看看我吧”<br>        –《陪你度过漫长岁月》</p>
+<p>你看，这个世界，每个人都有自己难言的苦衷。一个不正经的人突然开始深情，大概是因为情太深，不正经不够用了。</p>
+<p>接着，他拿起吉他，安静地唱起《安和桥》：<br>我知道那些夏天就像你一样回不来，我也不会再对谁满怀期待，我知道这个世界每天都有太多遗憾，所以你好再见。</p>
+<p>《Amazing Grace》（《奇迹恩典》）</p>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/music/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/music/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/music/1003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/music/1004.jpg" alt=""></div></div></div></div>
+
+<h3 id="music"><a href="#music" class="headerlink" title="music"></a>music</h3><h4 id="清白之年"><a href="#清白之年" class="headerlink" title="清白之年"></a>清白之年</h4><pre><code>-- 朴树</code></pre><p>故事开始以前<br>最初的那些春天<br>阳光洒在杨树上 风吹来 闪银光<br>街道平静而温暖<br>钟走得好慢<br>那是我还不识人生之味的年代<br>我情窦还不开<br>你的衬衣如雪<br>盼着杨树叶落下<br>眼镜不眨<br>心里像有一些话<br>我们先不讲<br>等待着那将要盛装出场的未来<br>人随风飘荡<br>天各自一方<br>在风尘中遗忘的清白脸庞<br>此生多勉强<br>此身越重洋<br>轻描时光漫长低唱语焉不详<br>数不清的流年<br>似是而非的脸<br>把你的故事对我讲<br>就让我笑出泪光<br>是不是生活太艰难<br>还是活色生香<br>我们都遍体鳞伤<br>也慢慢坏了心肠<br>你得到你想要的吗<br>换来的是铁石心肠<br>可曾还有什么人<br>再让你幻想<br>大风吹来了<br>我们随风飘荡<br>在风尘中遗忘的清白脸庞<br>此生多寒凉<br>此生越重洋<br>轻描时光漫长低唱语焉不详<br>大风吹来了<br>我们随风飘荡<br>在风尘中熄灭的清澈目光<br>我想回头望<br>把故事从头讲<br>时光迟暮不返人生已不再来</p>
+<h4 id="缘份"><a href="#缘份" class="headerlink" title="缘份"></a>缘份</h4><pre><code>-- 五月天</code></pre><p>就算前世没有过约定<br>今生我们都曾痴痴等<br>茫茫人海走到一起算不算缘分<br>何不把往事看淡在风尘<br>只为相遇那一个眼神<br>彼此敞开那一扇心门<br>风雨走过千山万水依然那样真<br>只因有你陪我这一程<br>多少旅途多少牵挂的人<br>多少爱会感动这一生<br>只有相爱相知相依相偎的两个人<br>才能相伴走过风雨历程<br>多少故事多少相恋的人<br>多少情会牵伴这一生<br>只有相爱相知相依相偎的两个人<br>才能搀扶走过这一生<br>就算前世没有过约定<br>今生我们都曾痴痴等<br>茫茫人海走到一起算不算缘分<br>何不把往事看淡在风尘<br>只为相遇那一个眼神<br>彼此敞开那一扇心门<br>风雨走过千山万水依然那样真<br>只因有你陪我这一程<br>多少旅途多少牵挂的人<br>多少爱会感动这一生<br>只有相爱相知相依相偎的两个人<br>才能相伴走过风雨历程<br>多少故事多少相恋的人<br>多少情会牵伴这一生<br>只有相爱相知相依相偎的两个人<br>才能搀扶走过这一生</p>
 ]]></content>
       <categories>
         <category>lifestyle</category>
@@ -48,10 +383,30 @@
       </tags>
   </entry>
   <entry>
+    <title>movie-ext</title>
+    <url>/2019/12/09/191209-movie-ext/</url>
+    <content><![CDATA[<blockquote>
+<p>ext</p>
+</blockquote>
+<a id="more"></a>
+
+<p>Vegas是一个专业影响编辑软件，现在被制作成为Vegas Movie Studio,是专业版的简化而高效的版本，将成为PC上最佳的入门级视频编辑软件。vegas为整合影像编辑与声音编辑的软件，其中无限制的视轨与音轨，更是其他影音软件所有没有的特性。在效益上更提供了视讯合成、进阶编码、转场特效、修剪及动画控制等。<br>此套视讯应用软件可说是数位影像、串流视讯、多媒体简报、广播等用户解决数位编辑之方案。<br>Vegas被MAGIX公司收购后现在叫MAGIX Vegas,仅支持Win64位系统.</p>
+<p>EDIUS 8 ： 专业， 电视台使用</p>
+<p>premiere</p>
+<p>会声会影</p>
+]]></content>
+      <categories>
+        <category>lifestyle</category>
+      </categories>
+      <tags>
+        <tag>movie</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>191209-movie</title>
     <url>/2019/12/09/191209-movie/</url>
     <content><![CDATA[<blockquote>
-<p>道德只宜律已，不宜律人</p>
+<p><font face="华文楷体">生活本就不团圆，故事就不要再破碎了。</font></p>
 </blockquote>
 <a id="more"></a>
 <h3 id="记录片"><a href="#记录片" class="headerlink" title="记录片"></a>记录片</h3><ul>
@@ -60,12 +415,14 @@
 <li><a href="https://www.bilibili.com/bangumi/play/ep120838/" target="_blank" rel="noopener">走进黑暗网络_纪录片_bilibili</a></li>
 <li><a href="https://www.dandanzan.com/dianying/27496.html" target="_blank" rel="noopener">《燃点》2019年中国大陆</a></li>
 </ul>
-<h3 id="movie"><a href="#movie" class="headerlink" title="movie"></a>movie</h3><h4 id="《Ready-Player-One》"><a href="#《Ready-Player-One》" class="headerlink" title="《Ready Player One》"></a>《Ready Player One》</h4><h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><ul>
-<li><a href="https://www.xiaohx.org/183637" target="_blank" rel="noopener">小浣熊·下载</a></li>
-</ul>
-<h3 id="剧"><a href="#剧" class="headerlink" title="剧"></a>剧</h3><ul>
+<h3 id="movie"><a href="#movie" class="headerlink" title="movie"></a>movie</h3><ul>
+<li>《Ready Player One》</li>
 <li><a href="www.yinghub.com/download/14516/1.html">查理的天使-第1季</a></li>
 <li><a href="https://www.hanfan.cc/8958.html#prettyPhoto" target="_blank" rel="noopener">韩剧《没关系，是爱情啊》中文全集下载(1-16集完结)</a></li>
+</ul>
+<h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><ul>
+<li><a href="https://www.xiaohx.org/183637" target="_blank" rel="noopener">小浣熊·下载</a></li>
+<li>道德只宜律已，不宜律人</li>
 </ul>
 <h3 id="演员"><a href="#演员" class="headerlink" title="演员"></a>演员</h3><p>何冰</p>
 <h3 id="图"><a href="#图" class="headerlink" title="图"></a>图</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1002.jpg" alt=""></div></div></div></div>
@@ -95,7 +452,9 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1049.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1050.jpg" alt=""></div></div></div></div>
 
 
-<h3 id="台词"><a href="#台词" class="headerlink" title="台词"></a>台词</h3><p>剧中单子应该是我见过最棒的男二号了，印象最深的就是他对于皓说的“我很喜欢她，而且从来没有输给过你”。那样笃定而又充满心疼的眼神，让人瞬间沦陷。也许爱情观就是在那个时候被建立的。</p>
+<h3 id="影评-amp-台词"><a href="#影评-amp-台词" class="headerlink" title="影评 &amp; 台词"></a>影评 &amp; 台词</h3><p><img src="/images/movie/2001.jpg" alt=""></p>
+<p>剧中单子应该是我见过最棒的男二号了，印象最深的就是他对于皓说的“我很喜欢她，而且从来没有输给过你”。那样笃定而又充满心疼的眼神，让人瞬间沦陷。也许爱情观就是在那个时候被建立的。</p>
+<hr>
 <p>很多人说这部剧又一次燃起了对台剧的希望。程又青这样的女孩，不是偶像剧里的公主，她就是你，是我，是茫茫人海里渴望幸福却又没得到幸福的人。这部剧唯美的像电影，不做作不发嗲，林依晨和陈柏霖的搭档让人看着舒服，恍惚我总以为自己在看电长大后再看偶像剧，心中不会再风起云涌，新拍的那些风靡一时的偶像剧，已经掀起不了内心的波澜，<strong>也许我们不是喜欢以前的老剧，而是怀念当年那个少女心的自己。</strong></p>
 <hr>
 <p>如果说要给每个季节加个人设，那夏天一定是个爱喝橘子汽水的少女，或者是戴耳机的飞驰着单车少年，热烈、甜而不腻。<br>和夏天有关的电影和歌曲都有很多，像《蓝色大门》<br>《菊次郎的夏天》《穿越时空的少女》，像《七里香》《夏天的风》《小步舞曲》…….有喜悦甜蜜，也有遗憾和心碎。</p>
@@ -214,141 +573,22 @@
       </tags>
   </entry>
   <entry>
-    <title>191208-read</title>
-    <url>/2019/12/08/191208-read/</url>
-    <content><![CDATA[<blockquote>
-<p><font face="华文楷体">只留下让你怦然心动的</font></p>
-</blockquote>
-<a id="more"></a>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1005.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1006.jpg" alt=""></div></div></div></div>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1008.jpg" alt=""></div></div></div></div>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1010.jpg" alt=""></div></div></div></div>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1011.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1012.jpg" alt=""></div></div></div></div>
-<p>C:\Users\Tinyspot\Documents\Tencent Files\2794504255\FileRecv\MobileFile</p>
-<hr>
-<p>张爱玲自己是个天才，是个早熟的天才，然而却喜欢晚熟的天才。</p>
-<p>这大概是个怪癖，就像她出身于一个家族史颇为辉煌的世家，却屡屡染指社会底层的写作一样。她介绍爱默生，就介绍得有趣：“爱默生在1803年生于波士顿。他早年是一个严肃的青年。他的青春与他的天才一样，都是晚熟的。他的姑母玛丽是一个不平凡的人，他很受她的影响。无疑地，她对于他的成功有很大的帮助。”读到这里，我们必须得笑了，张爱玲受姑姑的影响就很大，所以，即使是介绍作家，她也要介绍一个同样受姑姑影响大的人，好玩。</p>
-<p>另外，张爱玲是个热爱八卦的女人，在介绍爱默生的时候，不忘记介绍爱默生的怪癖，爱默生写了五十年的日记，但多是写理论。他一生结了两次婚，而在结婚那天，都只是记下一行文字，实在是精练之至。这个世界上最深情的文字大概都应该是简练的吧。</p>
-<p>关于情到浓时的简约和精练，张爱玲也这样试过：“噢，原来你也在这里。”</p>
-<hr>
-<p>不专，以致离婚再娶…陆小曼！你要认真做人，你要尽妇道之职。你今后不可以妨害徐志摩的事业……你们两人都是过来人，离过婚又重新结婚，都是用情不专。以后要痛自悔悟，重新做人！<br>愿你们这是最后一次结婚！”</p>
-<p>梁启超在20世纪20年代的影响，差不多相当于今天的季羡林，又或者更有影响的文化名流。有一个在坊间流传的笑话颇值得一说。梁启超的文字从来感情充沛，很有煽动力，他的政论文字每一篇都能惊风带雨。1921年，一个奥地利提琴大师来京演出，梁启超大约是听了以后感觉颇好，便写了一篇吹捧文字在《晨报》发表，但他的文字大概过于犀利，他说：“如果不前去东城真光电影院聆听这位音乐家演奏，便是没有文化水平的野蛮人！”他的这篇文字见报之后，竟然像一场洪水流于北京各大院校，演奏厅里开始人满为患，票价一路攀升，直至找关系走后门，才能购到一张高价票。于是，北京的当铺生意都好起来了，一些家境不好的学子为了能亲耳听到这场演出，纷纷典当衣物去买票。据说，这篇文章还影响到当时民国政府的总统黎元洪。黎元洪自然也不愿意当“野蛮人”，</p>
-<hr>
-<p>堂，一连开三场。这是他走红前的绝美预热，是《Monica》诞生之前的华丽振翅。可惜的是，视频资料已经难觅踪迹，能找到的只有现场的CD录音，我们只能听着歌声和气息，恣意想象他当时的状态和心情。<br>据说曼谷演唱会每场仅能容纳一千四百多人，谁也没有想到，两年之后，张国荣的演唱会将万人空巷。<br>如果当初真的一夜成名，会否是件幸事？显然不是。<br>命运玩了次先抑后场的大手笔，让你在低合绝境之处，得到深刻的阅历，也收获了患难之交，更觅得知心的爱人。好风凭借力，平步青云之时，皱过的眉头凝结成沧桑，流过的泪水清洗了浮华，曾经的苦难都变得充满意义。<br>他的时代就这么来了。听，迟到的掌声将经久不息。</p>
-<hr>
-<p>有记者在采访时问张国荣：“你认为‘四大天王’谁最出色呢？”</p>
-<p>张国荣笑着说，自己和他们都是好朋友，这么敏感的问题不讲也罢。华仔很有格，他的影视成绩助推了在歌坛的发展。唱歌最动人的是张学友，可惜在外形上略输其他三位。</p>
-<p>当然，张国荣这些点评都是后来的事。</p>
-<p>自一九九三年开始，要不要回归歌坛，成了他内心最挣扎的问题。长江后浪推前浪，娱乐圈更新换代的速度越来越快，如果换作旁人，恐怕位居江山已改，担心再度归来能否延续神话。在此期间，宣布退出音乐奖项的谭咏麟依然在不断发片，他的音乐风格越来越自我，销量也算可观，但势头已经大不如前。</p>
-<p>张国荣如果再唱，又会唱成怎样，能否在新人盘踞的江山中抢回王位？</p>
-<p>他毕竟不是别人，如若某一天重拾话筒，也用不着意外。不过是兴趣所致，随性而为罢了。</p>
-<hr>
-<p>“八十年代末就是流行浪子的风格，那种说走就走的潇洒。”一个歌迷如是说。</p>
-<p>经纪人陈淑芬说，他离开舞台之后，还会情不自禁地唱，我便知道，他是不可能真正放弃唱歌的，复出是迟早的事。的确，那五年，他唱歌的机会，就是微醺之后的 KTV 话筒，吼到声嘶力竭后不肯罢手。</p>
-<p>这并不算潇洒。</p>
-<p>告别，应该是对安静的渴求吧。有时高处不胜寒，有时高处不胜烦。</p>
-<h2 id="——-摘自《不如我们从头来过：张国荣传》"><a href="#——-摘自《不如我们从头来过：张国荣传》" class="headerlink" title="—— 摘自《不如我们从头来过：张国荣传》"></a>—— 摘自《不如我们从头来过：张国荣传》</h2><p>当然，并不是所有的人被限定的方式都一样。美好新世界里，人类被分成了五级：阿尔法（Alpha）、贝塔（Beta）、伽马（Gamma）、德尔塔（Delta）以及埃普西隆（Epsilon）。阿尔法被限定得聪明漂亮，而埃普西隆以下的人不但被限定得矮小愚钝，还批量生产。不过没关系，虽然在那个世界里人有等级贵贱，但是他们都一样幸福——因为无论哪个等级，其接受的“睡眠教育”都会告诉他，他所在的等级是最美好最幸运的。</p>
-<p>这样的世界，有什么问题吗？</p>
-<p>—— 摘自《美丽新世界》</p>
-<hr>
-<p>这当然应该归功于我二十岁之后对于历史的喜爱，虽然还没有爱得死去活来，但有问题没搞明白时，我总会茶饭不思，这让我有足够的动力来了解更多的历史知识。</p>
-<p>不过我要说的不是这个，而是同样的历史，为什么二十岁之后的我会如此感兴趣？</p>
-<p>不管你信不信，原因是：二十岁时我在上大学，大学没有历史课。</p>
-<p>我绝无意否定我们的历史课教育，它普适、严谨，对于大众基础教育来说，已经做得足够好了，我只是在想，能不能做到更好？如果跳出课堂，历史会变成什么样？还会这么高冷吗？</p>
-<p>—— 摘自《半小时漫画中国史》</p>
-<hr>
-<p>金庸后来声名鹊起，夏梦却没露过半点后悔的口风。她对他的感觉，就像《白马啸西风》中李文秀说的一样：那些都是很好很好的，偏偏我不喜欢。</p>
-<p>金庸和夏梦的一段情，说到底只不过是场单恋，从头到尾都是一厢情愿，唯其旷日持久，轰轰烈烈，也称得上是“痴心情长剑”了。</p>
-<hr>
-<p>这样决绝的拒绝让金庸伤透了心，可是同时他对夏梦的痴迷更加深刻，甚至可以从金庸的每一部小说当中找到夏梦的影子，夏梦是天龙八部中的王语嫣，是神雕侠侣中的小龙女。金庸曾经说过，若是世间真有西施，那也应该是夏梦那般样子吧。</p>
-<hr>
-<p>“真的不用，我家住得这么近，何必麻烦。”</p>
-<p>“我正好有事要出去。”张国荣每次都这样说。</p>
-<p>“真的不必这么在意我啦！”何冀平觉得无须这样面面俱到的体贴。</p>
-<p>“何老师，剧本是你，故事也是你。”</p>
-<p>何冀平心头一热，她从事电影创作这么多年，第一次遇到这样的导演，把大任所寄直接表达出来，不惜“往出让”。</p>
-<p>“导演，‘故事’是你啊！”</p>
-<hr>
-<p>张柏芝比张国荣小二十四岁，论起年纪辈分，都可以做父女了。她当时只有一部《喜剧之王》撑着简历表，在表演上只有天赋，没什么经验。面的张国荣这位前辈，她跟万千粉丝一样，把他尊为“神一样的人物”，演对手戏的时候经常慌手乱脚地忘了词，一个镜头反复NG。张国荣的脾气必然比周星驰好太多，耐心地教她走位，保证表演顺利完成。成片播放后，不少人惊呼，两人看上去那么登对，气场毫无违和感。</p>
-<p>“你会跟哥哥谈恋爱吗？如果有机会的话。”有人问。</p>
-<p>“他是天上人啊！我怎么敢想！”</p>
-<hr>
-<p>张国荣被包围在灯光与喝彩声中，他知道在观众的人潮中，有一个人正在注视着他，在人群散尽后，坐在车里等着他回家。</p>
-<p>在后来接受毛舜筠采访时，张国荣说：“唐先生就像我的兄长，家人，他是主赐给我的礼物。”那一瞬间，表情流露出甜蜜和柔情。</p>
-<p>唐鹤德的事业跟张国荣齐头并进，他以优秀的专业素养和工作能力，在公司干得如鱼得水，他开始帮张国荣打理财务，两人的生活真正相融。</p>
-<p>情路多舛，几度周转，最后陪在身边的，竟然是年幼时打过照面的那个男孩。人生如此离奇，从一开始就埋好了伏笔，只待你寻着宿命的脉络，跟他最终交会。</p>
-<hr>
-<p>2006 年，腾讯公司有一张招贴画，战场硝烟弥漫，一只表情十分严肃的小企鹅，驾驶着一架战斗机，机枪口猛烈地喷射着通红的火舌。</p>
-<p>这是腾讯的风格：不停地战斗。马化腾很喜欢企鹅，这种动物看起来很文雅，很绅士，也很好斗。</p>
-<hr>
-<p>马化腾认识到，一切从头开始的开发，不是一件简单的事情。自己研发的风险太大，还是走模仿的路子稳妥。</p>
-<p>“我不盲目创新，微软、Google 做的都是别人做过的东西。最聪明的方法肯定是学习最佳案例，然后再超越。”</p>
-<p>“模仿是最稳妥的创新。”</p>
-<p>马化腾坚信，尾随是最稳妥的产品开发策略。</p>
-<p>要模仿，就得先找出模仿的对象。</p>
-<p>韩国是腾讯最主要的学习地方。“在美国，赚钱主要按广告模式收费的，在中国比较难，韩国的增值服务非常发达，这点非常适合中国。”马化腾说。</p>
-<p>2002 年 11 月，王远到韩国考察当地互联网发展情况，开发出了火爆的 QQ 秀。2006 年 9 月，腾讯在韩国汉城设立办事处，收集韩国的互联网信息，特别是韩国的网络游戏，腾讯的很多游戏都是从韩国学来的。</p>
-<hr>
-<p>鲍岳桥坐不住了，他仔细研究 QQ 游戏后发现，从平台到游戏设计，QQ 游戏很多都是联众游戏的翻版。</p>
-<p>2004 年 9 月，QQ 游戏平台将联众赶下了“中国第一休闲游戏”门户的宝座。联众的业绩一路下滑，然后，联众只好出售，转型，经历了一系列风波后，联众在中国网络游戏市场份额已不足 1%。</p>
-<p>2006 年年底，鲍岳桥离开联众，成为了一名天使投资人。现在他做投资的原则之一就是： 只做腾讯不会做，不能做的项目。</p>
-<p>马化腾挟数亿活跃用户做游戏的时候，联众的结局早就注定了。</p>
-<hr>
-<p>2005 年 12 月，戴志康盘算着，卖软件赚的钱总是有限的，服务的收入是无穷无尽的，就像买水龙头一个可以用很多年，而水龙头里的水每天都要用，产品就是水龙头，服务就是自来水。“我决定产品完全免费，你们看怎样执行吧。”戴志康对同事说。从此 Discuz! 开始转入“产品免费、服务收费”的时代。</p>
-<p>免费之后，几乎每天都有 1000 多个网站安装 Discuz!, 用户规模急剧上升，每个月软件的安装量、使用量比以前翻了 10 倍以上，现在一个月的用户量相当于过去一年的用户量。2006 年，Discuz! 已经成为全球用户数最多的 PHP 论坛软件之一。现在，康盛创想开发出了 X-Space 和 SupeSite 社区门户软件系统，成为了一家面向社区提供全方位技术服务的全业务提供商。</p>
-<hr>
-<p>初次见面，让万能有些出乎意料，他想：即使杜莎夫人那里的蜡像，也比这位先生的表情丰富得多。</p>
-<p>刚才交谈的时候，让万能仔细打量了一下福格先生。他的这位新主人四十岁左右，身材魁梧，稍稍有些发福，五官端正，金黄的须发，脸色白里透红，雪白的牙齿非常整齐，眼角也没有鱼尾纹。他沉稳、淡定，目光清澈，具备英国绅士那种典型的泰然自若的风度。从他的一举一动看，他就像一架精密的计时器一样，四平八稳，准确无误。总的来说，他看起来就是一个标准的实干家。</p>
-<p>菲利斯·福格确实是那种做事精确到极致的人，从不多费一点事。他遇事从不着急，做事永远有条不紊；他从不浪费哪怕一个动作，就连走路也不愿意绕弯；他从不东瞅西看，就连多余的手势都不打一个。没人见过他激动，也没人见过他慌张，他可能是这个世界上最散淡的人。但他又非常守时，从不拖沓。人们认为这是他长期独自生活养成的习惯。说来也对，他认为和人交往容易被琐事羁绊，干脆就不和任何人交往。<br>—— 摘自《八十天环游地球》</p>
-<hr>
-<p>平鑫涛为什么会选择她？正是因为他看到了她柔弱外表下的无限潜力。</p>
-<p>有了琼瑶后，《皇冠》的发行量从几千份飞跃到了几万份，后来又成立了火鸟影视公司。</p>
-<p>他们才是真正的强强联手。棋逢对手，谁也不肯放对方走。</p>
-<hr>
-<p>他借报纸上的专栏一再向她示好，在《三剑楼随笔》中故意俏皮地提及，法语中表示”动人的、可爱的”的词语与“夏梦”二字谐音。</p>
-<p>他还特意为她导演了一部电影《王老虎抢亲》，被人视作对夏梦发起的最后进攻。<br>如此风雅的示爱方式，夏梦却丝毫不为所动，而是选择嫁给了商人林葆诚。两年后，金席娶了朱玫，两人自此后以朋友相处。</p>
-<p>金庸始终关注着夏梦。她移民加拿大时，他特意写了一篇诗意盎然的评论为她钱行——《夏梦的春梦》；她去欧洲旅游，他特意在《明报》为她开辟了旅游专栏，可谓绝无仅有；她重回香港时，也得到了《明报》大篇幅的报道。</p>
-<p>他对她的倾慕持续了大半生，可她始终都是淡淡的。旁人问起金庸，她就说：“我不大看武侠小说</p>
-<hr>
-<p>对于那些红极一时的女明星，观众总是喜欢用她们演过的经典角色来指代她们。</p>
-<p>林青霞是永远的东方教主，赵雅芝是永远的白娘子，关之琳是永远的十三姨，翁美玲是永远的黄蓉，而王祖贤呢，则是永远的小倩。</p>
-<p>《倩女幽魂》横空出世后，小倩就成了她的终身代号。</p>
-<p>世上美丽的女子千千万，但几乎没有一个人像她那样，可以将女鬼的仙气与妖精的媚气集于一身。</p>
-<hr>
-<p>那是王祖贤最幸福的时期，她去上《今夜不设防》时，笑意满得都要从眼睛里溢出来，对着镜头憧憬地说：“一个女孩子总要有个归宿，我想我肯定会结婚的。”</p>
-<p>那个时候她还太年轻，根本不知道未来有什么在等待着她。人在年轻的时候，大多不知道未来有什么在等待着。</p>
-<p>我们只是无端地感到快乐，以为会称心如意一辈子。</p>
-<hr>
-<p>她参加湖南卫视的《偶像来了》，人们惊喜地发现，她还是那么爱笑，还是那么快人快语。</p>
-<p>曾经令人仰望的紫霞仙子从云端走了下来，开始落入凡尘，这未尝不是一件好事。</p>
-<p>肆</p>
-<p>分手二十年后，再次提起周星驰时，朱茵终于松口说，如果有好的作品，不会拒绝和他合作，随即补充说：“既然已经找到了属于自己的灵魂伴侣，又何必在他人身上多费力气呢？”</p>
-<p>这说明她真的放下了。</p>
-<hr>
-<p><a href="http://m.zhangyue.com/readbook/11599049/3.html?p2=109574" target="_blank" rel="noopener">乡野闲人-要饭的</a></p>
-<hr>
-<p>秋季广交会上摆了很多盆菊花。广交会结束了，菊花还没有完全开残。有一个日本商人问管理人员：“这些花你们打算怎么处理？”答云：“扔了！”–“别扔，我买。”他给了一点钱，把开得还正盛的菊花全部包了，订了一架飞机，把菊花从广州空运到日本，张贴了很大的海报：“中国菊展”。卖门票，参观的人很多。他捞了一大笔钱。这件事叫我有两点感想：一是日本商人真有商业头脑，任何赚钱的机会都不放过，我们的管理人员是老爷，到手的钱也抓不住。二是中国的菊花好，能得到日本人的赞赏。</p>
-]]></content>
-      <categories>
-        <category>summary</category>
-      </categories>
-      <tags>
-        <tag>read</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>191208-funimg</title>
     <url>/2019/12/08/191208-funimg/</url>
     <content><![CDATA[<blockquote>
 <p>跑步机人生 </p>
 </blockquote>
 <a id="more"></a>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-01.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-02.png" alt=""></div></div></div></div>
-
+<h3 id="fun"><a href="#fun" class="headerlink" title="fun"></a>fun</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-01.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-02.png" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-03.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-04.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img src="/images/funtime/code-10.jpg" alt=""></div></div></div></div>
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/001-thing.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/002.jpg" alt=""></div></div></div></div>
+<p><img src="/images/funtime/argot-01.png" alt=""><br><img src="/images/funtime/argot-02.png" alt=""><br><img src="/images/funtime/argot-03.png" alt=""></p>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-002.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-004.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-005.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/fun-006.gif" alt=""></div></div></div></div>
+
+<h3 id="img"><a href="#img" class="headerlink" title="img"></a>img</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/001-thing.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/002.jpg" alt=""></div></div></div></div>
 
 <p><img src="/images/funtime/003.png" alt=""></p>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1002.png" alt=""></div></div></div></div>
@@ -383,7 +623,7 @@
 
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1031.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1032.png" alt=""></div></div></div></div>
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1033.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1034.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1033.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1034.png" alt=""></div></div></div></div>
 
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1035.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1036.png" alt=""></div></div></div></div>
 
@@ -444,11 +684,6 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1091.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1092.png" alt=""></div></div></div></div>
 
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1093.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1094.jpg" alt=""></div></div></div></div>
-
-
-<p><img src="/images/funtime/code-10.jpg" alt=""></p>
-<p><img src="/images/funtime/argot-01.png" alt=""><br><img src="/images/funtime/argot-02.png" alt=""><br><img src="/images/funtime/argot-03.png" alt=""></p>
-<p><img src="/images/funtime/fun-003.png" alt=""><br><img src="/images/funtime/fun-004.png" alt=""><br><img src="/images/funtime/fun-005.jpg" alt=""><br><img src="/images/funtime/fun-006.gif" alt=""></p>
 ]]></content>
   </entry>
   <entry>
@@ -459,6 +694,7 @@
 </blockquote>
 <a id="more"></a>
 
+<p><a href="https://zhuanlan.zhihu.com/p/64176449" target="_blank" rel="noopener">程序员调Bug的真实写照</a><br>最后干脆撂挑子不干了！破罐破摔了！</p>
 <p>脑进水了，该养什么鱼在里面？</p>
 <p>花一般的年级，却长成了多肉</p>
 <p>妈妈，我能看电视吗？<br>当然可以，但就是不能打开它。</p>
@@ -484,6 +720,7 @@
 <p>我们的关系以”我可以认识你吗”开始，以”我算是认识你了”结束。</p>
 <p>有钱就能为所欲为吗？对没错有钱就能为所欲为！<br>尊敬的心悦会员3级用户您好，由于您使用非法游戏外挂引起多名用户举报，为了维护游戏公平原则，我们再此郑重提醒您，举报您的用户已封号。</p>
 <p>你说什么？我手机聋了听不见</p>
+<p>1000万人民币有多重<br>新版一百元纸币净重1.15克<br>一千万就是115千克<br>至少四个行李箱才放得下<br>四个彪形大汉勉强能扛走<br>电视里提着小匣子的都是骗人的</p>
 <p>—— 怎么宠男生？<br>—— 这种送命题，啧啧，我又不傻</p>
 <p>整个下半年都是存不住钱的<br>10月的工资贡献给双十一<br>11月的工资贡献给花呗信用卡<br>12月的工资贡献在回家的路费上<br>1月的工资还没拿到手却要马上上交给春节</p>
 <p>每一次见面以“终于约到你了”开头，“下周再约”结束。这再见来不及握手，一别又是几个月，下次见面的时候正好攒了足够的八卦来支撑一顿饭的对话。</p>
@@ -561,102 +798,10 @@
 <h4 id="有哪些很短却很悲伤的故事？"><a href="#有哪些很短却很悲伤的故事？" class="headerlink" title="有哪些很短却很悲伤的故事？"></a>有哪些很短却很悲伤的故事？</h4><p>知友：张金新<br>“你还记得她吗？”<br>“早忘了，哈哈”<br>“我还没说是谁…”</p>
 <h4 id="如果现在是北京时间早上八点整，我飞往巴黎，到达后巴黎当地时间为早上八点整，请问我的生命相对延长了吗？"><a href="#如果现在是北京时间早上八点整，我飞往巴黎，到达后巴黎当地时间为早上八点整，请问我的生命相对延长了吗？" class="headerlink" title="如果现在是北京时间早上八点整，我飞往巴黎，到达后巴黎当地时间为早上八点整，请问我的生命相对延长了吗？"></a>如果现在是北京时间早上八点整，我飞往巴黎，到达后巴黎当地时间为早上八点整，请问我的生命相对延长了吗？</h4><p>知友：白如冰<br>你把表的电池扣了你是不是就不死了。</p>
 <h4 id="浅睡眠的人，女朋友睡觉黏人怎么办？"><a href="#浅睡眠的人，女朋友睡觉黏人怎么办？" class="headerlink" title="浅睡眠的人，女朋友睡觉黏人怎么办？"></a>浅睡眠的人，女朋友睡觉黏人怎么办？</h4><p>知友：锦衣<br>小学时，每次没交作业，老师就罚我去擦黑板。并不是黑板不干净，而是因为我没交作业。</p>
-<h3 id="教育"><a href="#教育" class="headerlink" title="教育"></a>教育</h3><h4 id="你会过马路吗？"><a href="#你会过马路吗？" class="headerlink" title="你会过马路吗？"></a>你会过马路吗？</h4><p>再来讲一则笑话：一个中国男生在国外交了一个外国女孩，一次一起过马路时，见红灯，无人，则穿过马路，次日，两人分手了，男人不解，女孩说：连马路都会闯，以后有什么事不会干：不久，中国男生交了中国女孩，这次红灯、无人，等候，次日，两人分手，男生不解，女孩说：连红灯都不敢闯，以后还能干什么。所以说，做人难，难做人，做中国人，难。那到底该怎么做呢？小时候，老师就有教过，过马路时要一看二慢三通过，当然要理论联系实际，那实际我们表现出来的情况是怎样的呢？看谁胆大，一溜烟跑，或者，聚在一起，手牵手，大步一起走。我个人觉得大学生挺纠结的，有时有什么急事，匆匆忙忙赶到了十字路口，觉得自己是个大学生，要有良好的素质，等着吧，后来，有一些人开始就走了，看着渐行渐远的人们，再看看站在原地的自己，感觉傻傻的，最后纠结来纠结去，对自己下很狠心地说：“下次不要这样了”，于是一股脑儿冲向对面的马路狂奔而去。</p>
+<h4 id="你会过马路吗？"><a href="#你会过马路吗？" class="headerlink" title="你会过马路吗？"></a>你会过马路吗？</h4><p>再来讲一则笑话：一个中国男生在国外交了一个外国女孩，一次一起过马路时，见红灯，无人，则穿过马路，次日，两人分手了，男人不解，女孩说：连马路都会闯，以后有什么事不会干：不久，中国男生交了中国女孩，这次红灯、无人，等候，次日，两人分手，男生不解，女孩说：连红灯都不敢闯，以后还能干什么。所以说，做人难，难做人，做中国人，难。那到底该怎么做呢？小时候，老师就有教过，过马路时要一看二慢三通过，当然要理论联系实际，那实际我们表现出来的情况是怎样的呢？看谁胆大，一溜烟跑，或者，聚在一起，手牵手，大步一起走。我个人觉得大学生挺纠结的，有时有什么急事，匆匆忙忙赶到了十字路口，觉得自己是个大学生，要有良好的素质，等着吧，后来，有一些人开始就走了，看着渐行渐远的人们，再看看站在原地的自己，感觉傻傻的，最后纠结来纠结去，对自己下很狠心地说：“下次不要这样了”，于是一股脑儿冲向对面的马路狂奔而去。</p>
 ]]></content>
       <tags>
         <tag>funtime</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>191207-company</title>
-    <url>/2019/12/07/191207-company/</url>
-    <content><![CDATA[<a id="more"></a>
-
-<p>2018《互联网周刊》&amp;eNet研究院选择排行</p>
-<p><a href="http://tech.sina.com.cn/csj/2018-11-17/doc-ihnyuqhh6042529.shtml" target="_blank" rel="noopener">理性蜕变中的张一鸣</a></p>
-<p>《生活小妙招》鞋子磕脚的小妙招和受伤<br>护理的窍门</p>
-<p>海底捞刚进北京的时候，租第一个店面就被骗了。整整300万，是张勇账上所有的现金。对方背景强劲，这笔钱完全追不回来。</p>
-<p>张勇说，当时负责的主管经理急得好几天吃不下饭，张勇都不敢给他打电话。后来听说这群人要找黑社会解决骗子，他才给主管经理打了电话。</p>
-<p>他说，你们就值300万？干点正经事吧。（大体是自己不要犯法去帮公司追钱的意思）</p>
-<p>他说，他心疼，但是他不怨员工，将心比心，是他自己去办也会受骗。</p>
-<p>张勇有一次被问到，有今天的成功，是因为什么。</p>
-<p>张勇答，可能是因为我比较善良吧。</p>
-<p>结尾，我想讲一个另外一家企业的小故事。顺丰，有一次我妈给我寄快递，两千八百多公里，次日早晨就到了。</p>
-<p>因为顺丰经常给我送快递，那个大姐也比较熟络，我顺口说了一句：真快啊。</p>
-<p>大姐接话到：那是，你也不看看是谁在送。她讲这句话的时候，眼睛闪光，下巴微翘。</p>
-<p><strong>这种自信的表情，我在海底捞的员工脸上也见过。</strong></p>
-<hr>
-<p>人人网就是这个时期一个很好的一个例子，陈一舟虽然使得校内网迅速铺开在北京及全国高校风靡，成为中国版的“Facebook”，然而，人人只“抄”到了型，没有抄到“神”，并没有在这批”高校用户“的SNS关系上建立核心的护城河，只能成为昙花一现的社交产品。</p>
-<p>而BAT之所以能在抢占中国互联网最肥沃的土壤中脱颖而出，很重要的一点在于，<strong>它们抓住机会，将国外互联网巨头们商业模式，进行了中国特色化</strong>。虽说中国独立市场所带来的规模优势、意识形态等方面的原因起到了一定的产业保护效应，但是背后的根本原因在于：BAT将国外巨头的商业模式进行了本土化接地气改造，更适应那个阶段的中国用户。</p>
-<hr>
-<p>美团是因为无与伦比的地推+运维能力才在百团大战中脱颖而出，头条用的是别具一格的用算法+信息流的模式改写用户获取的方式，成为互联网注意力生意中不可小觑的力量。我们再往小的说，这种差异化能力，类似于淘宝阴影之下：用“导购“崛起蘑菇街、用”物流“开出一片天地的京东、用“去库存”“活下来的唯品会。拿做母婴的贝贝网来说，现在收获了垂直母婴市场70%的市场份额，日活数据跻身中国电商top5，非标品这一利润空间更大的护城河更是占据了平台总业务的85%，成为其规模性盈利的利器。</p>
-<p>而怎样才能巧妙的借力？<strong>答案是利用BAT的资源，在跨行业中进行创新</strong>。这是针对那些被巨头看中的企业而言，利用巨头所主导的“大数据+资本+合作”的模式进行跨行业的创新。例如，滴滴获得了巨头的资本和资源，利用腾讯的微信入口获得大量流量，但是同样滴滴能够在入口上叠加其他的业务，从而形成下一代的入口平台，这个创新是非常强大</p>
-<hr>
-<p>90年代的股票，10年的房地产，17年的比特币和消费升级，这个时代不缺机遇，只要你用心，有耐心，未必会成为首富，但实现普通人的资产增值保值还是不难的。</p>
-<p>一夜暴富总是很难的，但慢慢挣钱相对容易很多。</p>
-<p><strong>只可惜，这个世界绝大部分人，都喜欢做难的事情，而不做容易做的事情。</strong></p>
-<p>希望你不要这样。</p>
-<hr>
-<p>我记得李彦宏还说过，这些年来，百度一直被认为是占了Google退出中国的便宜，百度无法证明一件没有发生的事情。</p>
-<p>真的是一件“没有发生”的事情吗？</p>
-<p>最早从2004年开始Google在中国的访问就趋于不稳定，什么原因大家心知肚明，许多人就是因为Google的不稳定才弃用的。</p>
-<p>在2010年正式退出中国之前，谷歌在这片土地上早已经不是一个能正常使用和倚赖的网站了，这难道不是你百度的“政策红利”？2010年4月，谷歌刚一退出，百度的净利立马增长近1.6倍，这难道不是悄百度的“政策红利”？</p>
-<hr>
-<p>那段时间，他每天从早上谈到晚上一两点。</p>
-<p>最终，他找来了谷歌的林斌、金山的黎万强、微软的黄江吉以及摩托罗拉的周光平等14个人。这些人，共同组成了小米的初创团队。</p>
-<p>2010年4月6日，在离金山总部不远的银谷大厦807室，黎万强的父亲端来了一锅熬好的小米粥，几个创始人一人喝了一碗，小米就算成立了。</p>
-<p>而之所以叫小米，是因为mi是mobile Internet（移动互联网）的缩写，其次mi还是mission impossible的缩写，意味着小米要完成不可能完成的任务。此外，雷军还希望用小米加步枪的精神去创业。</p>
-<hr>
-<p>Ray Dalio的经典视频《How The Economic Machine Works》值得反复观看，他提供了一个很好的思维模型去处理复杂的关乎周期（风口）的随机现象。</p>
-<p>每一个人、每一个公司都会一些明亮的时刻，例如你的学生时代、你工作顺畅的那两年，不太会有一种源自内心深处的关乎生存的恐惧感。这样的时刻很明媚，让你感觉一切都可以慢慢来。不用急着选A或者选B，反正在这样的状态中，A或者B都会倾入囊中。</p>
-<p>有这样想法的一个潜意识心理是：这样的明媚时刻可以一直持续，甚至越变越好。</p>
-<hr>
-<p>来安利个VSCode插件，扩展商店搜“Gitbook kit”，编辑Gitbook的，代替那个难用的Gitbook编辑器。</p>
-<hr>
-<p>这看似是一个战术问题，实则应该提升到战略上来解决，俗话说：不要用战术的勤奋掩盖战略上的懒惰。</p>
-<p>举个例子：华为初期抄小米就抄的非常成功，因为余承东知道华为初期最弱的是：营销推广和渠道，刚开始和360没谈拢，最后选择小米作为标杆。小米做任何营销活动48小时内华为必有类似动作，反应之快令小米汗颜。产品上也是小米推出廉价机新品牌“红米”之后，华为荣耀紧接着推出了“畅玩”。这种打法使华为“荣耀”新品牌的手机销量在一年之内从100万部增加到2000万部。这也应验了我上次留言中说的要有稀缺和不可复制的竞争壁垒，才不容易短时间被超越。显然营销渠道和模式在华为面前没有任何竞争壁垒，学到就可应用。反过来别人去抄华为就得掂量了，华为自有5千多项专利就不是说抄就抄的啦。</p>
-<hr>
-<p>靠谱的区块链千篇一律，不靠谱的区块链各掉各的链子</p>
-<hr>
-<p>三、中国5G为何能够领跑？<br>“1G空白、2G跟随、3G参与、4G并跑”基本可以概括中国通信行业的发展历程，到了5G时代，中国则有望实现领跑。</p>
-<hr>
-<p>type-C 支持双向输出充电<br>支援 QC 快充的充電器一定會有一個小小的 QC 快充標誌，上面還會有小小數字註明是第幾代的QC快充。 </p>
-<p>有人的地方就有江湖，有江湖就有风波。BAT之后，好事者又演绎出“TABLE”。其中，TAB是BAT，L指雷军，E指周鸿祎。于是，互联网牌局从斗地主变成了炸金花。</p>
-<p>不料，“TABLE”又有了2.0版本：“TAB”是BAT，“LE”却合指一家公司——乐视。好嘛，互联网牌局从炸金花又变成了打麻将。s</p>
-<p>NSS分别是中文互联网最早一代的三个霸主新浪、搜狐、网易<br>“BAT”，分别是百度、阿里、腾讯<br>TMD分别是头条、新美大和滴滴，清一色的少壮派。<br>江湖也有另外一种说法，认为TMD的M是指小米</p>
-<p>那你一定要选好行业，选好公司，然后长时间沉淀，厚积薄发</p>
-<p>江浙沪凭啥就包邮？<br>江浙沪是电商巨头<br>和快递巨头的诞生地</p>
-<p>愿你一生有山可靠，有树可栖。与心爱之人，春赏花、夏纳凉、秋登山、冬扫雪。道一声：余生还长，请多多指教。</p>
-<p>温而厉的君子，我认为这是对吴军老师合适的形容</p>
-<p>浮躁，是因为红利得来太容易</p>
-<p>诸位读者在读这篇文章之前请先举个手，有没有谁听说过CAP理论，又有谁明白CAP理论到底是个什么东西的？作为新时代的码农和数据工程师，在大数据的浪潮下要是连CAP都不知道的话，那么我相信很容易这会成为诸位面试新职位的一个CAP，也会让大家在大数据时代显得特别的无知。</p>
-<p>简单回顾一下CAP的历史，2000年由UC Berkeley的Eric Brewer提出，并由2002年被MIT的俩大牛证明，是目前一切重要的大数据和分布式系统的基础指导理论，所谓的CAP实际上是：Consistency， Availability 和 Partition Tolerance。</p>
-<p>CAP理论是一个典型的worst case analysis，问题说一个网络平时不会莫名其妙断开</p>
-<p>命运这东西，向来欺软怕硬。</p>
-<p>你不认输，就不会输。</p>
-<p>不读书，你要青春干嘛？</p>
-<p>『名人』与『凡人』的区别</p>
-<p>1、名人用过的东西叫文物，凡人用过的东西叫废物；<br>2、名人年龄大了叫李老、张老，凡人年龄大了叫老李、老张；<br>3、名人发牢骚叫忧国忧民，凡人发牢骚叫杞人忧天；<br>4、名人外出叫考察，凡人外出叫玩耍；<br>5、名人的婚外情叫风流韵事，凡人的婚外情叫伤风败俗；<br>6、名人的酗酒叫豪饮，凡人的酗酒叫贪杯；<br>7、名人沉迷娱乐叫享受生活，凡人沉迷娱乐叫虚度光阴；<br>8、名人守旧叫发扬传统，凡人守旧叫顽固不化；<br>9、名人发脾气叫有魄力，凡人发脾气叫没修养；<br>10、名人耍酷叫有个性，凡人耍酷叫神经病；<br>11、名人做蠢事叫佳话，凡人做蠢事叫犯儍；<br>12、 名人放屁是生理的需求，凡人放屁是没礼貌；<br>13.名人在两会提意见叫提案，凡人提的意见叫“扯蛋”……</p>
-<p>中国城市的分类<br>中国的城市可以被分为三类：<br>一是像西安那样的普通城市，春夏秋冬顺序播放；<br>二是像昆明那样的文艺城市，春季单曲循环播放；<br>三是像长沙这样的任性城市，城市中的战斗机，战斗机中的VIP，春夏秋冬随机播放。今天18度，明天5度，后天20度。让人每天都很忙，忙着穿秋裤，脱秋裤，洗秋裤，收秋裤，找秋裤，穿秋裤……真是众里寻它千百度，你要几度就几度！</p>
-<p>啥叫春天？<br>春天就是：你以为春暖花开了，于是脱了秋裤，第二天又得穿上了！</p>
-<p>这样有「陈独秀」素质的人，一生就在等待伯乐，等待属于他们的大场面</p>
-<p>求伯君，那是一个单枪匹马开发出了里程碑式的汉字处理软件—WPS的英雄，是当时全国程序员的偶像。就像17岁的C罗晃倒了曼联的大将奥谢，引起了弗格森的注意，刚毕业的雷军通宵两周攻破了WPS，得到了求伯君的召唤。1992年，23岁的雷军只身北上，带着成为中国程序员中的「求伯君第二」的理想加入了金山软件。六年浮沉，历任了开发经理、软件经理等职务后，28岁的雷军成为了偶像的得力干将，坐上金山公司北京总经理的位置。</p>
-<p>足球世界重要错觉：「C罗没天赋，梅西不努力」。互联网世界重要错觉：「马化腾靠爹，李彦宏靠媳妇」。</p>
-<p>Hard work pays off! 天道酬勤。</p>
-<p><a href="https://mp.weixin.qq.com/s/ROQeflAL35BiZBzAMv-woQ" target="_blank" rel="noopener">蔡康永：我劝你，不要随便戒掉情绪</a></p>
-<p>蔡康永对颜如晶说：“比赛就是要赢，比赛输没有什么可开心的，但如果我非输不可，我希望输一场51：49的比赛。”</p>
-<p>作为一个懂电脑的 BOY。平常被姑娘问的最多一句话就是：我电脑出问题了，快帮我看一看。<br>而作为标准回答，往往也只有一句：你重启一下试试。  </p>
-<p>后来的事实证明这样做其实不好，因为这句话效率过高，导致姑娘们再没有什么事会联系你。</p>
-<p>怎么办，难道只能选择原谅重启键？于是当第一次有个姑娘告诉你：“我试过了，重启键没用”的时候，你才终于体会到，什么叫做能力越大，责任也就越大。</p>
-<p>2.没有什么是重启不能解决的，如果有，那就重装系统</p>
-<p>修电脑行规第三条：绝不帮人装任何杀毒软件</p>
-<p>业界一直流传着这样的说法：阿里重运营，百度重技术，腾讯重产品。</p>
-]]></content>
-      <categories>
-        <category>summary</category>
-      </categories>
-      <tags>
-        <tag>tech</tag>
       </tags>
   </entry>
   <entry>
@@ -666,13 +811,58 @@
 <p><font face="华文楷体">花报春信语，瓣落又一年</font></p>
 </blockquote>
 <a id="more"></a>
-
-<p>一个负责任的人，首先应该学会怎么逃避责任，因为他不可能负起所有责任。</p>
+<h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><p>一个负责任的人，首先应该学会怎么逃避责任，因为他不可能负起所有责任。</p>
 <p>我的快乐无非就是这样，纵然能力不够、现实复杂，但我依然会全力以赴。</p>
 <p>和岁月一起走失的</p>
 <p>You’re never as good as everyone tells you when you win，and you’re never as bad as they say when you lose.（你绝非得意时人们说的那么好，也没有失意时别人说的那么差）</p>
 <p>《Tomcat与Java Web开发技术详解》，作为一款实用性的工具书。</p>
 <p>提升认知比学技术重要</p>
+<h3 id="pattern"><a href="#pattern" class="headerlink" title="pattern"></a>pattern</h3><p>年少时我曾跟着母亲去捡麦穗，结果母亲却被看守人打了一耳光。多年后，我与母亲再次与看守人相遇，看守人已是白发苍苍的老人，我想过去报仇，却被母亲劝住，母亲只说了这样一句话：“儿子，那个打我的人，与这个老人，并不是一个人”，这就是我的家风。</p>
+<p>有修养的父母是“伏尔泰主义者”。“我不同意你的观点，但我誓死捍卫你说话的权利。”他们从孩子出生的那天就开始跟孩子讲道理，耐心的征求孩子的意见。不要指望打骂孩子就能让孩子学会服从。杀鸡给猴看的结果是：猴子也学会了杀鸡。</p>
+<p>让你的孩子成为有教养的人，有教养从守时，排队，在公共场合不大声说话，不轻易发怒开始。</p>
+<p>美国父母的做法是——在他们很小的时候，父母会在假期里带他们去参观各类名校，让他们了解这些学校的历史和传统，逐渐熟悉并喜欢上这些大学。这就成了孩子学习过程中最大的一个动力，也是推动自己向前的一个最大的目标。<br>孩子自己会觉得，如果不进这个大学，将是我生命中很遗憾的一件事情。成功的引导能让孩子不再是为了完成父母的期望而去学习，因为他们明白这一切都是自己想要的。<br>话说回来，世界上哪有“龙生龙凤生凤”这样一成不变的事？富二代再多，也是源自同样数量的富一代扭转了阶层。有一句话作为概括最合适：如果我们希望自己的孩子成为“别人家的孩子”，那自己得先成为“别人家的父母”。</p>
+<p>《麦田里的守望者》为世界贡献了一个词语：守望。教育不是管，也不是不管。在管与不管之间，有一个词语叫“守望”。</p>
+<p>我写过一首歌，叫《南山南》，常有人听完后说它太悲伤，接着问起，这首歌里是不是有一个故事。我说，你听到这首歌的时候，它就已经和我无关了，你掉的眼泪，才是只有你自己知道的故事。</p>
+<p>你写了成百上千条微博、朋友圈或日志，有些是写给专门的人看的。但往往这个人看不到，不会看，也不想看。直到有一天，另一个不相关的人突然跟你说：你写的所有东西我都看完了，好心疼你呀，啊哈～你看，真正在乎你的人读的不是你的某条心情，他们想读的，是你的整个人生。</p>
+<h3 id="poem"><a href="#poem" class="headerlink" title="poem"></a>poem</h3><p>心很脆弱，<br>所以要学会哄它。<br>那不能解决问题，<br>但让你有勇气去面对困难。<br>                ——《三傻大闹宝莱坞》</p>
+<pre><code>临江仙
+               ―杨慎</code></pre><p>滚滚长江东逝水<br>浪花淘尽英雄<br>是非成败转头空<br>青山依旧在<br>几度夕阳红<br>白发渔樵江渚上<br>惯看秋月春风<br>一杯浊酒喜相逢<br>古今多少事<br>都付笑谈中</p>
+<p>文学和科学相比，的确没什么用处，但文学最大的用处，也许就是它没有用处。教育也如此，所谓的分数、学历、甚至知识都不是教育的本质，教育的本质是：一棵树摇动另一棵树，一朵云推动另一朵云，一个灵魂唤醒另一个灵魂。</p>
+<p> 从前慢</p>
+<p>从前的日光很慢<br>车，马，邮件都慢<br>一个问候，要等上好多天</p>
+<p>从前的月光很慢<br>有点闲，有点懒<br>在一杯茶里消磨整个黄昏<br>在半个梦里看星星满天</p>
+<p>从前的脚步好慢<br>从一个村子，到另一个村子<br>要走一天的时间</p>
+<p>从前的日子很慢，很暖<br>裹在淡淡的烟火里<br>日日年年</p>
+<p>从前的手帕也好看<br>最是那低眉的女子<br>精致的，一针一线</p>
+<p>从前的爱情很慢<br>慢的，用一辈子去等一个人<br>慢的，一生只够爱一个人</p>
+<p>热爱生命</p>
+<p>我不去想是否能够成功<br>既然选择了远方<br>便只顾风雨兼程<br>我不去想能否赢得爱情<br>既然钟情于玫瑰<br>就勇敢地吐露真诚<br>我不去想身后会不会袭来寒风冷雨<br>既然目标是地平线<br>留给世界的只能是背影<br>我不去想未来是平坦还是泥泞<br>只要热爱生命<br>一切，都在意料之中</p>
+<p>假如你不够快乐</p>
+<p>假如你不够快乐<br>也不要把眉头深锁<br>人生本来短暂<br>为什么还要栽培苦涩<br>打开尘封的门窗<br>让阳光雨露洒遍每个角落<br>走向生命的原野<br>让风儿熨平前额<br>博大可以稀释忧愁<br>深色能够覆盖浅色</p>
+<p>跨越自己</p>
+<p>我们可以欺瞒别人<br>却无法欺瞒自己<br>当我们走向枝繁叶茂的五月<br>青春就不再是一个谜<br>向上的路<br>总是坎坷又崎岖<br>要永远保持最初的浪漫<br>真是不容易<br>有人悲哀<br>有人欣喜<br>当我们跨越了一座高山<br>也就跨越了一个真实的自己</p>
+<p>我知道</p>
+<p>欢乐是人生的驿站<br>痛苦是生命的航程<br>我知道<br>当你心绪沉重的时候<br>最好的礼物<br>是送你一片宁静的天空<br>你会迷惘<br>也会清醒<br>当夜幕低落的时候<br>你会感受到<br>有一双温暖的眼睛<br>我知道<br>当你拭干面颊上的泪水<br>你会灿然一笑<br>那时，我会轻轻对你说<br>走吧你看<br>槐花正香月色正明</p>
+<p>嫁给幸福</p>
+<p>有一个未来的目标<br>总能让我们欢欣鼓舞<br>就像飞向火光的灰蛾<br>甘愿做烈火的俘虏<br>摆动着的是你不停的脚步<br>飞旋着的是你美丽的流苏<br>在一往情深的日子里<br>谁能说得清<br>什么是甜 什么是苦<br>只知道 确定了就义无反顾<br>要输就输给追求<br>要嫁就嫁给幸福</p>
+<p>再别康桥</p>
+<p>轻轻的我走了，<br>正如我轻轻的来；<br>我轻轻的招手，<br>作别西天的云彩。<br>　<br>那河畔的金柳，<br>是夕阳中的新娘；<br>波光里的艳影，<br>在我的心头荡漾。<br>　<br>软泥上的青荇，<br>油油的在水底招摇；<br>在康河的柔波里，<br>我甘心做一条水草！<br>　<br>那榆荫下的一潭，<br>不是清泉，<br>是天上虹；<br>揉碎在浮藻间，<br>沉淀着彩虹似的梦。<br>　<br>寻梦？撑一支长篙，<br>向青草更青处漫溯；<br>满载一船星辉，<br>在星辉斑斓里放歌。<br>　<br>但我不能放歌，<br>悄悄是别离的笙箫；<br>夏虫也为我沉默，<br>沉默是今晚的康桥！<br>　<br>悄悄的我走了，<br>正如我悄悄的来；<br>我挥一挥衣袖，<br>不带走一片云彩。</p>
+<p>若风吹来</p>
+<p>如果起风<br>就等风来之后让它走吧<br>如果开始怀念<br>就等怀念之后让它走吧<br>疼痛也会来吧<br>会留在这生活吧<br>活段时间就会走吧<br>岁月也是这样的吧<br>万物来来去去终究会去的吧<br>而我们就静待岁月，顺其自然吧。</p>
+<p>面朝大海，春暖花开</p>
+<p>从明天起，做一个幸福的人<br>喂马，劈柴，周游世界<br>从明天起，关心粮食和蔬菜<br>我有一所房子，面朝大海，春暖花开<br>从明天起，和每一个亲人通信<br>告诉他们我的幸福<br>那幸福的闪电告诉我的<br>我将告诉每一个人<br>给每一条河每一座山取一个温暖的名字<br>陌生人，我也为你祝福<br>愿你有一个灿烂的前程<br>愿你有情人终成眷属<br>愿你在尘世获得幸福<br>我只愿面朝大海，春暖花开</p>
+<p>成功的花</p>
+<p>人们只惊羡她现时的明艳<br>然而当初她的芽儿<br>浸透了奋斗的泪泉<br>洒遍了牺牲的血雨</p>
+<p>相信未来</p>
+<p>当蜘蛛网无情地查封了我的炉台<br>当灰烬的余烟叹息着贫困的悲哀<br>我依然固执地铺平失望的灰烬<br>用美丽的雪花写下：相信未来 </p>
+<p>当我的紫葡萄化为深秋的露水<br>当我的鲜花依偎在别人的情怀<br>我依然固执地用凝霜的枯藤<br>在凄凉的大地上写下：相信未来 </p>
+<p>我要用手指那涌向天边的排浪<br>我要用手掌那托住太阳的大海<br>摇曳着曙光那枝温暖漂亮的笔杆<br>用孩子的笔体写下：相信未来 </p>
+<p>我之所以坚定地相信未来<br>是我相信未来人们的眼睛<br>她有拨开历史风尘的睫毛<br>她有看透岁月篇章的瞳孔 </p>
+<p>不管人们对于我们腐烂的皮肉<br>那些迷途的惆怅、失败的苦痛<br>是寄予感动的热泪、深切的同情<br>还是给以轻蔑的微笑、辛辣的嘲讽 </p>
+<p>我坚信人们对于我们的脊骨<br>那无数次的探索、迷途、失败和成功<br>一定会给予热情、客观、公正的评定<br>是的，我焦急地等待着他们的评定 </p>
+<p>朋友，坚定地相信未来吧<br>相信不屈不挠的努力<br>相信战胜死亡的年轻<br>相信未来、热爱生命</p>
+<p>断 章</p>
+<p>你站在桥上看风景，<br>看风景人在楼上看你。<br>明月装饰了你的窗子，<br>你装饰了别人的梦。</p>
 ]]></content>
       <categories>
         <category>Tinyspot</category>
@@ -688,7 +878,7 @@
 <p><font face="华文楷体">生活并不完美，但并不代表它不美</font></p>
 </blockquote>
 <a id="more"></a>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/002.png" alt=""></div></div></div></div>
+<h3 id="picture"><a href="#picture" class="headerlink" title="picture"></a>picture</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/002.jpg" alt=""></div></div></div></div>
 
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/101.png" alt=""></div></div></div></div>
 
@@ -905,6 +1095,17 @@
 <p>一个人离开你的时候不要问原因，你能想到的所有理由都是对的</p>
 <p>已经没有可以每天想念的人了，以后的日子请努力赚钱吧</p>
 <p>爱了就爱，干脆痛快</p>
+<h3 id="童年很宝贵，但童年的快乐并不贵"><a href="#童年很宝贵，但童年的快乐并不贵" class="headerlink" title="童年很宝贵，但童年的快乐并不贵"></a>童年很宝贵，但童年的快乐并不贵</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1002.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1003.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1004.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1005.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1006.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1008.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1010.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1011.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1012.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1013.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/childhood/1014.jpg" alt=""></div></div></div></div>
+
+<h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1002.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1004.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1005.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/xing/100/1006.png" alt=""></div></div></div></div>
 ]]></content>
       <categories>
         <category>Tinyspot</category>
@@ -917,55 +1118,133 @@
     <title>191205-live</title>
     <url>/2019/12/05/191205-live/</url>
     <content><![CDATA[<blockquote>
-<p><font face="华文楷体">你的快乐是哪一种？</font></p>
+<p>Life teaches to be less harsh with ourselves and with others.</p>
 </blockquote>
 <a id="more"></a>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/001.%E8%80%81%E6%A0%91.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/001.%E8%80%81%E6%A0%912.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-01.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-02.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-03.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-03.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1002.jpg" alt=""></div></div></div></div>
-
+<h3 id="Picture"><a href="#Picture" class="headerlink" title="Picture"></a>Picture</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/001.%E8%80%81%E6%A0%91.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/001.%E8%80%81%E6%A0%912.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1002.png" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1004.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1005.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1006.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1008.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1010.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1011.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1012.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1013.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1014.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1015.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1016.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1017.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1018.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1019.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1020.png" alt=""></div></div></div></div>
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1005.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1006.png" alt=""></div></div></div></div>
+<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><pre><code>生活哪里是一层一层上台阶或下台阶，生活
+分明是踩着一块浮冰去另一块浮冰，却永不
+知岸在何处。
+                           by吕彦妮
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1007.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1008.png" alt=""></div></div></div></div>
+三年五年以后，甚至更久更久以后，我们会
+变成什么样的大人呢？
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1009.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1010.png" alt=""></div></div></div></div>
+人生不如意十之八九，你是一二。
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1011.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1012.jpg" alt=""></div></div></div></div>
+《比海还深》里那个落魄的男人说，你才二十
+五岁，可以成为你想成为的任何人。看这部电
+影的时候，我正好二十五岁，不多也不少，却
+并没有觉得他的话是对我说的。不是我不想成
+为某一种别人，而是我被这句话表面的感伤意
+味蒙蔽，忘记了它实际上是一句劝诫。
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1013.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1014.jpg" alt=""></div></div></div></div>
+长大后才能慢慢领悟，茨威格在《断头皇后》里
+写的那句：她那时候还太年轻，不知道所有命运
+馈赠的礼物，早已在暗中标好了价格。
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1015.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1016.png" alt=""></div></div></div></div>
+电影《真爱至上》里说，机场比婚姻殿堂见证了
+更多真诚的吻，即将失去的时刻，才是人生最
+不应该潦草应对的宝贵时刻。
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1017.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1018.png" alt=""></div></div></div></div>
+当一段感情结束时，就成为最熟悉的陌生人吧，
+毕竟最好的放下是不必再重来。也别再问我过得
+好不好了，没有你在的后来，我都挺好的。
 
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1019.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/1020.png" alt=""></div></div></div></div>
+学会独立，包括独立生活和独立思考。猛兽总是独行，
+牛羊才成群结伴。不是说不需要伙伴，而是真正的
+朋友是君子之交淡如水，朋友之间留足空间，细水
+长流才好。给自己也要留足空间，一个人的时候好好
+生活，认真沉淀，生活不会辜负认真的人。
 
+有一次，大家以“阳伞”为题，其他人各种懵懂青涩，
+郁冬抱琴就唱，大意是：“小时候看电影，一到接吻
+的镜头，就会有一把阳伞挡住，我一直想知道阳伞
+背后发生了什么，后来长大了才知道，阳伞的背后，
+有忧伤也有甜蜜。”
 
-<hr>
+感情是两个人的事情，一个人再努力，也永远无法
+决定两个人的关系。我可以走一万步去见你，也愿
+意退一万零一步离开你。</code></pre><hr>
 <font face="华文楷体" color="#777777">
 只有要重要员工离职，他就彻夜不眠，在群里讲他辛酸的发家史，最后还加一句我累了。有次开大会，对着一个可能犯了错的员工打了自己一巴掌说，这是我替你打的，这个员工也是神奇，打了自己一巴掌说，不用了老板我还给你。
 @飞不了的人
+
+
+<p>合理的部分是理性<br>不合理的部分是人性</p>
+<p>爆仓的直接后果是，一件快递的配送时间从平日的2-4天变成至少1-2周，有的甚至长达一个月，快递企业屡屡被消费者投诉，而快递员忙得连吃饭喝水的时间都没有，有些商家也因为打包配送的问题被迫在旗舰网店上挂出“致歉信”。<br>如果说线上交易额的增长只需要互联网公司增加服务器的话，那么提升快递企业的产能，比如建设中转中心、租用场地、购买车辆、雇佣营业员绝非一朝一夕的事情，导致两个行业在一段时间之内无法“齐头并进”，快递业甚至一度被认为拖了电商的后腿。</p>
+<p>三年过后，新浪微博清退持有今日头条的全部股份，并在产品端严控流量向其溢出的现象，这只能说明修正措施永不嫌晚，认清秩序比改变秩序重要太多。<br>昨天，淘宝总裁蒋凡披露，在今年的「双十一期间，淘宝平台里的个性化推荐流量创纪录的超过了用户搜索的流量，这是前所未有的事情，连花钱买东西这件事情，用户都要向技术让渡自主权了，我不知道、也懒得知道自己想买什么，不如你告诉我吧。<br>我记得是阿西莫夫还是谁说过一句话，历史上有很多科幻作家都在小说里预言过人类登月的盛况，坚定不移的相信人类可以走向太空，但是在汗牛充栋的著作里，几乎又没有谁能够想到会有数十亿人坐在家里从电视直播里观看整个登月过程，哪怕他们写作时距离电视机的发明已经差不了几年了。<br>r在科技变化的期待上，我们总是愿意高估比较远的未来，同时却又容易低估比较近的未来。J</p>
+<p>是集成进了QQ。如今，微信这个最大的大杀器也不能免俗的集成了即刻视频。<br>在12月12日的腾讯2018年度员工大会上，封神的张小龙演讲的部分文稿流露出来，在互联网上传播。主要的内容由两个字：套路和善良。自古套路得人心，互联网的发展史就是套路发展史。互联网的两个时代就是人工套路互联网和机器套路互联网。微信是一个工具，微信的本源是所有创造价值的人都得到价值的回报。所以Al比你更聪明更懂套路，但是你可能比Al更善良。<br>Al这个词的出现非常的有意思。2016年谷歌deepmind团队的AlphaGo击败了韩国围棋棋手李世石，让人第一次在现实层面领会到机器的强大。在微软，谷歌，Facebook这些美国大公司里，通过大数据和Al技术进行分析，帮助产品经理决策已经是有一些历史了。<br>Al这个词从中国最优秀的产品经理嘴巴里出来，其实也不吃惊。同为本家的张一鸣在使用Al做内容分发上无疑不仅仅是中国做的最好的，也是世界上领先的。虽然Al成长过程中也会经常犯错，比如说推荐了不该推荐的东西，但是Al的成长是惊人的。因此，我相信Al确实比人更懂套路。但是其实Al也比人类更懂善良。<br>我想张小龙可能是混淆了世界观层面的东西和工具层面的东西。无论是套路，还是善良，其实都是人类主观世界的世界观层面的东西。而数据驱动和A技术，则是一种工具。一种帮助善良的人更善良，擅长套路的人更套路的工具。做一个善良的项目经理，开发一个善良的APP，并不需要对Al和数据驱动的技术避之如狼虎。人类是有创造力的物种，所以我们在不断的发明工具，延展我们的创造力和能力。数据驱动和Al技术，本质上来说只不过是另外一种</p>
+<p>刘强东心想完了，世风日下人心不古啊。我还是别当官了，先挣很多很多钱吧。<br>这就是1993年的刘强东。19岁的大强子抛弃了少年时代为人民服务的想法，决定先为口袋里的人民币服务服务。如果能捞个女朋友，就更好了。<br>同时，远在古都南京，一名女婴刚刚来到这个世界。<br>她的名字叫章泽天。</p>
+<p>一个会议上提了一个要实现的功能。大概是这个大领导理解有问题或者说不懂装懂，这个功能是没用的错误的。我朋友当然没资格列席大大大领导的会议。但是他有资格列席小领导过来宣布要做这个功能的会议。<br>这个功能本来是我朋友负责的领域，但是我朋友据理力争，很有原则的表述这个功能就是坨shit，没任何价值。而小领导当然也知道那是shit，但是无关痛痒，不会对系统造成多大的伤害，而且工作量也不大。于是旁边的一个人就去做了，做完之后年底升职了。小领导对我朋友的评价就是：不成熟！</p>
+<p>在知乎上看到过一个提问：<br>“我读过很多书，但后来大部分都忘记了，那读书的意义是什么？”<br>有一个回答非常贴切绝妙：<br>“当我还是孩子时，我吃过很多食物，现在已经记不起吃过什么了。但可以肯定的是，它们中的一部分已经长成了我的骨头和肉。<br>读书对人的改变也是如此。”</p>
+<hr>
+<p>其实，不管你承认不承认，<br>在职场上奋斗的我们，能力是不一样的。<br>你在一堆琐事中忙得焦头烂额、晕头转向，<br>有的人却在那里优雅如常；<br>可问题就是，同样的项目交给ta，效率、结果就是不一样。</p>
+<hr>
+<p>盖洛普发现，在劳动力市场，“每10个人中就有1个人拥有管理的天赋。我们可以计算发现，很可能你团队的每个成员都有领导能力—-但更有可能出现的状况是，他不是你的经理，这位潜在的管理人才正等着被发现。”</p>
+<p>总而言之，如果你的公司经历了高流失率，你可以考虑一下，唯一能止血的方法就是看看你在关键管理岗位上的角色。盖洛普公司CEO吉姆·克利夫顿用简洁的句子概括了这个问题的严重性，他说：</p>
+<p>你在工作中做出的最大的决定一一比其他所有人都重要—一是确定你的经理。当你有一个不合适的经理，没有什么能解决这个糟糕的决定。</p>
+<hr>
+<p>本质上做技术的都是手艺人，但代码不会传承，代码只会更新一程序员都是不吃老本的手艺人。</p>
+<p>工作越久越发现，靠谱和情商慢慢比技术能力还要重要一些。</p>
 </font>
 
 <hr>
 <font face="华文楷体" color="#777777">
-只有要重要员工离职，他就彻夜不眠，在群里讲他辛酸的发家史，最后还加一句我累了。有次开大会，对着一个可能犯了错的员工打了自己一巴掌说，这是我替你打的，这个员工也是神奇，打了自己一巴掌说，不用了老板我还给你。
-@飞不了的人
+姑娘，你努力的样子，很酷呢！
+
+<p>最后，借八月长安的一句话，祝福大家：</p>
+<p><strong>“一生努力，一生被爱，想要的都拥有，得不到的都释怀。”</strong></p>
+<p>6.师父问：如果你要烧壶开水，生火到一半时发现柴不够，你该怎么办？有的弟子说赶快去找，有的说去借，有的说去买。师父说：为什么不把壶里的水倒掉一些呢？<br>世事总不能万般如意，有舍才有得。</p>
+<p>2.当玻璃杯中装满牛奶的时候，人们说：<br>这是牛奶；当装满油的时候，人们又说：这是油。只有杯子空时，人们才看到杯子。</p>
+<p>当我们心中装满学问、财富、权势、成就和偏见的时候，就不是自己了。往往拥有了一切，却不能拥有自己。</p>
 </font>
 
 <hr>
 <font face="华文楷体" color="#777777">
-只有要重要员工离职，他就彻夜不眠，在群里讲他辛酸的发家史，最后还加一句我累了。有次开大会，对着一个可能犯了错的员工打了自己一巴掌说，这是我替你打的，这个员工也是神奇，打了自己一巴掌说，不用了老板我还给你。
-@飞不了的人
 
-
-<p>未曾成为理想中的自己<br></font></p>
+<p>有人说，人会死三次。</p>
+<p>第一次是停止呼吸的时候，他失去了温度与心跳，无法再感受这个世界。第二次是追悼会告别仪式的时候，他被郑重地宣告了与这个世界再无联系。第三次是世界上最后一个思念他的人也忘掉了他了时候，他这才算彻底死了。</p>
+<p>娇娇没有死，她永远在我们心里。<br></font></p>
+<hr>
+<p>前段时间微博流行一个话题：月薪3000的男朋友到底能不能嫁？</p>
+<p>点赞最高的回答是：我怕的不是他现在月薪3000，而是一辈子月薪3000。</p>
+<hr>
+<p>或是吵了一天，她到厨房里一看碗都已经洗好了，他说“吵了一天挺累的，早点睡吧”。</p>
+<p>没做什么轰轰烈烈的大事，却莫名触碰到心里柔软的地方。</p>
+<p>哪怕与你争吵，哪怕我再怎么生气，我还是自然而然想做些照顾你的事，因为我最在乎的人终究还是你。</p>
+<hr>
+<p>她是学考古的，教授常说，学术界证有容易，证无难，一样东西发现了、记载了便是有，可你要说一样东西从来没有，却无从证起。</p>
+<p>喜欢这种事却是反的。</p>
+<p>对一个人的喜欢，没有便能开口说没有，有的时候，反而无从说起。</p>
+<hr>
+<p>后来的事情大家都知道了，出道多年的张国荣终于大红大紫。黄霑曾经评价张国荣：“Leslie这人，有体育精神”。</p>
+<p>所谓的体育精神，就是强者心态，就是可以输，但永远不能怕。</p>
+<hr>
+<p>两年前她下决心来北京，但不认识人，也不知道往哪投简历，甚至连自己具体做什么都不知道。</p>
+<p>就在微博上给那个公司某位同事发了私信，写了封很长的求职信，附带了一份简历。没想到被回复了，还让她去面试。</p>
+<p>就这样，她去了一直想去的公司，成了一个大龄北漂女青年。</p>
+<p>她说，当时刚好是他，给了自己一个机会，拉了她一把，改变了她。</p>
+<p>回顾来时的路，每一步都是分岔路。</p>
+<p>不知错过了哪些风景，我们才来到这里。只知道，因为遇见某个人，某件事，我们的命运从此改变，使我们成为今天的我们。</p>
+<hr>
+<p>当然改造一个人是漫长的，我奶奶看我妈不生孩子，再也不敢管他们小两口的事情，心里虽有不满，但是我妈要真的不肯生孩子她也得气死，慢慢开始劝我爸爸有点眼力劲，多干活什么的。差不多三年多我妈觉得我爸像个正常人了，才开始备孕。</p>
+<p>我问过我妈，要是他一直改不好咋办。我妈说：我当时给了自己五年期限，要是不能成功就离婚，反正我也没损失，没给他干过活也没给他花过钱。至少他长得不赖，就当白睡了他几年。</p>
+<p>我听了也是目瞪口呆，我妈真是女中豪杰。看来找对象还是要找好看的。</p>
+<p>编辑于2019-02-12·著作权归作者所有</p>
+<hr>
+<p>“如果她这样动人，<br>何以不可以对她一见动心？”</p>
 <hr>
 <font face="华文楷体" color="#777777">
 
@@ -1266,7 +1545,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <p>青春，是与七个自己相遇。一个明媚，一个忧伤，一个华丽，一个冒险，一个倔强，一个柔软，最后那个正在成长</p>
 <p>生活太安逸了，使我们找不到需要叛逆，可以冒险的东西</p>
 <p>能让你到达远方的，不过都是不怕痛的毅力<br>每个人都在竭尽全力，不是只有你受尽委屈</p>
-<p>不开心的时候，不妨做个深呼吸。不过是糟糕的一天，又不是糟糕一辈子</p>
 <p>对生命而言，接纳才是最好的温柔，不论是接纳一个人的出现，还是接纳一个人的从此不见</p>
 <p>喜欢是天性，与生俱来的本能；但是爱，是需要学习的</p>
 <p>高手在还没有明确人生的宏伟目标时，都是用心做好了当下的事情！</p>
@@ -1305,7 +1583,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <p>当了妈妈的李湘，不再甘于每天都在重复自己，她说：“我必须要为女儿做点什么。也许我会是她的榜样，也许她会因为我的努力而更加地幸福。”</p>
 <p>我无法当机立断的做出不爱一个人的决定。只能后知后觉的过了很久，突然冷不防的想起这么一个人，才发现原来已经不爱他很久了。</p>
 <p>任何的限制，都是从自己的内心开始的。忘掉失败，不过要牢记失败中的教训。</p>
-<p>生活本就不团圆，故事就不要再破碎了。</p>
 <p>幸福其实真的很简单：有人爱；有事做；有所期待</p>
 <p>消除欲望的方式是经历欲望。</p>
 <p>真正的陪伴不是你的所有绝望我都感同身受，而是有我在一切都会好起来。</p>
@@ -1335,19 +1612,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <p>关于bug<br>不要对一个程序员说：你的代码有bug<br>他的第一反应是：1.你的环境有问题吧；2.傻逼你会用吗<br>如果你委婉的说：你这个程序和预期的有点不一致，你看看是不是我的使用方法有问题。<br>他本能的会想：操，是不是出bug了！</p>
 <p>Bug，一种传说中的昆虫类动物。形状多变，往往根据生存环境随意变化其外形特征。常常和一类叫做“程序猿”的灵长类动物共存。而猿在工作之余，往往以抓杀自己的bug作为消遣。当某些bug演变成具有较大破坏性的时候，集体捕杀，或是替别的猿抓杀其bug的情况，在猿族内也常有发生。</p>
 <p>Bug的繁殖环境<br>Bug的繁殖速度，总的来说，和三个条件有密切关系。一是猿自身的清洁卫生的保持情况；二是他们的工作强度有密切的关系；三是工作环境中各种防虫措施的有效程度。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>应该废除学生作文</p>
-<p>启 程</p>
-<p>小嘴不停</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
 </font>
 
 <hr>
@@ -1398,6 +1662,19 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <p>现在像这样的事数不胜数……</p>
 <p>我们从小就被灌输要诚信、善良、守信，然而我们长大之后看的现象却是截然相反的，似乎坏人更容易得逞，越是诚实的人越受到排挤，而对企业来说，投机取巧的企业似乎更容易赚钱，而遵守秩序的企业却寸步难行。</p>
 </font>
+
+<h3 id="Delay"><a href="#Delay" class="headerlink" title="Delay"></a>Delay</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1001.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1002.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1004.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1005.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1006.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1007.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1008.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1009.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/delay-1010.png" alt=""></div></div></div></div>
+
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-01.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-02.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-03.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/poem-04.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img src="/images/live/poem-05.png" alt=""></div></div></div></div>
+
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/live/gif-001.gif" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/live/gif-002.gif" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img src="/images/live/gif-003.gif" alt=""></div></div></div></div>
 ]]></content>
       <categories>
         <category>summary</category>
@@ -1606,13 +1883,655 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
       </tags>
   </entry>
   <entry>
+    <title>191203-read</title>
+    <url>/2019/12/04/191204-books/</url>
+    <content><![CDATA[<blockquote>
+<p><font face="华文楷体">你的快乐是哪一种</font></p>
+</blockquote>
+<a id="more"></a>
+<h3 id="Article"><a href="#Article" class="headerlink" title="Article"></a>Article</h3><ul>
+<li><a href="https://zhuanlan.zhihu.com/p/92338322" target="_blank" rel="noopener">悄悄毁掉你的，是退而求其次</a></li>
+<li><a href="">应该废除学生作文</a></li>
+<li><a href="">启 程</a></li>
+<li><a href="">小嘴不停</a></li>
+<li><a href="">启 程</a></li>
+<li><a href="">启 程</a></li>
+<li><a href="https://www.sohu.com/a/211780515_120677" target="_blank" rel="noopener">那些走到离婚的，不是没钱不是生活，而是……</a></li>
+</ul>
+<h3 id="books"><a href="#books" class="headerlink" title="books"></a>books</h3><p>我买了一系列“永葆青春”的书，这些书占据了我80%的学习时间：<br>《程序员的修炼之道》<br>《代码整洁之道》<br>《程序员的职业素养》<br>《领域驱动设计》<br>《测试驱动的面向对象软件开发》<br>《持续交付》</p>
+<p>在这些概念当中，最知名的就是“重构”了，当时《重构》刚出来的时候，被誉为和《设计模式》齐名的著作，一个是倚天剑，一个是屠龙刀，我个人觉得炒作成分不少，它是比不上设计模式的地位的。<br>但是它确确实实推动了重构这个实践的普及，以至于在IDE中，重构变成了一个必备的功能，如果你还没有用过，应该好好反思一下。<br>重构还成了静态类型语言“鄙视”动态类型语言的一个重要方面。<br>重构的流行，也引发了另外一个市场：向模式重构，有一些书专门讲如何把“烂代码”重构为模式。</p>
+<p>《RESTful Web Clients：基于超媒体的可复用客户端》附有所有样例代码的GitHub地址，方便读者快速理解和实践。《RESTful WebClients：基于超媒体的可复用客户端》适合Web应用开发者，尤其适合希望Web应用程序的服务端与客户端能够独立演化的Web架构师。</p>
+<p>老陈是个说书人</p>
+]]></content>
+      <categories>
+        <category>summary</category>
+      </categories>
+      <tags>
+        <tag>read</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>191203-read</title>
+    <url>/2019/12/04/191204-read/</url>
+    <content><![CDATA[<blockquote>
+<p><font face="华文楷体">只留下让你怦然心动的</font></p>
+</blockquote>
+<a id="more"></a>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1005.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1006.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1008.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1010.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1011.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/read/1012.jpg" alt=""></div></div></div></div>
+
+<hr>
+<p>张爱玲自己是个天才，是个早熟的天才，然而却喜欢晚熟的天才。</p>
+<p>这大概是个怪癖，就像她出身于一个家族史颇为辉煌的世家，却屡屡染指社会底层的写作一样。她介绍爱默生，就介绍得有趣：“爱默生在1803年生于波士顿。他早年是一个严肃的青年。他的青春与他的天才一样，都是晚熟的。他的姑母玛丽是一个不平凡的人，他很受她的影响。无疑地，她对于他的成功有很大的帮助。”读到这里，我们必须得笑了，张爱玲受姑姑的影响就很大，所以，即使是介绍作家，她也要介绍一个同样受姑姑影响大的人，好玩。</p>
+<p>另外，张爱玲是个热爱八卦的女人，在介绍爱默生的时候，不忘记介绍爱默生的怪癖，爱默生写了五十年的日记，但多是写理论。他一生结了两次婚，而在结婚那天，都只是记下一行文字，实在是精练之至。这个世界上最深情的文字大概都应该是简练的吧。</p>
+<p>关于情到浓时的简约和精练，张爱玲也这样试过：“噢，原来你也在这里。”</p>
+<hr>
+<p>不专，以致离婚再娶…陆小曼！你要认真做人，你要尽妇道之职。你今后不可以妨害徐志摩的事业……你们两人都是过来人，离过婚又重新结婚，都是用情不专。以后要痛自悔悟，重新做人！<br>愿你们这是最后一次结婚！”</p>
+<p>梁启超在20世纪20年代的影响，差不多相当于今天的季羡林，又或者更有影响的文化名流。有一个在坊间流传的笑话颇值得一说。梁启超的文字从来感情充沛，很有煽动力，他的政论文字每一篇都能惊风带雨。1921年，一个奥地利提琴大师来京演出，梁启超大约是听了以后感觉颇好，便写了一篇吹捧文字在《晨报》发表，但他的文字大概过于犀利，他说：“如果不前去东城真光电影院聆听这位音乐家演奏，便是没有文化水平的野蛮人！”他的这篇文字见报之后，竟然像一场洪水流于北京各大院校，演奏厅里开始人满为患，票价一路攀升，直至找关系走后门，才能购到一张高价票。于是，北京的当铺生意都好起来了，一些家境不好的学子为了能亲耳听到这场演出，纷纷典当衣物去买票。据说，这篇文章还影响到当时民国政府的总统黎元洪。黎元洪自然也不愿意当“野蛮人”，</p>
+<hr>
+<p>一连开三场。这是他走红前的绝美预热，是《Monica》诞生之前的华丽振翅。可惜的是，视频资料已经难觅踪迹，能找到的只有现场的CD录音，我们只能听着歌声和气息，恣意想象他当时的状态和心情。<br>据说曼谷演唱会每场仅能容纳一千四百多人，谁也没有想到，两年之后，张国荣的演唱会将万人空巷。<br>如果当初真的一夜成名，会否是件幸事？显然不是。<br>命运玩了次先抑后场的大手笔，让你在低合绝境之处，得到深刻的阅历，也收获了患难之交，更觅得知心的爱人。好风凭借力，平步青云之时，皱过的眉头凝结成沧桑，流过的泪水清洗了浮华，曾经的苦难都变得充满意义。<br>他的时代就这么来了。听，迟到的掌声将经久不息。</p>
+<hr>
+<p>有记者在采访时问张国荣：“你认为‘四大天王’谁最出色呢？”</p>
+<p>张国荣笑着说，自己和他们都是好朋友，这么敏感的问题不讲也罢。华仔很有格，他的影视成绩助推了在歌坛的发展。唱歌最动人的是张学友，可惜在外形上略输其他三位。</p>
+<p>当然，张国荣这些点评都是后来的事。</p>
+<p>自一九九三年开始，要不要回归歌坛，成了他内心最挣扎的问题。长江后浪推前浪，娱乐圈更新换代的速度越来越快，如果换作旁人，恐怕位居江山已改，担心再度归来能否延续神话。在此期间，宣布退出音乐奖项的谭咏麟依然在不断发片，他的音乐风格越来越自我，销量也算可观，但势头已经大不如前。</p>
+<p>张国荣如果再唱，又会唱成怎样，能否在新人盘踞的江山中抢回王位？</p>
+<p>他毕竟不是别人，如若某一天重拾话筒，也用不着意外。不过是兴趣所致，随性而为罢了。</p>
+<hr>
+<p>“八十年代末就是流行浪子的风格，那种说走就走的潇洒。”一个歌迷如是说。</p>
+<p>经纪人陈淑芬说，他离开舞台之后，还会情不自禁地唱，我便知道，他是不可能真正放弃唱歌的，复出是迟早的事。的确，那五年，他唱歌的机会，就是微醺之后的 KTV 话筒，吼到声嘶力竭后不肯罢手。</p>
+<p>这并不算潇洒。</p>
+<p>告别，应该是对安静的渴求吧。有时高处不胜寒，有时高处不胜烦。</p>
+<h2 id="——-摘自《不如我们从头来过：张国荣传》"><a href="#——-摘自《不如我们从头来过：张国荣传》" class="headerlink" title="—— 摘自《不如我们从头来过：张国荣传》"></a>—— 摘自《不如我们从头来过：张国荣传》</h2><p>当然，并不是所有的人被限定的方式都一样。美好新世界里，人类被分成了五级：阿尔法（Alpha）、贝塔（Beta）、伽马（Gamma）、德尔塔（Delta）以及埃普西隆（Epsilon）。阿尔法被限定得聪明漂亮，而埃普西隆以下的人不但被限定得矮小愚钝，还批量生产。不过没关系，虽然在那个世界里人有等级贵贱，但是他们都一样幸福——因为无论哪个等级，其接受的“睡眠教育”都会告诉他，他所在的等级是最美好最幸运的。</p>
+<p>这样的世界，有什么问题吗？</p>
+<p>—— 摘自《美丽新世界》</p>
+<hr>
+<p>这当然应该归功于我二十岁之后对于历史的喜爱，虽然还没有爱得死去活来，但有问题没搞明白时，我总会茶饭不思，这让我有足够的动力来了解更多的历史知识。</p>
+<p>不过我要说的不是这个，而是同样的历史，为什么二十岁之后的我会如此感兴趣？</p>
+<p>不管你信不信，原因是：二十岁时我在上大学，大学没有历史课。</p>
+<p>我绝无意否定我们的历史课教育，它普适、严谨，对于大众基础教育来说，已经做得足够好了，我只是在想，能不能做到更好？如果跳出课堂，历史会变成什么样？还会这么高冷吗？</p>
+<p>—— 摘自《半小时漫画中国史》</p>
+<hr>
+<p>金庸后来声名鹊起，夏梦却没露过半点后悔的口风。她对他的感觉，就像《白马啸西风》中李文秀说的一样：那些都是很好很好的，偏偏我不喜欢。</p>
+<p>金庸和夏梦的一段情，说到底只不过是场单恋，从头到尾都是一厢情愿，唯其旷日持久，轰轰烈烈，也称得上是“痴心情长剑”了。</p>
+<hr>
+<p>这样决绝的拒绝让金庸伤透了心，可是同时他对夏梦的痴迷更加深刻，甚至可以从金庸的每一部小说当中找到夏梦的影子，夏梦是天龙八部中的王语嫣，是神雕侠侣中的小龙女。金庸曾经说过，若是世间真有西施，那也应该是夏梦那般样子吧。</p>
+<hr>
+<p>“真的不用，我家住得这么近，何必麻烦。”</p>
+<p>“我正好有事要出去。”张国荣每次都这样说。</p>
+<p>“真的不必这么在意我啦！”何冀平觉得无须这样面面俱到的体贴。</p>
+<p>“何老师，剧本是你，故事也是你。”</p>
+<p>何冀平心头一热，她从事电影创作这么多年，第一次遇到这样的导演，把大任所寄直接表达出来，不惜“往出让”。</p>
+<p>“导演，‘故事’是你啊！”</p>
+<hr>
+<p>张柏芝比张国荣小二十四岁，论起年纪辈分，都可以做父女了。她当时只有一部《喜剧之王》撑着简历表，在表演上只有天赋，没什么经验。面的张国荣这位前辈，她跟万千粉丝一样，把他尊为“神一样的人物”，演对手戏的时候经常慌手乱脚地忘了词，一个镜头反复NG。张国荣的脾气必然比周星驰好太多，耐心地教她走位，保证表演顺利完成。成片播放后，不少人惊呼，两人看上去那么登对，气场毫无违和感。</p>
+<p>“你会跟哥哥谈恋爱吗？如果有机会的话。”有人问。</p>
+<p>“他是天上人啊！我怎么敢想！”</p>
+<hr>
+<p>张国荣被包围在灯光与喝彩声中，他知道在观众的人潮中，有一个人正在注视着他，在人群散尽后，坐在车里等着他回家。</p>
+<p>在后来接受毛舜筠采访时，张国荣说：“唐先生就像我的兄长，家人，他是主赐给我的礼物。”那一瞬间，表情流露出甜蜜和柔情。</p>
+<p>唐鹤德的事业跟张国荣齐头并进，他以优秀的专业素养和工作能力，在公司干得如鱼得水，他开始帮张国荣打理财务，两人的生活真正相融。</p>
+<p>情路多舛，几度周转，最后陪在身边的，竟然是年幼时打过照面的那个男孩。人生如此离奇，从一开始就埋好了伏笔，只待你寻着宿命的脉络，跟他最终交会。</p>
+<hr>
+<p>2006 年，腾讯公司有一张招贴画，战场硝烟弥漫，一只表情十分严肃的小企鹅，驾驶着一架战斗机，机枪口猛烈地喷射着通红的火舌。</p>
+<p>这是腾讯的风格：不停地战斗。马化腾很喜欢企鹅，这种动物看起来很文雅，很绅士，也很好斗。</p>
+<hr>
+<p>马化腾认识到，一切从头开始的开发，不是一件简单的事情。自己研发的风险太大，还是走模仿的路子稳妥。</p>
+<p>“我不盲目创新，微软、Google 做的都是别人做过的东西。最聪明的方法肯定是学习最佳案例，然后再超越。”</p>
+<p>“模仿是最稳妥的创新。”</p>
+<p>马化腾坚信，尾随是最稳妥的产品开发策略。</p>
+<p>要模仿，就得先找出模仿的对象。</p>
+<p>韩国是腾讯最主要的学习地方。“在美国，赚钱主要按广告模式收费的，在中国比较难，韩国的增值服务非常发达，这点非常适合中国。”马化腾说。</p>
+<p>2002 年 11 月，王远到韩国考察当地互联网发展情况，开发出了火爆的 QQ 秀。2006 年 9 月，腾讯在韩国汉城设立办事处，收集韩国的互联网信息，特别是韩国的网络游戏，腾讯的很多游戏都是从韩国学来的。</p>
+<hr>
+<p>鲍岳桥坐不住了，他仔细研究 QQ 游戏后发现，从平台到游戏设计，QQ 游戏很多都是联众游戏的翻版。</p>
+<p>2004 年 9 月，QQ 游戏平台将联众赶下了“中国第一休闲游戏”门户的宝座。联众的业绩一路下滑，然后，联众只好出售，转型，经历了一系列风波后，联众在中国网络游戏市场份额已不足 1%。</p>
+<p>2006 年年底，鲍岳桥离开联众，成为了一名天使投资人。现在他做投资的原则之一就是： 只做腾讯不会做，不能做的项目。</p>
+<p>马化腾挟数亿活跃用户做游戏的时候，联众的结局早就注定了。</p>
+<hr>
+<p>2005 年 12 月，戴志康盘算着，卖软件赚的钱总是有限的，服务的收入是无穷无尽的，就像买水龙头一个可以用很多年，而水龙头里的水每天都要用，产品就是水龙头，服务就是自来水。“我决定产品完全免费，你们看怎样执行吧。”戴志康对同事说。从此 Discuz! 开始转入“产品免费、服务收费”的时代。</p>
+<p>免费之后，几乎每天都有 1000 多个网站安装 Discuz!, 用户规模急剧上升，每个月软件的安装量、使用量比以前翻了 10 倍以上，现在一个月的用户量相当于过去一年的用户量。2006 年，Discuz! 已经成为全球用户数最多的 PHP 论坛软件之一。现在，康盛创想开发出了 X-Space 和 SupeSite 社区门户软件系统，成为了一家面向社区提供全方位技术服务的全业务提供商。</p>
+<hr>
+<p>初次见面，让万能有些出乎意料，他想：即使杜莎夫人那里的蜡像，也比这位先生的表情丰富得多。</p>
+<p>刚才交谈的时候，让万能仔细打量了一下福格先生。他的这位新主人四十岁左右，身材魁梧，稍稍有些发福，五官端正，金黄的须发，脸色白里透红，雪白的牙齿非常整齐，眼角也没有鱼尾纹。他沉稳、淡定，目光清澈，具备英国绅士那种典型的泰然自若的风度。从他的一举一动看，他就像一架精密的计时器一样，四平八稳，准确无误。总的来说，他看起来就是一个标准的实干家。</p>
+<p>菲利斯·福格确实是那种做事精确到极致的人，从不多费一点事。他遇事从不着急，做事永远有条不紊；他从不浪费哪怕一个动作，就连走路也不愿意绕弯；他从不东瞅西看，就连多余的手势都不打一个。没人见过他激动，也没人见过他慌张，他可能是这个世界上最散淡的人。但他又非常守时，从不拖沓。人们认为这是他长期独自生活养成的习惯。说来也对，他认为和人交往容易被琐事羁绊，干脆就不和任何人交往。<br>—— 摘自《八十天环游地球》</p>
+<hr>
+<p>平鑫涛为什么会选择她？正是因为他看到了她柔弱外表下的无限潜力。</p>
+<p>有了琼瑶后，《皇冠》的发行量从几千份飞跃到了几万份，后来又成立了火鸟影视公司。</p>
+<p>他们才是真正的强强联手。棋逢对手，谁也不肯放对方走。</p>
+<hr>
+<p>他借报纸上的专栏一再向她示好，在《三剑楼随笔》中故意俏皮地提及，法语中表示”动人的、可爱的”的词语与“夏梦”二字谐音。</p>
+<p>他还特意为她导演了一部电影《王老虎抢亲》，被人视作对夏梦发起的最后进攻。<br>如此风雅的示爱方式，夏梦却丝毫不为所动，而是选择嫁给了商人林葆诚。两年后，金席娶了朱玫，两人自此后以朋友相处。</p>
+<p>金庸始终关注着夏梦。她移民加拿大时，他特意写了一篇诗意盎然的评论为她钱行——《夏梦的春梦》；她去欧洲旅游，他特意在《明报》为她开辟了旅游专栏，可谓绝无仅有；她重回香港时，也得到了《明报》大篇幅的报道。</p>
+<p>他对她的倾慕持续了大半生，可她始终都是淡淡的。旁人问起金庸，她就说：“我不大看武侠小说</p>
+<hr>
+<p>对于那些红极一时的女明星，观众总是喜欢用她们演过的经典角色来指代她们。</p>
+<p>林青霞是永远的东方教主，赵雅芝是永远的白娘子，关之琳是永远的十三姨，翁美玲是永远的黄蓉，而王祖贤呢，则是永远的小倩。</p>
+<p>《倩女幽魂》横空出世后，小倩就成了她的终身代号。</p>
+<p>世上美丽的女子千千万，但几乎没有一个人像她那样，可以将女鬼的仙气与妖精的媚气集于一身。</p>
+<hr>
+<p>那是王祖贤最幸福的时期，她去上《今夜不设防》时，笑意满得都要从眼睛里溢出来，对着镜头憧憬地说：“一个女孩子总要有个归宿，我想我肯定会结婚的。”</p>
+<p>那个时候她还太年轻，根本不知道未来有什么在等待着她。人在年轻的时候，大多不知道未来有什么在等待着。</p>
+<p>我们只是无端地感到快乐，以为会称心如意一辈子。</p>
+<hr>
+<p>她参加湖南卫视的《偶像来了》，人们惊喜地发现，她还是那么爱笑，还是那么快人快语。</p>
+<p>曾经令人仰望的紫霞仙子从云端走了下来，开始落入凡尘，这未尝不是一件好事。</p>
+<p>肆</p>
+<p>分手二十年后，再次提起周星驰时，朱茵终于松口说，如果有好的作品，不会拒绝和他合作，随即补充说：“既然已经找到了属于自己的灵魂伴侣，又何必在他人身上多费力气呢？”</p>
+<p>这说明她真的放下了。</p>
+<hr>
+<p><a href="http://m.zhangyue.com/readbook/11599049/3.html?p2=109574" target="_blank" rel="noopener">乡野闲人-要饭的</a></p>
+<hr>
+<p>秋季广交会上摆了很多盆菊花。广交会结束了，菊花还没有完全开残。有一个日本商人问管理人员：“这些花你们打算怎么处理？”答云：“扔了！”–“别扔，我买。”他给了一点钱，把开得还正盛的菊花全部包了，订了一架飞机，把菊花从广州空运到日本，张贴了很大的海报：“中国菊展”。卖门票，参观的人很多。他捞了一大笔钱。这件事叫我有两点感想：一是日本商人真有商业头脑，任何赚钱的机会都不放过，我们的管理人员是老爷，到手的钱也抓不住。二是中国的菊花好，能得到日本人的赞赏。</p>
+]]></content>
+      <categories>
+        <category>summary</category>
+      </categories>
+      <tags>
+        <tag>read</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>191202-company</title>
+    <url>/2019/12/02/191202-company/</url>
+    <content><![CDATA[<blockquote>
+<p>待定</p>
+</blockquote>
+<a id="more"></a>
+
+<p>2018《互联网周刊》&amp;eNet研究院选择排行</p>
+<p><a href="http://tech.sina.com.cn/csj/2018-11-17/doc-ihnyuqhh6042529.shtml" target="_blank" rel="noopener">理性蜕变中的张一鸣</a></p>
+<p>《生活小妙招》鞋子磕脚的小妙招和受伤<br>护理的窍门</p>
+<p>海底捞刚进北京的时候，租第一个店面就被骗了。整整300万，是张勇账上所有的现金。对方背景强劲，这笔钱完全追不回来。</p>
+<p>张勇说，当时负责的主管经理急得好几天吃不下饭，张勇都不敢给他打电话。后来听说这群人要找黑社会解决骗子，他才给主管经理打了电话。</p>
+<p>他说，你们就值300万？干点正经事吧。（大体是自己不要犯法去帮公司追钱的意思）</p>
+<p>他说，他心疼，但是他不怨员工，将心比心，是他自己去办也会受骗。</p>
+<p>张勇有一次被问到，有今天的成功，是因为什么。</p>
+<p>张勇答，可能是因为我比较善良吧。</p>
+<p>结尾，我想讲一个另外一家企业的小故事。顺丰，有一次我妈给我寄快递，两千八百多公里，次日早晨就到了。</p>
+<p>因为顺丰经常给我送快递，那个大姐也比较熟络，我顺口说了一句：真快啊。</p>
+<p>大姐接话到：那是，你也不看看是谁在送。她讲这句话的时候，眼睛闪光，下巴微翘。</p>
+<p><strong>这种自信的表情，我在海底捞的员工脸上也见过。</strong></p>
+<hr>
+<p>人人网就是这个时期一个很好的一个例子，陈一舟虽然使得校内网迅速铺开在北京及全国高校风靡，成为中国版的“Facebook”，然而，人人只“抄”到了型，没有抄到“神”，并没有在这批”高校用户“的SNS关系上建立核心的护城河，只能成为昙花一现的社交产品。</p>
+<p>而BAT之所以能在抢占中国互联网最肥沃的土壤中脱颖而出，很重要的一点在于，<strong>它们抓住机会，将国外互联网巨头们商业模式，进行了中国特色化</strong>。虽说中国独立市场所带来的规模优势、意识形态等方面的原因起到了一定的产业保护效应，但是背后的根本原因在于：BAT将国外巨头的商业模式进行了本土化接地气改造，更适应那个阶段的中国用户。</p>
+<hr>
+<p>美团是因为无与伦比的地推+运维能力才在百团大战中脱颖而出，头条用的是别具一格的用算法+信息流的模式改写用户获取的方式，成为互联网注意力生意中不可小觑的力量。我们再往小的说，这种差异化能力，类似于淘宝阴影之下：用“导购“崛起蘑菇街、用”物流“开出一片天地的京东、用“去库存”“活下来的唯品会。拿做母婴的贝贝网来说，现在收获了垂直母婴市场70%的市场份额，日活数据跻身中国电商top5，非标品这一利润空间更大的护城河更是占据了平台总业务的85%，成为其规模性盈利的利器。</p>
+<p>而怎样才能巧妙的借力？<strong>答案是利用BAT的资源，在跨行业中进行创新</strong>。这是针对那些被巨头看中的企业而言，利用巨头所主导的“大数据+资本+合作”的模式进行跨行业的创新。例如，滴滴获得了巨头的资本和资源，利用腾讯的微信入口获得大量流量，但是同样滴滴能够在入口上叠加其他的业务，从而形成下一代的入口平台，这个创新是非常强大</p>
+<hr>
+<p>90年代的股票，10年的房地产，17年的比特币和消费升级，这个时代不缺机遇，只要你用心，有耐心，未必会成为首富，但实现普通人的资产增值保值还是不难的。</p>
+<p>一夜暴富总是很难的，但慢慢挣钱相对容易很多。</p>
+<p><strong>只可惜，这个世界绝大部分人，都喜欢做难的事情，而不做容易做的事情。</strong></p>
+<p>希望你不要这样。</p>
+<hr>
+<p>我记得李彦宏还说过，这些年来，百度一直被认为是占了Google退出中国的便宜，百度无法证明一件没有发生的事情。</p>
+<p>真的是一件“没有发生”的事情吗？</p>
+<p>最早从2004年开始Google在中国的访问就趋于不稳定，什么原因大家心知肚明，许多人就是因为Google的不稳定才弃用的。</p>
+<p>在2010年正式退出中国之前，谷歌在这片土地上早已经不是一个能正常使用和倚赖的网站了，这难道不是你百度的“政策红利”？2010年4月，谷歌刚一退出，百度的净利立马增长近1.6倍，这难道不是悄百度的“政策红利”？</p>
+<hr>
+<p>那段时间，他每天从早上谈到晚上一两点。</p>
+<p>最终，他找来了谷歌的林斌、金山的黎万强、微软的黄江吉以及摩托罗拉的周光平等14个人。这些人，共同组成了小米的初创团队。</p>
+<p>2010年4月6日，在离金山总部不远的银谷大厦807室，黎万强的父亲端来了一锅熬好的小米粥，几个创始人一人喝了一碗，小米就算成立了。</p>
+<p>而之所以叫小米，是因为mi是mobile Internet（移动互联网）的缩写，其次mi还是mission impossible的缩写，意味着小米要完成不可能完成的任务。此外，雷军还希望用小米加步枪的精神去创业。</p>
+<hr>
+<p>Ray Dalio的经典视频《How The Economic Machine Works》值得反复观看，他提供了一个很好的思维模型去处理复杂的关乎周期（风口）的随机现象。</p>
+<p>每一个人、每一个公司都会一些明亮的时刻，例如你的学生时代、你工作顺畅的那两年，不太会有一种源自内心深处的关乎生存的恐惧感。这样的时刻很明媚，让你感觉一切都可以慢慢来。不用急着选A或者选B，反正在这样的状态中，A或者B都会倾入囊中。</p>
+<p>有这样想法的一个潜意识心理是：这样的明媚时刻可以一直持续，甚至越变越好。</p>
+<hr>
+<p>来安利个VSCode插件，扩展商店搜“Gitbook kit”，编辑Gitbook的，代替那个难用的Gitbook编辑器。</p>
+<hr>
+<p>这看似是一个战术问题，实则应该提升到战略上来解决，俗话说：不要用战术的勤奋掩盖战略上的懒惰。</p>
+<p>举个例子：华为初期抄小米就抄的非常成功，因为余承东知道华为初期最弱的是：营销推广和渠道，刚开始和360没谈拢，最后选择小米作为标杆。小米做任何营销活动48小时内华为必有类似动作，反应之快令小米汗颜。产品上也是小米推出廉价机新品牌“红米”之后，华为荣耀紧接着推出了“畅玩”。这种打法使华为“荣耀”新品牌的手机销量在一年之内从100万部增加到2000万部。这也应验了我上次留言中说的要有稀缺和不可复制的竞争壁垒，才不容易短时间被超越。显然营销渠道和模式在华为面前没有任何竞争壁垒，学到就可应用。反过来别人去抄华为就得掂量了，华为自有5千多项专利就不是说抄就抄的啦。</p>
+<hr>
+<p>靠谱的区块链千篇一律，不靠谱的区块链各掉各的链子</p>
+<hr>
+<p>三、中国5G为何能够领跑？<br>“1G空白、2G跟随、3G参与、4G并跑”基本可以概括中国通信行业的发展历程，到了5G时代，中国则有望实现领跑。</p>
+<hr>
+<p>type-C 支持双向输出充电<br>支援 QC 快充的充電器一定會有一個小小的 QC 快充標誌，上面還會有小小數字註明是第幾代的QC快充。 </p>
+<p>有人的地方就有江湖，有江湖就有风波。BAT之后，好事者又演绎出“TABLE”。其中，TAB是BAT，L指雷军，E指周鸿祎。于是，互联网牌局从斗地主变成了炸金花。</p>
+<p>不料，“TABLE”又有了2.0版本：“TAB”是BAT，“LE”却合指一家公司——乐视。好嘛，互联网牌局从炸金花又变成了打麻将。s</p>
+<p>NSS分别是中文互联网最早一代的三个霸主新浪、搜狐、网易<br>“BAT”，分别是百度、阿里、腾讯<br>TMD分别是头条、新美大和滴滴，清一色的少壮派。<br>江湖也有另外一种说法，认为TMD的M是指小米</p>
+<p>那你一定要选好行业，选好公司，然后长时间沉淀，厚积薄发</p>
+<p>江浙沪凭啥就包邮？<br>江浙沪是电商巨头<br>和快递巨头的诞生地</p>
+<p>愿你一生有山可靠，有树可栖。与心爱之人，春赏花、夏纳凉、秋登山、冬扫雪。道一声：余生还长，请多多指教。</p>
+<p>温而厉的君子，我认为这是对吴军老师合适的形容</p>
+<p>浮躁，是因为红利得来太容易</p>
+<p>诸位读者在读这篇文章之前请先举个手，有没有谁听说过CAP理论，又有谁明白CAP理论到底是个什么东西的？作为新时代的码农和数据工程师，在大数据的浪潮下要是连CAP都不知道的话，那么我相信很容易这会成为诸位面试新职位的一个CAP，也会让大家在大数据时代显得特别的无知。</p>
+<p>简单回顾一下CAP的历史，2000年由UC Berkeley的Eric Brewer提出，并由2002年被MIT的俩大牛证明，是目前一切重要的大数据和分布式系统的基础指导理论，所谓的CAP实际上是：Consistency， Availability 和 Partition Tolerance。</p>
+<p>CAP理论是一个典型的worst case analysis，问题说一个网络平时不会莫名其妙断开</p>
+<p>命运这东西，向来欺软怕硬。</p>
+<p>你不认输，就不会输。</p>
+<p>不读书，你要青春干嘛？</p>
+<p>『名人』与『凡人』的区别</p>
+<p>1、名人用过的东西叫文物，凡人用过的东西叫废物；<br>2、名人年龄大了叫李老、张老，凡人年龄大了叫老李、老张；<br>3、名人发牢骚叫忧国忧民，凡人发牢骚叫杞人忧天；<br>4、名人外出叫考察，凡人外出叫玩耍；<br>5、名人的婚外情叫风流韵事，凡人的婚外情叫伤风败俗；<br>6、名人的酗酒叫豪饮，凡人的酗酒叫贪杯；<br>7、名人沉迷娱乐叫享受生活，凡人沉迷娱乐叫虚度光阴；<br>8、名人守旧叫发扬传统，凡人守旧叫顽固不化；<br>9、名人发脾气叫有魄力，凡人发脾气叫没修养；<br>10、名人耍酷叫有个性，凡人耍酷叫神经病；<br>11、名人做蠢事叫佳话，凡人做蠢事叫犯儍；<br>12、 名人放屁是生理的需求，凡人放屁是没礼貌；<br>13.名人在两会提意见叫提案，凡人提的意见叫“扯蛋”……</p>
+<p>中国城市的分类<br>中国的城市可以被分为三类：<br>一是像西安那样的普通城市，春夏秋冬顺序播放；<br>二是像昆明那样的文艺城市，春季单曲循环播放；<br>三是像长沙这样的任性城市，城市中的战斗机，战斗机中的VIP，春夏秋冬随机播放。今天18度，明天5度，后天20度。让人每天都很忙，忙着穿秋裤，脱秋裤，洗秋裤，收秋裤，找秋裤，穿秋裤……真是众里寻它千百度，你要几度就几度！</p>
+<p>啥叫春天？<br>春天就是：你以为春暖花开了，于是脱了秋裤，第二天又得穿上了！</p>
+<p>这样有「陈独秀」素质的人，一生就在等待伯乐，等待属于他们的大场面</p>
+<p>求伯君，那是一个单枪匹马开发出了里程碑式的汉字处理软件—WPS的英雄，是当时全国程序员的偶像。就像17岁的C罗晃倒了曼联的大将奥谢，引起了弗格森的注意，刚毕业的雷军通宵两周攻破了WPS，得到了求伯君的召唤。1992年，23岁的雷军只身北上，带着成为中国程序员中的「求伯君第二」的理想加入了金山软件。六年浮沉，历任了开发经理、软件经理等职务后，28岁的雷军成为了偶像的得力干将，坐上金山公司北京总经理的位置。</p>
+<p>足球世界重要错觉：「C罗没天赋，梅西不努力」。互联网世界重要错觉：「马化腾靠爹，李彦宏靠媳妇」。</p>
+<p>Hard work pays off! 天道酬勤。</p>
+<p><a href="https://mp.weixin.qq.com/s/ROQeflAL35BiZBzAMv-woQ" target="_blank" rel="noopener">蔡康永：我劝你，不要随便戒掉情绪</a></p>
+<p>蔡康永对颜如晶说：“比赛就是要赢，比赛输没有什么可开心的，但如果我非输不可，我希望输一场51：49的比赛。”</p>
+<p>作为一个懂电脑的 BOY。平常被姑娘问的最多一句话就是：我电脑出问题了，快帮我看一看。<br>而作为标准回答，往往也只有一句：你重启一下试试。  </p>
+<p>后来的事实证明这样做其实不好，因为这句话效率过高，导致姑娘们再没有什么事会联系你。</p>
+<p>怎么办，难道只能选择原谅重启键？于是当第一次有个姑娘告诉你：“我试过了，重启键没用”的时候，你才终于体会到，什么叫做能力越大，责任也就越大。</p>
+<p>2.没有什么是重启不能解决的，如果有，那就重装系统</p>
+<p>修电脑行规第三条：绝不帮人装任何杀毒软件</p>
+<p>业界一直流传着这样的说法：阿里重运营，百度重技术，腾讯重产品。</p>
+<h3 id="163"><a href="#163" class="headerlink" title="163"></a>163</h3><ul>
+<li><a href="https://jingyan.baidu.com/article/27fa7326ce12a046f9271f55.html" target="_blank" rel="noopener">163注销</a></li>
+<li>163邮箱一旦注册之后，默认是不可以注销的。所以在注册邮箱之前，一定要知道这个限定的条件。</li>
+<li>先取消掉你的邮箱绑定的手机号码。</li>
+<li>成功登录后，选择账号旁边的手机图标</li>
+</ul>
+]]></content>
+      <categories>
+        <category>summary</category>
+      </categories>
+      <tags>
+        <tag>tech</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>摘抄</title>
+    <url>/2019/12/02/191202-summary/</url>
+    <content><![CDATA[<blockquote>
+<p><font face="华文楷体">不开心的时候，不妨做个深呼吸。不过是糟糕的一天，又不是糟糕一辈子</font></p>
+</blockquote>
+<a id="more"></a>
+<h3 id="Quesion"><a href="#Quesion" class="headerlink" title="Quesion"></a>Quesion</h3><p>波音：一个帝国的傲慢与危机</p>
+<p>讲真，“Be Real，做真实的自己”，确实是美国文化很重要的一部分。<br>看了老板的消息不回复，员工本来就可以Real地直说嘛：“都特么12点了，是下班时间你心里没数吗？”</p>
+<p>但一旦寄希望于别人，<br>你就要有失望的思想准备。</p>
+<p>不是有句话说：<br>喜欢你的，会对你说我洗澡去了，之后还会说我洗完了，不喜欢你的，在说完我去洗澡后就像死在浴室一样。</p>
+<hr>
+<p>你认为别人在小县城假知足，别人也认为你在大城市伪精致，你羡慕他在小县城的闲云野鹤，他也羡慕你在一线城市的风光亮丽。</p>
+<p>但是受够了一线城市的我们，却又融不进岁月静好的小县城了。</p>
+<p>年少的时候，愿意努力拼搏，他日真的一事无成，也能无愧于心，也不会临老时才来悔恨，当年的自己没踏上征途。</p>
+<p>当然，在一线城市买房，并不能成为判断人生成败的标志，最多算是给个目标自己，在年轻的时候，体会一次全力以赴。</p>
+<p>哪怕真的回归小县城，过上慢生活，也应该是有底气的自给自足，绝不是好吃懒做，得过且过。</p>
+<hr>
+<p>遗憾的是你根本不懂我来路不明的恐慌。</p>
+<p>北斗地图APP，精确到1米范围内，精准到具体车道</p>
+<hr>
+<p>他们无往不利。为什么？</p>
+<p>就像我朋友圈乌央乌央的傻逼在转发《一个出身寒门的状元之死》时摘录的文中一句话：「希望我们都能成为，一个真正用力活过的人。</p>
+<p>哎，你们这辈子唯一用力的事就是：坚决不用脑。</p>
+<hr>
+<p>谈钱才能不伤感情。大部分人工作首先是为了生存。钱不能解决所有的问题，但是可以解决很多问题。这个问题展开来可以讲很多。但是我觉得最大的是很多人不理解广义上钱的价值。比如说我吃一顿饭花100，不便宜但是也很容易接受，买本书花100，好像就很贵。买飞总的专栏花200就非常的贵了。买名牌手机花5000也不贵。<br>之所以举例表达这个问题，是我们日常生活中形成的既有的对钱这个东西在什么时候贵什么时候便宜的判断是非常有偏见的。这种偏见又很容易被其他人比如说生意人利用。<br>你不能对钱有个相对客观而且中性的价值判断，那么无论是赚钱还是花钱都一定是有问题的。</p>
+<p><a href="https://www.jianshu.com/p/ace3bbcfa564" target="_blank" rel="noopener">移动硬盘显示盘符但是打不开，提示加密</a></p>
+<p>Win + R -&gt; <code>chkdsk D:/f</code><br>原因:<br>造成这种现象的可能是突然断电或者直接把移动硬盘从电脑上拔掉造成的</p>
+<h3 id="waiting"><a href="#waiting" class="headerlink" title="waiting"></a>waiting</h3><pre><code>如果此时你站在高处，你会想什么：我还能怎么办。
+                            一《大象席地而坐》
+
+罗素说：“蠢货对智者的言谈所做的翻译，永远都
+不可能准确，因为他会不知不觉地把他听到的话
+翻译成他自己能理解的东西。”</code></pre><hr>
+<p>第一本纯英文原版书，看得时候必然痛苦无比。</p>
+<p>然后你啃完了这一本，云里雾里完全不懂，但好歹是读完了。</p>
+<p>然后第二本，你觉得轻松一些了，很多东西你已经可以试着理解一些。</p>
+<p>第三本第四本，你会发现越来越轻松。最后就和看中文没差别。</p>
+<p>IT技术书刊有一个特点，就是专有名词重复出现，表述简练，大量代码。这些都给阅读带来了极大的便利。</p>
+<p>你问该不该坚持？我说该。</p>
+<hr>
+<p>有人说，出一本技术书压根就不挣钱；能卖出去3000本全凭运气。那我就要辩一辩了：<br>1、出书可能是我唯一一次会出名的机会，以此来提升自己的知名度；<br>2、出书可以扩大自己的影响力，扩展更多可能性；<br>3、出书是一种高质量的社交，我会因为写书而结交更多和我一样出书的人；<br>4、出书可以让自己变得更自信，是事业发展的一个不可或缺的助推器；<br>5、出书是每个人的一个梦；我的梦就快要成真了。</p>
+<hr>
+<p>这一天，改变了之前的看法。原来只需一根网线，就可以来一次VLAN风暴！<br>为什么一根网线插交换机的两个口会产生风暴？因为交换机会把发往广播地址的包，转发到所有接口上。如果有两个接口回路了，一旦出现广播包，就会彼此不断循环发送，耗尽整个设备的带宽。别小看交换机，它天生就是为发包设计的，风暴能把每个接口都占满，打出背板带宽的流量。STP协议就是为了解决这个问题，进行回路检测。</p>
+<hr>
+<p>无所谓出来的结果会很有趣<br>Well，it doesnft matter，Something interesting will come</p>
+<p>四、编程词汇台湾和大陆对比<br>英语原词台湾大陆<br>define定义预定义<br>抽象的<br>abstraction抽象体、抽象物、抽象性抽象体、抽象物、抽象性access存取、取用存取、访问<br>address space位址空间，定址空间address-of operator 取址运算子取地址操作符aggregation 聚合<br>allocate分配<br>allocator（空间）配置器分配器application framework 应用程式框架、应用框架应用程序框架architecture架构、系统架构体系结构argument引数（传给函式的值）。叁见parameter叁数、实叁、自变量|<br>arrow operator arrow（箭头）运算子箭头操作符装配件<br>assembly language组合语言汇编语言assert（ion）<br>断言<br>assign指派、指定、设值、赋值赋值</p>
+<p>毕竟，花钱有花钱的好处，但我也不会神化这个训练营的作用，跟着学个课程，多了解了一些知识，知道了原来不知道的信息，掌握了一点方法，这些无可厚非，参与这个训练营只是你改变人生的助推剂，而不是你的救命稻草，更不是你从此人生巅峰的武功秘籍，我只能保证你会比之前的自己发生了一些积极的改变。</p>
+<p>·压缩源码和图片<br>JavaScript文件源代码可以采用混淆压缩的方式，CSS文件源代码进行普通压缩，JPG图片可以根据具体质量来压缩为50%到70%，PNG可以使用一些开源压缩软件来压缩，比如24色变成8色、去掉一些PNG格式信息等。<br>·选择合适的图片格式<br>如果图片颜色数较多就使用JPG格式，如果图片颜色数较少就使用PNG格式，如果能够通过服务器端判断浏览器支持WebP，那么就使用WebP格式和SVG格式。<br>·开启服务器端的Gzip压缩<br>这对文本资源非常有效，对图片资源则没那么大的压缩比率。·使用CDN或者一些公开库使用第三方提供的静态资源地址（比如jQuery、normalize.css）。一方面增加并发下载量，另一方面能够和其他网站共享缓存。</p>
+<hr>
+<p>除了SSD和HDD，事实上，有许多数据就是用磁带存储的，包括基础科学数据，比如粒子物理学、射电天文学、人类文化遗产、国家档案、重要电影、银行、保险、石油勘探等数据。<br>磁带其实早就出现了，磁带技术没有停止前进的步伐，完全相反，就像硬盘和晶体管一样，在过去几十年里，磁带技术进步神速，而且它在未来几十年也不会消（亡。<br>之所以断言磁带会有很长的生命力，主要出于一个原因：便宜。事实上，磁带越来越便宜。同样大的数据，如果用硬盘存储，成本是磁带的6倍，所以你会发现，凡是需要存储大量数据的地方，都会用到磁带。</p>
+<p>我们希望你是一个火种型人才，可以自驱自己发光发热，更能点燃别人！<br>或者你是一个燃料型人才，可以被点燃发光燃烧，可以被激励勇往向前！<br>我们不想你是一个石头型人才，拒绝被点燃，冰冷不改变！</p>
+<p>其实我们网卡都有一个全球唯一的地址，这个地址一出生就确定了，就像你们人类的身份证一样，终生不变。无论我走到哪里，我都拥有这个唯一的标志：11：27：F5：8A：79：54，挺长的是吧，你们人类把它叫做MAC地址，简单起见，你可以叫我“TP-Link 7954”<br>《我是一个网卡》</p>
+<hr>
+<p>2、刚入职场，工资高低真不重要</p>
+<p>很多刚工作的人都这么选择：A公司比B公司的薪资高三四千，果断选择A公司。<br>通过工资高低来选择公司，是错误的认知。其实你想想啊，每个月少三千块钱你也不会饿着，每个月多三干块钱，你也不会变富。你应该把眼光放到这里：这家公司带给你的成长，能否让你未来更值钱，更具并竞争力。</p>
+<p>可能你会说，我怎么知道这家公司是否能让我未来更值钱啊。</p>
+<p>其一，你先看着这家公司所从事的业务，然后反问自己，这个业务是否有前景有价值？</p>
+<p>自己是否愿意在相当长的一段时间里，在这个业务领域进行沉淀耕耘？</p>
+<p>其二，公司里的leader或者领导，是否有想法有格局，做事有条理不混乱。直白点就是公司里得有个像样的大牛供你学习吧。刚入职场的你，大概率是除了会些技术，其他都不懂的。你的成长最好是有一个优秀的人作为参考。</p>
+<p>我特别想强调下，一定要把握自己的试用期，试用期是公司考核你是否合格的时间，也是你考核公司是否适合自己的时间，试用期离职不算跳槽，觉着不合适就要在试用期抓紧撤，不要勉强自己满一年后再撤。一来时间很重要，不要荒废自己一年的时间：二来满一年跳槽就是频繁跳槽的标记。</p>
+<p>3、不要频繁跳槽</p>
+<p>这个都知道，公司不喜欢频繁跳槽的人，更喜欢安定踏实的人，这是从公司的角度来看。从个人发展的角度来看，须繁跳槽也是对自己的不负责任。</p>
+<p>对于技术来说，一个人花点时间、花点精力，都可以把技术学的不错。但是业务沉淀则不同。作为开发，开始往往只能接触业务上的很小一段，要掌握整个业务背景下的技术架构体系、以及规范技巧，离不开长时间的沉淀。</p>
+<p>如果你不想多年后，只是一个代码熟练地码农。那你一定要选好行业，选好公司，然后长时间沉淀，原积薄发。</p>
+<hr>
+<p>小Q在一个创业公司呆了半年多，被赵总委以重任。小Q和我一起喝酒，聊到现在同事多弱智又矫情，客户多虚伪和吝啬，全靠他忠心耿耿的支撑着，老板也很感激他。我觉得还算正常，创业本来就不是件容易的事。但小Q接下来聊的话风就不对了：<br>·“张XX是个老员工，我帮他擦屁股他还咬我，赵总让我忍着点，大局为重。”<br>·“XX局的客户真坑爹，毁约责任赖我们头上了，赵总还演了一出周瑜打黄盖。”<br>·“XX供应商做的系统太烂了，我都重录了八次数据了，供应商是赵总的基友，要多照顾理解。”<br>小Q说这些窝囊事的时候，有嘲讽、调侃和愤怒，但更多是一种主人翁的归属感和使命感，还有一点点小优越。</p>
+<hr>
+<p>我这么洗粉，还是没洗干净，我希望三表龙门阵的留言区多一些有质量的评论。<br>1、奶茶是因为钱才跟刘强东的。<br>答：滚蛋，恶俗的价值观。<br>2.刘强东不仅道德有问题，还是个强奸犯。<br>答：滚蛋，法院都没判，你拿键盘就给判了？<br>3.说不定是奶茶设的局。<br>答：滚蛋，这里不欢迎阴谋论，去订阅一些小说家的账号吧。<br>4.这里不是柯南破案现场，有推理癖的请绕道。<br>答：不用滚蛋，这里需要睿智的你。</p>
+<hr>
+<p>不备案，搜索引擎不会收录的</p>
+<p>3.提升认知比学技术重要<br>技术随时都在更新换代，学会了很快会过时。我刚开始做设计时，学一款软件是Flash。<br>当时为了练好这个，连续几个通宵没睡觉，实现一个效果高兴好几天。<br>但现在什么用没有，因为这款软件已经被淘汰。你可以没有任何的一技之长，当你不断学习、提升认知、不排斥新鲜事物，你就能通过你的内涵，认识到更多的人。<br>我不会什么技术，但我可以找到会这个技术的人，去帮我解决问题，达到目的，资源整合能力才是核心。</p>
+<hr>
+<p>理财能让你学会做事有规划，让你更有目标，增加自身安全感，缺钱的人更应学会理财，才能改变不合理的消费习惯，攒下自己的第一桶金。<br>学会存钱，克制欲望。<br>你永远不知道什么时候要用到钱。</p>
+<hr>
+<p>.第1章一流的工作基本（Basic）<br>.第2章一流的自我管理（Discipline）<br>.第3章一流的工作心态（Mindset）<br>.第4章一流的领导能力（Leadership）<br>.第5章一流的自我实现（Self-realization）</p>
+<p>远比智商、学历重要，如何提高“工作IQ”？在世界各职场上司的训斥中学到的77条教训</p>
+<hr>
+<p>思维模型0次<br>底层逻辑0次<br>商业模式0次<br>认知升级0次<br>流量池0次<br>黑天鹅0次<br>灰犀牛0次<br>大局观0次<br>全局观0次<br>宏观0次<br>干货0次<br>策略0次<br>战略0次<br>复盘0次<br>焦虑0次<br>口碑0次<br>愿景0次<br>原理0次<br>效应0次<br>模型0次<br>以上2018年度热门词汇，张小龙一个都没说。<br>而说的最多的是：<br>用户114次<br>朋友105次<br>时间43次<br>希望37次<br>真实18次<br>原则16次<br>善良12次<br>勇敢6次<br>美9次<br>另外，“底线”这个词，说了4次。</p>
+<hr>
+<p>在这个世界，有一点失望，有一点希望</p>
+<p>如若至此，未来可期</p>
+<p>未曾成为理想中的自己</p>
+<hr>
+<font face="华文楷体">
+&emsp;&emsp;另一方面，当追求阅读量的时候，我就会忽略阅读本身的趣味。有时会不自觉地倾向于去读更容易读的书、更薄的书、更口水的书、更熟悉的领域的书，而不是读那些艰难晦涩、历经时代锤炼的经典。<br>
+&emsp;&emsp;《禅与摩托车维修艺术》中说过：仓促本身就是最要不得的态度。当你做某件事的时候，一旦想要求快，就表示你再也不关心它，而想去做别的事。 <br>
+&emsp;&emsp;《如何阅读一本书》也用了很大的篇幅谈阅读速度的问题，我记得其中一个观点是如果我们读得超快，只能说明我们在读一本并不值得读的书。 <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——摘自《二爷鉴书》
+</font>
+
+<hr>
+<font face="华文楷体">
+&emsp;&emsp;产品经理行走江湖不看招式也不看颜值，产品，才应该是他唯一的名片。 <br>
+&emsp;&emsp;如此看来，开个专栏写产品设计，对我来说实在是个忐忑之举。摸爬滚打数年，纵使有一腔倾诉欲，却又担心所观所想会误人视极客邦总裁池老听闻后，拍桌子瞪眼说：“你把我们用户当什么人，怎可能你一句两句就能给带偏了？” <br>
+&emsp;&emsp;我一想也是，专栏作品从来不是什么“教程”，而应当是一扇可供交谈的窗口，所谓知识经济，其实带来最有价值的不是知识，而是求知的启发。 <br>
+</font>
+-------
+![](/images/company/yu-jun.png)
+
+<hr>
+<font face="华文楷体">
+
+<p>&emsp;&emsp;很明显，这些追逐热点的文章都是在抓人的注意力：使用耸人听闻的标题，引诱你去点击，点击以后头条会以为你喜欢，再给你推荐更多的垃圾信息。<br>&emsp;&emsp;这个App真是充分利用了人性的弱点：猎奇。<br>&emsp;&emsp;有段时间我感觉大脑的结构都要被改变了，变得喜欢这种刺激的标题，喜欢点击这种信息垃圾，喜欢一直不断地看下去，当然，时间也就悄悄地溜走了。<br>&emsp;&emsp;慢慢地，我感觉被今日头条给困住了。它像一个机器不断地通过管道给我输送信息碎片，我不用思考，信息碎片就会源源不断地端上来，喂给我，塞给我。我感觉到它在背后偷偷地笑：“看看，又一个上瘾的家伙！”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——摘自《码农翻身》</p>
+</font>
+
+
+<blockquote class="blockquote-center">毕业在即，“你的第一份工作，是选择一个公司还是选择一个行业”</blockquote>
+
+
+<blockquote class="blockquote-center"><p>大象无形，大音希声</p>
+</blockquote>
+
+<font face="华文楷体">
+
+<p>&emsp;&emsp;毕竟大趋势已不可逆，与其为了面子“死熬”，还不如及时止损，将精力放在更有前途的业务上！<br>&emsp;&emsp;打败口香糖的不是木糖醇，而是微信、王者荣耀。在超市收银台这个消费场景，过去顾客在排队缴费的时候无聊就往购物篮里拿上两盒口香糖，而今天大家都在看微信、刷朋友圈、玩王者。<br>&emsp;&emsp;还有：街头的警察没有变得更多，而扒手却越来越少。消灭扒手的，也不是警察，而是微信、支付宝。越来越多的人，口袋里没有现金，扒手不得不失业。<br>&emsp;&emsp;&emsp;&emsp;——摘自《互联网情报》 </p>
+</font>
+
+<h3 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h3><font face="华文楷体">
+
+<p>&emsp;&emsp;大大小小的公众号每天都在关切女人们，关切她们的衣柜里是不是总是少一件衣服，尽管她们已经有了几十件无比昂贵但是只穿过一次的衣服。<br>&emsp;&emsp;话说这帮人真的很厉害，每隔一段时间，他们都能让女人们发自内心的觉得自己无比需要一只好像颜色区别也没有那么大的口红、一个价格明显多打了一个零的新包，以及一双虽然谁也说不出新在哪里但是你说新款就新款吧的鞋子。<br>&emsp;&emsp;如果男人无法理解这种需求的必要性，这帮人已经早早准备好了罪名等着你：不解风情的直男癌。<br></font></p>
+<hr>
+<font face="华文楷体">
+
+<p>所以，其实交接代码最重要的事儿，就是：<br>&emsp;不要被浩渺如烟并且陌生怪诞的代码吓得不敢动弹，现在就开始读，立刻，马上，坚持十分钟，再坚持十分钟，你就能妙悟真谛。<br>最后，当你再碰到这种事儿的时候，请记住老前辈的这句警世良言：<br>&emsp;那些不能将你击溃的代码，都将成为你成长的垫脚石。<br>&emsp;&emsp;&emsp;&emsp;——摘自《前端你别闹》<br></font></p>
+<hr>
+<font face="华文楷体">
+
+<p>&emsp;&emsp;我前段时间微博发了一个段子，当然段子不是真的，但反应的情况其实很常见。<br>&emsp;&emsp;“您认识不认识某某大佬？”，“认识啊。”<br>&emsp;&emsp;“能不能给我介绍一下？”，“麻烦再说一遍。”<br>&emsp;&emsp;“能不能给我介绍一下？”，“前面那句。” “您认识不认识某某大佬？”，”不认识。“<br>&emsp;&emsp;我认识谁谁就要给你介绍，凭什么？我介绍等于我的信用背书，我的信用是有成本的，不是说不介绍，第一能不能先自我简介一下，是干嘛的，为什么要认识某某大佬，自己有什么诉求。第二，这事和我的关系是什么，凭什么我的信用就随便拿出去用了。<br></font></p>
+<hr>
+<font face="华文楷体">
+
+<p>王牧笛：事实上老子思想的一个基本逻辑就是物极必反，所以赞成<br>“无为”。“无为”并不是说什么都不做，而是强调做事情的度。</p>
+<p>据说还要打造更豪华的纪念地，收费可能也更贵，您觉得这是一个好现象吗？<br>答：我听出了你的答案。但是，孔子早就不仅仅是学术文化界的现象，我们已经没有权利来设计他。历代皇帝祭孔，仪式宏大；普通民众朝圣，更喜欢热闹。与孔子几乎同时代的佛祖释迎年尼，哲思多么深奥，但世间庙堂出现的却是密集的叩拜和香火。圣人塑造社会几分，社会也塑造他几分。如果你不喜欢热闹，那么，你安静了，他也安静了。这就像你喜欢屈原，自可默默喜欢，不必嘲笑端午节赛龙舟的民众读不懂《离骚》。</p>
+<p>我想讲一句俗话了：为什么别人不喜欢你？因为你故意面目狰狞。</p>
+<p>天下皆知美之为美，斯恶矣。皆知善之为善，斯不善矣。<br>这是我选取的第二句。它的意思是：当人们都知道什么是美的时候，就是丑了；当大家都知道什么是善的时候，就是不善了。老子认为我们不能举着旗子去宣传“美”和“善”，不能刻意去追求好的</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>杜月笙有一句经典名言：“头等人，有本事，没脾气。二等人，有本事，有脾气。末等人，没本事，大脾气。”这句话非常适用于每一位蘑菇或者疑似蘑菇的人。换个说法，先做到不管有没有本事，先做到没脾气。那么不管你有没有遇到伯乐，有没有遇到好领导，小蘑菇大蘑菇都有一片成长的空间。</p>
+<p>其次，在病房里和父亲苏大强对峙的一场戏里，明玉提到自己曾做过DNA检测，想知道自己到底是不是父母的亲生女儿。其实一直困扰她的问题是，父母为什么不爱我，而对这个问题唯一合理的解答是，我不是父母的女儿。钱虽然是衡量爱的一种方式，但不是全部，失去的练习册、生活费、房子可以通过自己努力补回来，失去的爱却不能。卧室被卖、升学机会被剥夺，这种外在显性的不公待遇，不是明玉年少时人生困境的本质。家暴的阴影和父爱母爱的缺失，才是原生家庭带给明玉最大的伤害，这些伤害，本质上是无法通过个人奋斗和世俗上的成功来治愈的。相反，它还能随时把你打回原形，打回那个幼小无助的孩子。</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>小地方很多人脑子转不开，你每天去跟他们吵吵，时间精力都浪费在这上面了。<br>小时候以为有钱人都很跋扈，心都是黑的。长大后才发现，很多有钱人都懂得很多，经历很丰富，做事儿很认真，为人很宽厚，理性，比穷人更好相处。<br>我以前有个做微商的朋友，她就说过一句话，原来以为十块钱的肯定比一千块的好卖，但是其实一千块的产品更好卖，因为卖十块钱的往往时间都浪费在顾客纠缠给不给包邮，能不能少一块这种事上了，而买一千块的东西的人反而更好说话。<br>这就引出一个时间价值的问题，当你处在层次越低的地方，你的时间价值就越小，一个小时都在争论一块钱的事，你这一小时就是值这一块，一下午都在讨论谁谁谁又出轨了，你的一下午也就值这点绯闻。</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>他们为了要“逃避责任”，经常说：“我不懂业务，这次上线的内容，你要把每一步都写得清清楚楚，我只管执行，不问为什么，出了问题可不是我的责任。”你说气人不气人！难道他就想当个机器人吗？</p>
+<p>还有，他们运维团队每个人侧重不同，有人负责数据库脚本执行，有人负责Web服务器，有人负责SSO，我的天，每次上线前都得把一堆人拉过来开好几次会，让他们熟悉操作步骤。这个人部署了一次，好不容易熟悉了，下一次又换了一个人，还美其名日这是人力资源池，能提高效率，但是新人又需要从头儿学习，这怎么可能不出错？！唉.……</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>在他眼里，视频动态是朋友圈的反面。对于朋友圈，他说了一句扎心的话——越是自己的短处，越要发个朋友圈强化它。</p>
+<p>视频动态跟朋友圈不一样，提倡的是真实的，而不是美的。所以拍完一个视频动态底下的按钮不叫[完成」、不叫「发表」，而是「就这样」。「就这样]包含了一个含义是，这个视频可能并不好看，但是就这样了，我就发了。这就是很真实的。然后为了让用户能够勇敢发的，故意让别人看不到你的这个视频，必须要点你的头像进去再下拉一下才可以看到，来减少你发一下「就这样]视频的压力。<br>r就这样]这三个字，体现了微信的特点和文化。<br>—— 摘自《刘兴亮时间》</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>还有一个原因是最近发布的微信7.0版本。张小龙调侃说：当然又有5亿人吐槽，有1亿人教我怎样做产品了，并且还有8亿人看不懂「因你看见，所以存在 到底是什么意思。</p>
+<p>06</p>
+<p>PC时代，浏览量最大的页面是哪个？</p>
+<p>是Google的首页，还是百度的首页？抑或是Hao123？</p>
+<p>答案都不是，是微软E浏览器的404页面。这个页面浏览量那么大，那微软为啥不在页面放广告呢？</p>
+<p>微信的开机的那个地球页面访问量也非常大，为什么不放广告呢？每次打开微信，就光让大家盯着个地球看？</p>
+<p>—— 摘自《刘兴亮时间》<br></font></p>
+<hr>
+<font face="华文楷体">
+
+<p>2.朋友圈晒加班不是绝对不可以，只是尽量不要晒自己一个人在加班，最好在整个部门或团队加班的时候，把大家一起加班的照片拍进去，并配上一两句比较积极的话，这才是高级职场智慧。</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+这世上，还有比生病更可怕的病，那恐怕就只有穷病了。钱这个东西，生不带来，死不带走，但是，在生活中，它能让你活的更自由；在生病的时候，它让你更有尊严。
+
+
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>我就问小Q，你被绿茶婊养备胎，花钱丢脸费时间的事，这么快就忘了吗？现在性别女变男，情场变职场，你小子又浪成背锅侠了。</p>
+<p>职场背锅侠就是一一创始人的心态+高管的责任+中层的能力+基层的权限+底层的待遇。</p>
+<p>职场背锅侠就是鸡汤文读多了，认为自己劳苦功高的“给大哥打江山”，将来大哥身价百亿，自己也能资产上亿做个VP。“大哥“每次宽慰背锅侠，也都是“忍忍将来不会亏待你”。</p>
+<p>我很理解小Q，仿佛看到了年轻时的自己，也不完全怪鸡汤文，除了奉献自己，小Q找不到更好的机会了，这次创业是他第一次有资格上牌桌进赌局。</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+<p>检查一个偶像红不红的方法也很简单，你带大名说一句他的坏话，看看多久会有他的粉丝过来劝你删帖并友好地提示你的发言上了他们的“广场”（指搜索明星大名时微博显示的页面）。作为一个粉丝，察觉到偶像红了的重要时刻经常是-一当你一如既往地在自己的微博说一些有关他的屁话时，会有其它粉丝跑来留言说：“这样对XX不太尊重呢，劝删。”</p>
+<p>有句俗话可以清楚地概括其中的原理：当你爱上一个人时，既有了软肋，也有了铠甲。</p>
+<p>如果你成了某个偶像的粉丝，被鉴定拥有了这个人的“粉籍”，那么这个偶像的其他粉丝便会来规范你的行为–这是软肋。同时会在和别的偶像粉丝起冲突的时候来维护你——这是铠甲。相应地，路人对于偶像的恶意也会天然地降临在你的头上，这方面的心理准备是必须要有的。</p>
+<p>—— 摘自《GQ报道》<br></font></p>
+<hr>
+<font face="华文楷体">
+
+<p>不过，在实际工作中，大多数人都高估了自己可执行粒度，低估任务分解的程度。换句话说，如果你没做过任务分解的练习，你分解出来的大部分任务，粒度都会偏大。</p>
+<p>只有能把任务拆分得非常小，你才能对自己的执行能力有一个更清楚地认识，真正的高手都是有很强的分解能力。这个差别就相当于，同样观察一个物品，你用的是眼睛，而高手用的是显微镜。在你看来，高手全是微操作。关于这个话题，后面我们再来细聊。</p>
+<p>一旦任务分解得很小，调整也会变得很容易。很多人都在说计划赶不上变化，而真工的原因就是计划的粒度太大，没法调。</p>
+</font>
+
+<hr>
+<font face="华文楷体">
+
+
+</font>
+
+<h3 id="你好，旧时光"><a href="#你好，旧时光" class="headerlink" title="你好，旧时光"></a>你好，旧时光</h3><p>你好，旧时光<br>    — 八月长安<br>    《回不去的小时候》<br>    《陪你到青春最后》<br>    《岁月的童话》</p>
+<p>振华的传统是，毕业典礼在高考之前的五月末。据说是某一届的校长说过，高考之后，世事难料，人情冷暖，孩子们都会因为得意、失意而变得有些沧桑，最美好单纯的毕业典礼，恰同学少年，应该在尘埃未定的时候。</p>
+<p>时间是公平的，一万个人的五分钟，还是五分钟。</p>
+<p>原来让一个人变强大的最好方式，就是拥有一个想要保护的人。</p>
+<p>潜意识中，那么笃定，那么自然而然的笃定，从来不曾想过原因。</p>
+<p>眼前的小丫头，一脸严肃和憧憬，那双眼折射着橙黄色的车灯，闪耀出一片意味不明的光彩，一不留神，就会被灼伤。<br>陈桉转过去不再看她，”周周，你输不起吗？”<br>余周周点点头，”我输不起”。</p>
+<p>喜怒形于色是需要资本的</p>
+<p>她们所有人在时间和距离面前无能为力，甚至都无法对抗自己的健忘和无情，成长的道路上总有更新奇的事情，更有趣的新朋友，人的心灵却很小，根本装不下那么多，所以一路前行，一路抛弃。</p>
+<p>我今天忽然觉得自己很幸福，原来幸福这个词是需要对比的，和更惨的人对比。</p>
+<p>墙上的挂钟，滴滴答答，不急不缓，不会因为你处在困境中就快走两步，也不会因为你幸福得意就慢走两步。<br>时间是最公平的魔法师。</p>
+<p>命运毫无征兆地单膝跪地，恭恭敬敬地为她穿上了水晶鞋，小小灰姑娘诚惶诚恐，甚至都来不及谢恩。</p>
+<p>别后多年，戏剧相逢，这原来并不只是电视剧里面才有的离谱情节。又或者说，离谱的从来都不是重逢，而是他们竟然还记得彼此，并真心地想念对方。很多人缺少的并不是重逢，而是一颗喜悦念旧的心。</p>
+<p>大部分人，还是会凑凑合合过一辈子。凑合的朋友，一茬来了一茬又走了；一般般的婚姻，吵吵闹闹却又承担不起离婚的成本。<br>所以大家才喜欢离谱的电影电视剧，我们的人生，要靠别人才能起伏。</p>
+<p>旧时的伙伴，一个一个都消失不见了。不过，安心听从命运的安排，留不下的，就让它走，还能回来的，就心存感激</p>
+<p>被逼无奈，握手言和。</p>
+<p>那些许多年后甚至都不会想起来的集体荣誉，在某一个时刻却会让一个女孩努力到虚脱。余周周不明白文艺委员到底为什么这么执着，这样一个颁发给全班56个人的奖项，却有55个人都不在乎。</p>
+<p>子女欠父母，又被自己的子女多亏欠…… 我们一代又一代的人，就是这样转圈欠账，生生不息。</p>
+<p>真正的道别是没有道别，真正心甘情愿的道别，根本无须说出来，就已经兴冲冲地奔向新生活了。愿意画句号，根本就是恋恋不舍的表现。</p>
+<p>温淼的妈妈有着朴实而热情的声音 ，几乎是余周周心里面传统母亲的典范。而她以前也在家长会之前见过温淼的爸爸，平和而豪爽的男人，对着温淼有着出奇的宽容和放任。<br>这样的家庭，应该是能够长成温淼这样的家伙的吧。<br>“我觉得你这种小富即安吊儿郎当的样子也没什么不对，”她故意用老气横秋的语气说，“你过得太幸福了。”</p>
+<p>“嘘！” 余周周瞪了他一眼，“图书馆里面不许大声喧哗！”<br>温淼斜眼看了看看报纸的爷爷，笑了。<br>“整个阅览室就咱们四个，一个严重耳背，一个基本聋哑，剩下的也就你对我有意见，而我向来不在乎你的意见，于是……” 他再次端起课本，油腔滑调地大声念道，“How time flies!”</p>
+<p>余周周哼了一声，“得了吧，就你？”<br>温淼把双手背在脑后，只是笑。<br>“周周，当你放下戒备，真心想要对一个人好的时候，你就成了瞎子。”</p>
+<p>你为什么不理我。这是只有小孩子才能问出来的话，不在乎自尊，不在乎姿态高低。随着他们越长越大，所有人都渐渐学会了保护自己，在别人疏远前先一步动身，在别人冷淡时加倍地默然，在得不到的时候大声说，我根本就不想要啊。</p>
+<p>初夏的午后，就连沉默都暖洋洋的，时间好像倒流了十年。</p>
+<p>所以余周周格外强烈地希望妈妈能够幸福。世界上有一种幸福，是余周周无法给予妈妈的，多么勤奋懂事也不能。</p>
+<p>“让所有我喜欢的人都过上好日子。”<br>尤其是你。</p>
+<p>曾经余周周以为不幸是种巧合。<br>现在她才明白，真正的巧合，是幸福。世界上最罕见的巧合。</p>
+<p>原来还是有执念，还是想要做点什么，哪怕只是甩一个耳光，说一句狠话，或者用最最世俗的方式取辱骂和炫耀。<br>她想要见到他和他们。她现在退无可退，破釜沉舟，没有任何值得担心和在意的人，除了她自己。</p>
+<p>她说完就走，不敢回头，可是背后的人却追了上来。<br>“你不懂我说的话吗？”余周周脸色冷了下来。。<br>林杨好像不再慌张，反而笑了出来。<br>“都这么多年了，这么多事了，如果我还是相信你说的话，”他摇摇头，“那我就是头猪。”</p>
+<p>辛锐很想笑，每次她遇到何瑶瑶，每次她假模假式地想要释然要升华，就会被对方激怒，然后重回那个痛苦的死循环。<br>她回头，微笑，“是你啊，”走过去，“考试考得怎么样？”<br>何瑶瑶明显只是一时冲动喊了她的旧名来逞口舌之快，并没有和她多谈的打算，何况是关于成绩。<br>“没怎么样，”她耸耸肩，“就那样呗，我也不在乎。”<br>辛锐继续微笑，“猜到了，也就那样，我也是随便问问，礼貌而已。”</p>
+<p>即使余周周没有伤害过她。<br>公主们最大的错在于，她们是公主。</p>
+<p>武文陆转述这句话的时候，凌翔茜瞬间绽放出一脸灿烂到凄惨的笑容。<br>“我的确没有什么别的想法啊。”<br>从现在开始。</p>
+<p>开始揣摩《四季》里面到底哪一季更富有表现力——只是为了某个能够延续的话题。<br>她们活得一点都不高雅，听什么高雅音乐？</p>
+<p>释怀可以交给时间，也可以交给自己，每个人一直都有能力解放自己。</p>
+<p>余周周想起余婷婷。她的小姐妹告诉过她，病房里面弥漫着的气味让人作呕，孤独会改变一个人。<br>他们一天来一趟。<br>他们一星期来一趟。<br>他们一个月来一趟。<br>他们一年来一趟。<br>他们不再来。</p>
+<p>她爽快地定好了时间，然后早早地站在酒店门口等待。<br>这个男人，总是轻易承诺，轻易毁约，然后对过往只字不提，却仍然能语气温和地打来电话。</p>
+<p>“有时候觉得，生活就像是陀螺一样，转来转去，有时候会发现转到了原点。”<br>“每每长大一点，都以为会很不同，实际上到最后发现，只是高级一点的复制。”<br>滔滔流逝的旧时光，其实绕了个圈，重新冲刷了他们每一个人。<br>但是。<br>“但是我还是觉得，我过得很精彩。”</p>
+<p>世界不完美，但是我们还拥有选择和改变的能力。大不了，她还可以伸手造一个新的世界出来。</p>
+<p>这是第三次放生。<br>第一次放开胖子的时候，他脱口而出一句经典台词，“米乔你他妈给我等着——”<br>然后被米乔拽着领子一把拖回来：“你姑奶奶我等不了！”<br>当然是一顿K.<br>第二次放生的时候，胖子学乖了，二话不说转身就跑。<br>米乔又是拽着领子一把拖回来：“连个再见也不说，你眼里还有班长吗？没礼貌！！！”<br>当然又是一顿K.<br>第三次胖子陪着笑脸说尽了好话连滚带爬地跑远，米乔只是板着脸说了声“再见”，没有再找茬。<br>“怎么不打了？”冀希杰抱着胳膊站在一边问。<br>米乔幽幽叹口气，“打不动了。他的肉都是有弹力的，打得手腕疼。”</p>
+<p>楚天阔只当她是说些漂亮话，因为这种漂亮话谁也说得没有他自己多。<br>“哦，是嘛？”他笑。<br>“我知道你很好奇我和林杨怎么能那么不顾大局，你也很好奇曾经和你很相似的陈见夏怎么就一下子魔怔了奋不顾身了——但是你只是好奇一下，偶尔感慨一下自己的青春没有我们这些人张扬……”<br>她直视着他的眼睛。<br>“但是你并不认为自己有任何错误。”<br>楚天阔不再笑。<br>“事实上你也没有错。你跟我说这些，只是好奇，自己努力地为了过得好而付出了很多，内外兼修，但是好像也并不怎么快乐，那么，像我和林杨，我们有没有后悔，是不是比你开心，比你满足——你只是好奇这件事情，对不对？”<br>长时间沉默之后，楚天阔慢慢开口，“那答案呢？”<br>余周周笑，“我只能告诉你，如果你做了我们做的事情，你会比现在更难受。”<br>所以不必再好奇，也不必改变。<br>每个人都不是一夜成长成现在的样子的。<br>他有他的选择，无关对错。<br>算计和经营着的青春，也未必不精彩。<br>他没有反驳。<br>他不是不喜欢那个美丽的女孩子。<br>只是害怕，害怕她发现自己不会打字的那一张脸孔。事情发展成这样，他不是不可惜。只是如余周周所说，其实，他并不后悔。<br>也不遗憾。<br>走错路的孩子，并非不是好孩子。<br>那么一步也没有走错过的孩子，是不是很可怜？</p>
+<p>回过神来，余周周竟然捕捉到了这个心不在焉的笑容，并在朝她感激地笑。<br>辛美香刹那间明白了自己和沈屾的区别。<br>沈屾只想要第一名。她可以不穿漂亮的衣服，不在乎人缘，不在乎一切，只要第一名。<br>而辛美香，她想要变成余周周，又或者说，变成余周周们。<br>她们招人喜爱，家庭幸福，生活富足，朋友众多，成绩出色，前途远大，无忧无虑。<br>辛美香何其贪心。</p>
+<p>她每次微笑，都因为她以为自己是别人。<br>因为总有一天她会变成别人。<br>即使温淼说，别人未必幸福。<br>辛锐不知道。<br>她只知道，做自己，一定不幸福。</p>
+<p>她只是道歉。<br>这次轮到蒋川不知所措了。<br>也许是每天每天太过熟悉和亲近了，蒋川自己都没有发现，那个被他哄着捧着的毫无顾忌的小公主，也学会了道歉。<br>三个人自小形成的与外界隔绝的保护层，似乎再也无法容纳越长越大的他们了。外界的侵蚀让公主学会了低头，也让骑士不再无怨无悔。<br>直到某天在食堂看到林杨的对面坐着余周周，一脸无赖中夹杂着患得患失。<br>直到某天在开水间看到凌翔茜和楚天阔并肩涮杯子，小心翼翼的目光中充满了卑微和喜悦。</p>
+<p>很久之后当辛锐从一个小个子口中得知余周周见不得人的家事之后，那个瞬间她忽然听清了晚上送她回家的北风中，温淼临别前最后喊的那句话。<br>很朴素很朴素的一句话。<br>“你怎么老觉得别人过得一定比你好啊？”<br>辛锐忽然自嘲地笑起来。<br>世界上比温淼优秀聪明幸福的人有千千万，可是他不觉得别人比他好。<br>他不觉得，所以他最快乐。<br>辛锐曾经想要就此顿悟，奈何有些事情，开始了就无法结束。</p>
+<p>那时候辛美香没能够控制好自己的表情，间或流露出了一副羡慕的神情，被日理万机的余周周捕捉到了。<br>她开着玩笑说：“美香你倒是来帮帮忙嘛。”语气中带有疑似假模假式的嗔怪。<br>余周周式的温柔和善解人意。<br>带着一种小说和电影中的主角光环，晃瞎了旁人，偏偏又显得那么周到，无可指摘，最最可恨。</p>
+<p>“你是不是以为我从此体会到我父母的苦心，发奋读书，成了一个有出息的小伙子？”<br>“沈屾，那是你，不是我。”<br>“我倒还真的努力了一阵儿，也不知道我是真的不是那块料，还是因为努力地太晚了，总之中考还是考得特别差。…………………………”</p>
+<p>对于沈屾来说，这只是一个她琢磨不明白的问题而已。<br>你的钱，哪儿来的？<br>不过听到他说是朝父亲借的钱，沈屾有种豁然开朗的感觉。不过是资本主义原始积累。<br>就像那个没有血缘关系的姑妈能把自己成绩一塌糊涂的儿子花钱弄进振华再弄进省里最好的高效最好的专业。说沈屾心里没有一丝计较，谁都不会信。<br>可悲的就是，他们都不会相信，从小争第一的沈屾，真的从来不曾计较。<br>莫羡人有，莫笑己无，有本事就自己去争取。</p>
+<p>妈妈经年累月对从此一蹶不振的爸爸的抱怨和数落让詹燕飞很小就学会了在密集的言语攻击下排除一切干扰专心致志地玩洋娃娃。<br>在不久之后郑老师夸奖她小小年纪就能够在任何情况下排除干扰专心背稿的时候，詹燕飞还不知道“因祸得福”这个词。<br>也许人年少时候的所有天赋，都源于苦中作乐而不自知。</p>
+<p>………灯光熄灭，观众退场，都需要注射镇静剂来平复心情。这件事情她并不知道可信度有多少，然而却能够理解——被那样多的人围在中央，仿佛站在世界的中心，被当作神明膜拜，如果是她自己，总归也是需要点镇静剂的。<br>她也需要。不是给自己注射，而是给无法接受女儿再也无法出现在屏幕上这一事实的妈妈。<br>有时候她会胡思乱想。妈妈究竟是为她骄傲，还是单纯喜欢在演出结束后混在退场的观众人群中被指点“看，那就是小燕子，那就是小燕子的家长”？她不敢往深处想。为人子女，从来就没有资格揣测母爱的深度和动机。</p>
+<p>所有人都夸她的时候，好像只有郑博青没有给她特别的好脸色，仍然冷冷的，一视同仁，偶尔诡异地笑一笑。每次她参加完什么活动之后，总会被郑博青找去单独谈话，告诉她，不能驼背，语速不要太快，卡壳之后不要抹鼻子拨刘海，眨眼睛不要太频繁……<br>她说一条，詹燕飞就点一下头，乖乖地改。<br>最大的快乐，并不是成为著名童星。而是有一天，郑老师轻描淡写地说，还行，还听得进去话，都改了，没骄傲。<br>她雀跃了一整天。</p>
+<p>她实在不算什么。<br>井里的蛤蟆，梦想太大，是罪过。<br>从此之后，别人夸她以后是大明星，她都会深深低下头。<br>这次，是真的在谦虚。</p>
+<p>她和小时候一样乖巧地承受了一切，正如当年承受命运抛给她的沉重的机遇，什么都没有说。只是很多事情，她没有想起，并不代表忘记。</p>
+<p>做一个小时的公交去远在城市另一边的图书市场闲逛一个下午。她淹没在杂乱的书海中，暂时忘却了自己给自己设置的层出不穷的目标和望不到尽头的未来。<br>她比余周周晚到了一步，店主从犄角旮旯翻出已经被压得皱巴巴的试卷集，面对着两个一边高的女孩的灼灼目光，说了价钱就退到一边让她们一起商量。<br>沈屾沉默着。她从来都喜欢用沉默的压迫来解决问题。并不是策略，只是她并不会别的方式。</p>
+<h3 id="奥斯卡·王尔德"><a href="#奥斯卡·王尔德" class="headerlink" title="奥斯卡·王尔德"></a>奥斯卡·王尔德</h3><p><a href="https://www.zhihu.com/question/19646592" target="_blank" rel="noopener">如何评价奥斯卡·王尔德及其作品？</a></p>
+<p>The only difference between a caprice and a life-long passion is that the caprice lasts a little longer.<br>逢场作戏和终身不渝之间的区别只在于逢场作戏稍微长一些。 </p>
+<p>When one is in love, one always begins by deceiveing one’s self, and one always ends by deceiving others. That is what would calls a romance.<br>爱，始于自我欺骗，终于欺骗他人。这就是所谓的浪漫。<br>——恋爱总是以自欺开始，以欺人结束。 </p>
+<p>The very essence of romance is uncertainty.<br>浪漫的精髓就在于它充满种种可能。 </p>
+<p>Man is a rational animal who always loses his temper when he is called upon to act in accordance with the dictates of reason.<br>人是理性动物，但当他被要求按照理性的要求行动时，可又要发脾气了。 </p>
+<p>My wallpaper and I are fighting a duel to the death. One or other of us has to go.<br>墙纸越来越破，而我越来越老，两者之间总有一个要先消失。——1900年11月30日，于左岸旅店，他的遗言。 </p>
+<p>No man is rich enough to buy back his own past.<br>-An Ideal Husband (1895)<br>没有人富有到可以赎回自己的过去。 ——改编自《理想的丈夫》 </p>
+<p>The truth is rarely pure and never simple.<br>-The Importance of Being Earnest (1895)<br>真相很少纯粹，也决不简单。 ——《不可儿嬉》 </p>
+<p>To love oneself is the beginning of a lifelong romance.<br>爱自己是终身浪漫的开始。 ——爱自己就是开始延续一生的罗曼史。 </p>
+<p>We are all in the gutter, but some of us are looking at the stars.<br>我们都生活在阴沟里，但仍有人仰望星空。 </p>
+<p>Most people discover when it is too late that the only things one never regrets are one’s mistakes.<br>大多数人发现他们从未后悔的事情只是他们的错误，但发现时已经太晚了。 </p>
+<p>What is the chief cause of divorce? Marriage. 什么是离婚的主要原因？结婚。 </p>
+<p>When a love comes to an end, weaklings cry, efficient ones instantly find another love and wise already had one in reserve.<br>当爱情走到尽头，软弱者哭个不停，有效率的马上去寻找下一个目标，而聪明的早就预备了下一个。</p>
+<p>No great artist ever sees things as they really are. If he did he would cease to be an artist.伟大的艺术家所看到的，从来都不是世界的本来面目。一旦他看透了，他就不再是艺术家。</p>
+<p>I represent to you all the sins you have never had the courage to commit.<br>我给你们讲述的是所有你们没勇气去犯的罪孽。 </p>
+<p>One can always be kind to people one cares nothing about.<br>一个人总是可以善待他毫不在意的人。 </p>
+<p>We Irish are too poetical to be poets; we are a nation of brilliant failures, but we are the greatest talkers since the Greeks.<br>我们爱尔兰人太诗意以至不能做诗人，我们的国家里充满才华横溢的失败者，可我们是自希腊人以来最伟大的说空话之人。 </p>
+<p>What seems to us as bitter trials are often blessings in disguise<br>看似痛苦的试炼的往往是伪装的祝福。 </p>
+<p>The advantage of the emotions is that they lead us astray.<br>情感的好处就是让我们误入歧途。 </p>
+<p>Over the piano was printed a notice: Please do not shoot the pianist. He is doing his best.Personal Impressions of America (Leadville) (1883)<br>钢琴上贴着一条告示：请不要枪杀钢琴师，他已经尽力了。 </p>
+<p>The heart was made to be broken.<br>心是用来碎的。 </p>
+<p>The public is wonderfully tolerant. It forgives everything except genius.<br>公众惊人地宽容。他们可以原谅一切，除了天才。 </p>
+<p>Religions die when they are proved to be true. Science is the record of dead religions.<br>宗教一旦被证明是正确时就会消亡。科学便是已消亡宗教的记录。 </p>
+<p>Why was I born with such contemporaries<br>为什么我会和这样同时代的人一块出生呢？ </p>
+<p>A poet can survive everything but a misprint. 诗人可以从任何事件中存活，印刷错误除外。 </p>
+<p>Only the shallow know themselves.<br>-Phrases and Philosophies for the use of the Young (1894)<br>只有浅薄的人才了解自己。 </p>
+<p>The only way to get rid of temptation is to yield to it… I can resist everything but temptation.<br>摆脱诱惑的唯一方式是臣服于诱惑……我能抗拒一切，除了诱惑。 </p>
+<p>Discontent is the first step in the progress of a man or a nation<br>不满是个人或民族迈向进步的第一步。 </p>
+<p>I like to do all the talking myself. It saves time, and prevents arguments. 我喜欢自言自语，因为这样节约时间，而且不会有人跟我争论。 </p>
+<p>Quotation is a serviceable substitute for wit. 格言是智慧耐用的替代品。 </p>
+<p>A dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world. 梦想家只能在月光下找到前进的方向，他为此遭受的惩罚是比所有人提前看到曙光。 </p>
+<p>Every saint has a past and every sinner has a future. 每个圣人都有过去，每个罪人都有未来。 </p>
+<p>To live is the rarest thing in the world. Most people exist, that is all. 生活是世上最罕见的事情，大多数人只是存在，仅此而已。 </p>
+<p>I have nothing to declare except my genius. 除了我的天才，我没什么好申报的。 </p>
+<p>I like men who have a future and women who have a past 我喜欢有未来的男人和有过去的女人。 </p>
+<p>Pessimist: One who, when he has the choice of two evils, chooses both. 悲观主义者是这种人：当他可以从两种罪恶中选择时，他把两种都选了。 </p>
+<p>Society exists only as a mental concept; in the real world there are only individuals. 社会仅仅以一种精神概念而存在，真实世界中只有个体存在。 </p>
+<p>What is a cynic? A man who knows the price of everything and the value of nothing 一个愤世嫉俗的人知道所有东西的价格，却不知道任何东西的价值。 </p>
+<p>I like persons better than principles, and I like persons with no principles better than anything else in the world. 我喜欢人甚于原则，此外我还喜欢没原则的人甚于世界上的一切。 </p>
+<p>It is the confession, not the priest, that gives us absolution 给我们赦免的，是忏悔而不是牧师。 </p>
+<p>I don’t want to earn my living; I want to live. 我不想谋生；我想生活。 </p>
+<p>Moderation is a fatal thing. Nothing succeeds like excess. 适度是极其致命的事情。过度带来的成功是无可比拟的。 </p>
+<p>The only thing worse than being talked about is not being talked about. 世上只有一件事比被人议论更糟糕，那就是没有人议论你。 </p>
+<p>When the gods wish to punish us, they answer our prayers -An Ideal husband, 1893<br>当神想惩罚我们时，他们就回应我们的祈祷。<br>-《一个理想的丈夫》 </p>
+<p>“Life is never fair…And perhaps it is a good thing for most of us that it is not.” -An Ideal Husband，1893<br>生活从来不是公平的……而且，或许对我们大多数人来说，这是件好事。<br>-《一个理想的丈夫》 </p>
+<p>How can a woman be expected to be happy with a man who insists on treating her as if she were a perfectly normal human being. 如果男人坚持把她当作一个完全正常的人，女人如何能期望会从他那里获得幸福。 </p>
+<p>All charming people, I fancy, are spoiled. It is the secret of their attraction 我想所有迷人的人都是被宠爱着的，这是他们吸引力来源的秘密。 </p>
+<p>Nothing is so aggravating than calmness. 没有比冷静更让人恼火的。 </p>
+<p>Popularity is the one insult I have never suffered. 声望是我从未经受的侮辱之一。 </p>
+<p>Ridicule is the tribute paid to the genius by the mediocrities. 奚落是庸才对天才的颂歌。 </p>
+<p>To do nothing at all is the most difficult thing in the world, the most difficult and the most intellectual 什么也不做是世上最难的事情，最困难并且最智慧。 A true friend stabs you in the front. 真朋友才会当面中伤你。 Ordinary riches can be stolen, real riches cannot. In your soul are infinitely precious things that cannot be taken from you. 平常的财宝会被偷走，而真正的财富则不会。你灵魂里无限珍贵的东西是无法被夺走的。 The well bred contradict other people. The wise contradict themselves. 教养良好的人处处和他人过不去，头脑聪明的人处处和自己过不去。 Hatred is blind, as well as love. 恨是盲目的，爱亦然。 Looking good and dressing well is a necessity. Having a purpose in life is not. 注意穿着打扮是必要的。而拥有生活目标却并非如此。 Always forgive your enemies - nothing annoys them so much. 永远宽恕你的敌人，没有什么能比这个更让他们恼怒的了。 Children begin by loving their parents; as they grow older they judge them; sometimes, they forgive them 孩子最初爱他们父母，等大一些他们评判父母；然后有些时候，他们原谅父母。 There are only two tragedies in life: one is not getting what one wants, and the other is getting it. 生活中只有两种悲剧:一个是没有得到我们想要的，另外一个是得到我们想要的。 ——世上只有两类悲剧，有些人总是不能遂愿，而有些人总是心想事成。 A gentleman is one who never hurts anyone’s feelings unintentionally. 绅士就是从不无心伤害别人感觉的人。 Conversation about the weather is the last refuge of the unimaginative 谈论天气是无趣人类最后的避难所。 One’s real life is often the life that one does not lead. 真实生活就通常就是我们无法掌控的生活。 Wickedness is a myth invented by good people to account for the curious attractiveness of others 邪恶是善良的人们编造的谎言，用来解释其他人的特殊魅力。 Every great man nowadays has his disciples, and it is always Judas who writes the biography 现在每个伟人都有自己的信徒，而他们的传记总由叛徒来写。 The world has been made by fools that wise men should live in it. 愚人创造了这个世界，智者不得不活在其中。 Men marry because they are tired; women because they are curious; both are disappointed. 男人因疲倦而结婚，女人因好奇而结婚；最终他们都会失望。 The happiness of a married man depends on the people he has not married. 已婚者的快乐来自那些他没有娶的人。 Twenty years of romance make a woman look like a ruin; but twenty years of marriage make her look like a public building. 20年的韵事使女人变成一片废墟，20年的婚姻使女人变成一座公共建筑。 When a woman marries again,it is because she detested her first husband.When a man marries again,it is because he adored his first wife. Women try their luck; men risk theirs. 女人再嫁是因为憎恶前夫，男人再娶是因为太爱前妻。 ——女人再嫁是因为讨厌原来的丈夫，男人再娶是因为太爱原来的妻子。在寻找配偶时，女人习惯碰运气，而男人则会冒险。 Men become old, but they never become good. 人们越长越老，但绝不会越变越好。 The evolution of man is slow. The injustice to man is great. 人类的进化很缓慢。他们遭受的不公待遇显而易见。 Rich bachelors should be heavily taxed. It is not fair that some men should be happier than others. 对富有的单身汉应该客以重税。让某些人比其他人更快乐是不公平的。 The advantage of the emotions is that they lead us astray, and the advantage of science is that it is not emotional. 情感的好处就是让我们引入歧途，而科学的好处是不感情用事。 I adore simple pleasures. They are the last refuge of the complex. 我敬佩简单的快乐，那是复杂的最后避难所。 Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul. 除了感官，什么也不能治灵魂的创痛，同样，感官的饥渴也只有灵魂解除得了。 A good name, like good will, is got by many action and lost by one. 一个好的名声，就像好的意向一样，在很多个举动的形成，在一个举动中失去。 It is absurd to divide people in to good and bad. People are either charming or tedious. -Lady Windermere’s Fan, 1892, Act I 把人分成好的与坏的是荒谬的，人要么迷人，要么乏味。 -《温夫人的扇子》 Women are meant to be loved, not to be understood. -The Sphinx Without a Secret 女人是用来被爱的，不是用来被理解的。 -《没有秘密的斯芬克斯》 Life imitates art far more than art imitates Life. 艺术并非模仿生活，而是生活在模仿艺术。 Everyone is born king, and most people die in exile. 每个人生来都是君王，但大多数在流亡中死去。 When I was young , I used to think that money was the most important thing in life , now that I am old , I know it is. 我年青时以为金钱至上，而今年事已迈，发现果真如此。 Don’t be afraid of the past. If people tell you that it is irrevocable, don’t believe them. 不要惧怕过去。如果人们告诉你说过去的事情无可挽回，别相信他们。 An idea that is not dangerous is unworthy of being called an idea at all. 一个思想若称不上危险，那么它就不值得被称作思想。 Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion. 争论是俗不可耐的，因为道德社会里每个人都持完全相同的观点。 Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away. 死亡和庸俗是十九世纪仅有的无法用巧辩逃避的东西。 Patriotism is the virtue of the vicious. 爱国是恶人的美德。 Whenever people agree with me I always feel I must be wrong. 每次人们赞同我的时候，我都觉得自己一定错了。 I am not at all romantic. I am not old enough. I leave romance to my seniors. 我一点都不浪漫。我还不算太老。还是把浪漫留给比我老的人吧。 Wicked women bother one. Good women bore one. That is the only difference between them. 坏女人给我麻烦。好女人令我厌烦。这就是她们唯一的不同。 Experience is the name every one gives to their mistakes. 每个人犯了错误，都自称是经验。 ——经验是一个人给自己所犯的错误取的名字。 And, after all, what is a fashion? From the artistic point of view, it is usually a form of ugliness so intolerable that we have to alter it every six months. Literary and Other Notes I, Woman’s World (November 1887) 时尚是一种让人难以忍受的丑陋，以至于我们不得不每六个月就更改一次。 ——时装丑陋得完全令人无法容忍，以至于我们必须每6个月就改变它的样式。 A man’s face is his autobiography. A woman’s face is her work of fiction. 男人的面孔是他的自传，女人的面容是她的幻想作品。 There is only one real tragedy in a woman’s life. The fact that her past is always her lover, and her future invariably her husband. 女人的生活中只有一个真正的悲剧：她总在缅怀过去，却必须活在未来。 We teach people how to remember, we never teach them how to grow. 我们教给人们如何记忆，却从来不教他们如何成长。 Anybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend’s success. -The Soul of Man under Socialism (1881) 任何人都能对朋友的不幸感到同情，但要消受一个春风得意的朋友，则需要非常优良的天性。 -《社会主义下人的灵魂》 “If a woman can’t make her mistakes charming, she is only a female.” -Lord Arthur Savile’s Crime 如果一个女人不能让她犯的错误变得迷人，她就只是一个雌性动物。 -《亚瑟·萨维尔勋爵的罪行》 “Most men and women are forced to perform parts for which they have no qualifications. Our Guildensterns play Hamlet for us, and our Hamlets have to jest like Prince Hal. The world is a stage, but the play is badly cast.” -Lord Arthur Savile’s Crime 大多数男人和女人被强迫扮演他们没有能力扮演的角色。我们的吉尔登斯吞为我们演哈姆雷特，而我们的哈姆雷特必须像霍尔王子一样来说笑。这个世界是个舞台，但角色被分配得很糟糕。 –《亚瑟·萨维尔勋爵的罪行》 *注：吉尔登斯吞，霍尔王子均为莎士比亚作品中人物 A little sincerity is a dangerous thing, and a great deal of it is absolutely fatal. 不够真诚是危险的，太真诚则绝对是致命的。 A man can’t be too careful in the choice of his enemies. 一个人在选择他的敌人时，再小心也不为过。 All women become like their mothers. That is their tragedy. No man does. That’s his. 所有女人都会变得像她们的母亲一样，这是女人的悲剧。但没有男人变得像他们的父亲，这是男人的悲剧。 America is the only country that went from barbarism to decadence without civilization in between. 美国是唯一一个直接从野蛮进入颓废、中间没有经过文明阶段的社会。 Arguments are to be avoided; they are always vulgar and often convincing. 要避免争论，争论总是俗不可耐，而且常常令人信服。 As long as a woman can look ten years younger than her own daughter, she is perfectly satisfied. 只要一个女人看上去比她自己的女儿小十岁，她就一定会心满意足。 Bad artists always admire each other’s work. 糟糕的画家总是欣赏彼此的作品。 Between men and women there is no friendship possible. There is passion, enmity, worship, love, but no friendship. 男女之间不可能存在友谊，有的只是爱恨情仇。 Conscience and cowardice are really the same things. 良心和怯懦其实是一回事。 Dammit sir, it’s your duty to get married. You can’t be always living for pleasure. 该死，先生，结婚是你的职责，你不能总是逍遥快活。 Democracy means simply the bludgeoning of the people by the people for the people. 民主就是指人民用人民的大头棒打击人民。 Don’t give a woman advice; one should never give a woman anything she can’t wear in the evening. 不要给女人忠告；决不要给女人任何她晚上不能穿戴的东西。 Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught. 教育是一件可敬的事，但要时刻牢记，没有什么值得知道的事是教得会的。 I adore political parties. They are the only place left to us where people don’t talk politics. 我喜欢政治晚会，这是唯一人们不谈政治的地方。 I am not young enough to know everything. 我已经老了，没有足够的时间去了解一切。 I am so clever that sometimes I don’t understand a single word of what I’m saying. 我简直太聪明了，有时连我自己都不知道自己在说什么。 I have made an important discovery…that alcohol, taken in sufficient quantities, produces all the effects of intoxication. 我有一个重大发现——如果摄入足量酒精，就会产生各种陶醉的效果。 I like talking to a brick wall, it’s the only thing in the world that never contradicts me. 我喜欢对一堵墙说话，世界上只有它不会反驳我。 I love acting. It is so much more real than life. 我喜欢看戏。与人生相比，戏剧更加真实。 I often take exercise. Why only yesterday I had breakfast in bed. 我经常锻炼。只是昨天我是在床上吃的早饭。 I think that God, in creating Man, somewhat overestimated his ability. 我想，上帝在创造人类时高估了他的能力。 I was working on the proof of one of my poems all morning, and took out a comma. In the afternoon I put it back again. 我整个早上都在校对自己的一首诗，我去掉了一个逗号。下午我又把它加上去了。 Ignorance is like a delicate flower: touch it and the bloom is gone. 无知就像是一朵精致的花朵：摸一下，它就消失了。 It is a very sad thing that nowadays there is so little useless information. 这是一件很悲哀的事——如今几乎没有无用的信息。 It is better to be beautiful than to be good, but it is better to be good than to be ugly. 个性善良不如长相美丽，不过个性善良总比生得丑好。 It is characteristic of all deep human problems that they are not to be approached without some humor and some bewilderment. 所有人类的重大问题都有一个共同点：没有点幽默和疯狂是没办法解决的。 It is only the intellectually lost who ever argue. 争论者损失的只是智力。 It is very easy to endure the difficulties of one’s enemies. It is the successes of one’s friends that are hard to bear. 来自敌人的困难可以忍，来自朋友的成功则无可忍。 Life is one fool thing after another whereas love is two fool things after each other. 人生就是一件蠢事追着另一件蠢事而来，而爱情则是两个蠢东西追来追去。 Like dear St Francis of Assisi I am wedded to Poverty: but in my case the marriage is not a success. 就像亲爱的圣芳济一样，我也和贫穷联姻，但我的婚姻并不成功。 Marriage is the triumph of imagination over intelligence. Second marriage is the triumph of hope over experience. 结婚是想象战胜了理智，再婚是希望战胜了经验。 Music makes one feel so romantic—at least it always gets on one’s nerves, which is the same thing nowadays. 音乐让人感觉非常浪漫，至少让人感觉不安，如今两者是一回事。 No woman should ever be quite accurate about her age. It looks so calculating. 没有女人应该对她的年龄十分准确。这显得有些精于算计。 One should never trust a woman who tells her real age. If she tells that, she’ll tell anything. 一个人决不应该相信说出自己真实年龄的女人。如果她把这都说出来了，那她什么都会说。Tell the cook of this restaurant with my compliments that these are the very worst sandwiches in the whole world, and that when I ask for a watercress sandwich I do not mean a loaf with a field in the middle of it. 请转告我对这家饭店厨师的赞誉，这是全世界最糟糕的三明治了，还有，我点的是豆瓣菜三明治，我并不是要面包片中夹一块菜田。 The basis of optimism is sheer terror. 乐观的基础完全是恐惧。 The Book of Life begins with a man and a woman in a garden…It ends with Revelations. 《生命之书》始于一座花园里的一男一女……它最后以《启示录》告终。 The difference between journalism and literature is that journalism is unreadable and literature is not read. 报纸和文学的区别是，报纸没法读，而文学则没人读。 The only thing to do with good advice is to pass it on. It is never of any use to oneself. 对于忠告，你所能做的，就是把它奉送给别人，忠告从来就不是给自己准备的。 The only way to get rid of a temptation is to yield to it. 摆脱诱惑的唯一方法是屈服于它。 The play was a great success, but the audience was a disaster. 演出相当成功，但观众则是一场灾难。 This suspense is terrible. I hope it will last. 悬念是可怕的。我希望它一直延续下去。 Thirty five is a very attractive age; London society is full of women who have of their own free choice remained thirty-five for years. 三十五岁是一个非常有吸引力的年龄；伦敦社交圈内满是这样好多年一直保持三十五岁的女人，她们可以自由地挑来选去。 To lose one parent may be regarded as a misfortune; to lose both looks like carelessness. 失去一个父母可以看成是一种不幸；失去双亲看上去就像是一种粗心了。 When good Americans die they go to Paris. When bad Americans die they go to America. 当美国的好人死了，他们就去巴黎。当美国的坏蛋死了，他们就去美国。 All bad poetry springs from genuine feeling. 所有糟糕的诗歌都源于真情实感。自然化的作品其内涵是显而易见的，而显而易见的内涵并不艺术。 Women are never disarmed by compliments. Men always are. That is the difference between the sexes. 恭维话从来没有让女人缴械，但可以让男人缴械。这就是性别差异。 </p>
+<p>Women have a much better time than men in this world. There are far more things forbidden to them. 女人在世上的日子要比男人好过得多。她们有太多禁忌。 </p>
+<p>Women love men for their defects; if men have enough of them women will forgive them everything, even their gigantic intellects. 女人因为男人的缺点而爱男人；如果男人的缺点足够多，女人什么事都可以原谅他们，哪怕是他们的智力。 </p>
+<p>Women represent the triumph of matter over mind, just as men represent the triumph of mind over morals. 女人代表着物质战胜了理智，正如男人代表着理智战胜了道德。 </p>
+<p>A man who does not think for himself does not think at all. 一个人倘若不为自己思考，那就从未思考过。 </p>
+<p>Young men want to be faithful, and are not; old men want to be faithless, and cannot. 年轻人想有信仰，但他们却没有；老年人不想有信仰，但却办不到。 </p>
+<p>Ambition is the last refuge of the failure. 雄心壮志是失败最后的避难所。 </p>
+<p>An excellent man; he has no enemies; and none of his friends like him. 一个极其优秀的人。他没有敌人，而他的朋友也没有一个喜欢他的。</p>
+<p>Time is a waste of money. -Phrases and Philosophies for the use of the Young (1894) 时间即是浪费金钱。 </p>
+<p>If one tells the truth, one is sure, sooner or later, to be found out. 说真话的人迟早要被揭穿。</p>
+<h3 id="夜奔"><a href="#夜奔" class="headerlink" title="夜奔"></a>夜奔</h3><p>徐少东：当我收到移民局的通知，看到那个水晶玻璃的大提琴，已经是1947年的冬天了，距离林冲死在医院整整一年，我无法想象这会是我们再见面的方式，那个大雪的夜晚，我一个背转身，我和林冲既是生离，也是死别。这些年，我的梦，始终是在那个雪夜的道路上无止尽奔跑，或者梦见自己赶赴医院，见他最后一面，握着他的手，对他说出我的爱。</p>
+<p>通信（英儿和少东）<br>少东：很久没有给你写信了，你好吗？<br>英儿：知道金秋是你的归期，心里有莫名的高兴。<br>少东：我该送什么当作见面礼？<br>英儿：真是不可思议，我们那么熟悉，怎么可能还没有相遇。告诉我，你最想念什么，关于家乡的事。<br>少东：我离家太久，家乡对我，比异国他乡还要陌生。很多看来理所当然的情感，其实并不纯粹。比方乡愁，亲情。虽然读过许多对它的描述，但我找不到属于它的声音，颜色和气味。还有爱情，理所当然的爱情。这对我是另一个讽刺。我的感知依靠接触，好比琴弓压在弦上擦出来的声音，至于我可以听见它，感觉到它震动我的指尖和胸口。我不迷恋虚构的世界。<br>英儿：你的话让我惭愧，我是这样心甘情愿地的沉迷在一个虚构的世界里，那些戏台上的忠义和情爱。昨天看了《牡丹亭》的寻梦，还是哭了，比起现实生活，我更熟知那些戏曲故事里的人，他们的悲喜冷暖，有时候一句唱词就能让我落泪。我但愿你，不觉得我可笑。<br>少东：不。也许我回来，是为了在家乡埋一滴眼泪，好让我这一生也有了乡愁。</p>
+<p>英儿看《林冲夜奔》：<br>   是他，我发誓，在这一刻前，我从来没有想过他就是荣庆班挑梁唱夜奔的武生，那一张安静的脸，那一双总是回避开的眼睛，几时见过他的身手，还是不能相信。<br>   数时辰，时辰至，弃朝廷……也只有林冲。</p>
+<h3 id="徐飞"><a href="#徐飞" class="headerlink" title="徐飞"></a>徐飞</h3><p>我们说的职场期望管理包括两方面：我对别人的期望和别人对我的期望。这两者其实都是需要我作为个体进行合理的管理的。如果我们没有管理好期望，那么职场上可能就会出现很多问题了。</p>
+<p>我们还是从一个小故事讲起。有个码农小张，为人非常的淳朴谦虚。组里开发业务核心系统。系统不稳定，但是又很重要。所以一贯做法需要人力去堆。所以这个工作需要轮流值班。</p>
+<p>小张年轻又没女朋友，天天都以公司为家。组里所有人如果因为自己有别的事情无法值班了，叫小张帮忙顶一天，小张都乐于帮忙。大家也都夸小张非常的好。</p>
+<p>小吴是比小张晚进来的女码农。人长的漂亮社交面广，程序写的不行。北美大公司有diversity的要求。领导也就把小吴供着了。但是小吴值班不行。于是小吴每次轮到值班都找小张帮忙，小张也经常通宵达旦的值班。</p>
+<p>有一次小张的好友结婚，周五晚上要从西雅图飞洛杉矶参加第二天的婚礼。正好赶上小吴值班，周六却突然出事了。小吴打电话找小张没有打通。当时小张正帮忙着好朋友张罗婚礼。</p>
+<p>由于小吴迟迟不能解决问题，客户一路的提升事情的优先级，最终到了VP那里。小吴不得不惊动了组里资深的老李，以及领导老王等若干人。这些人又费了很多力气，终于把这个事情给查出来修好了。</p>
+<p>周一，小张回公司上班，等待的是组里就这个事情做了一个反省和检查。在会议上，小吴表示自己刚进组不到一年，对很多事情都不熟悉。事发第一时间就找小张了。但是小张迟迟没有回应。老李也表示不理解组里出了那么重要的事情，小张这个平时表现很好的组员怎么关键时刻掉链子了。领导老王语重心长的对小张说：小张你这样的表现，会影响你今年的考评的。</p>
+<p>VP顺利收到了事故调查报告。报告里，从发现事情的小吴，到及时参与修理的老李，到领导有方的老王，都做了自己应该做的事情，关键时刻掉链子的小张，成了背锅侠。半年后的考评，小张拿了一个不及格。</p>
+<hr>
+<p>大约一年零三个月前，飞总受到极客时间邀请去开了一个知识付费专栏技术与商业案例解读。当时是欣喜若狂，因为辛辛苦苦写了一年公众号终于获得了认可。后来发现是极客时间的第一代三只小白鼠之一。这三只小白鼠里面的一直真老鼠左耳朵耗子茁壮成长了，其他两只难兄难弟，常年居极客时间所有专栏后两位。</p>
+<p>一把鼻涕一把泪的事情，飞总的公众号写过很多了，国庆节的时候也总结了一年写专栏的感受。这里就不再展开诉苦了。这一年多做下来，有脾气的我也被收拾的没脾气了。但是有两件事情，我是一直耿耿于怀的。第一是我的专栏长期高居排行榜倒数第一。我这辈子第一个倒数第一贡献给了极客时间。第二是极客时间的运营每次我问起来都和我说，飞总，你的专栏真TMD难卖。我想我怎么了，写的好好的专栏，咋就卖不过别人呢。</p>
+<p>双十一来之前一周，极客时间说双十一有大活动，问我愿不愿意参加。我是非常犹豫的。这个犹豫主要是两方面。一方面是参加对作者来说代价很大。具体代价容我后面再说。另外一方面是，如果我不参加，好不容易通过国庆的努力从倒数第一爬到了倒数第二，估计立马跌回去做干年老么。是可忍孰不可忍。</p>
+<p>但是我更加困惑的是，为什么我的专栏如此难卖。于是在极客时间和我联系这个活动的时候，我就决定亲自下海去卖一次专栏。正好赶上了新专栏NGINX上市。于是我找极客时间，在他们目瞪口呆完全不能理解好好的赚美元的人，偏偏要跳下海去赚没几块钱的人民币，从作者成为推销者。可是我实在不能理解那些极客时间运营每次带着说不清楚是推脱还是翻视的眼神抛过来的话：飞总，你的专栏真的是TMD难卖！</p>
+<p>那么为什么不直接去卖我的专栏呢？没有对比就没有伤害，我在自己的公众号，知识星球，朋友圈，在我认识的不怎么熟的各种人的群里都推过我自己的专栏，我已经无法通过卖自己的专栏来体会一个运营是怎么推销一个专栏的。于是就这样吧，来的早不如来得巧，赶上NGINX上新。心动不如行动。也许这次事情做完了，我也可以决定自己是不是愿意付出那个代价，上极客时间双十一的促销了。</p>
+<p>我先观察了一下其他渠道，也就是其他的公众号，博客号之类是怎么销售NGINX。不看不知道，一看吓一跳，亮瞎我的狗眼。极客时间给渠道是卖一个专栏返现24块，专栏售价68块。渠道则是打出了24块钱一分钱不要，你只要通过我来买专栏，我就把24块返现全部都返给你的口号，活脱脱的一群群的活雷锋在各个公众号和各种微信群里。</p>
+<p>怎么办？怎么办？总不能刚接下活就直接搭摊子吧。得了，我决定赔本做买卖。你们都做活雷锋了，我倒贴钱卖行不行。于是我赶紧行动起来，所有飞总的知识星球的订阅者，一律倒贴6块钱，所有的飞总公众号的和各种社群的，一律倒贴1块钱。你们不是都返24吗，我返25。看看谁牛逼。一方面是被逼急了，眼红拼刺刀，另外一方面我又在幻想，要是一下子卖出几千，我岂不是要赔几千人民币了。</p>
+<p>大概是活雷锋们都没有想到杀出一个倒贴钱的货来。NGINX的市场顿时一片混乱。在极客时间的各种群里飞总开始和备路人马厮杀。开始有第一个买家了。买家说，你返25对吧，我说是的。这个是我通过你的推广买的，钱付一下。25的红包出去了，极客时间的24渠道返现还没进来。于是乎手忙糊乱了一阵子。</p>
+<p>我在公众号上也推了个图片，想买NGINX的扫码加微信群，我赔钱卖。我一度幻想这个群会爆，因为腾讯公司对超过100人的群就无法扫码进群了。我在我的星球了更是史无前例的倒贴6块钱卖一个。</p>
+<p>一个人进群了，又一个人进群了。怎么没有人买啊。等了好久，终于有人买了，赶紧发红包感谢人家让我赔本卖出了一份吧。好景不长，这边公众号推广的不给力，那边群里又开始出事信了。有雷锋忍不住了，限时2小时，返26，比我还多赔一块钱的卖。</p>
+<p>我也拼红了眼睛，那我就返27，赔3块钱卖。这场热火朝天的战争，一直从这个群厮杀到了那个群，从那个群厮杀到了这个群。如此惨烈的薪杀，最后我发现，所有的群里大概卖出了50个专栏。让我前后赔了不到70人民币。而我在公众号上的推广，大约有2000人阅读了，其中45个人加了群，卖了12份，转换率差不多是千分之五。外加我在自己星球卖掉了三四份。前后亏了100人民币。</p>
+<p>结束战斗的时候，我对自己骂了一句，NGINX真TMD难卖。老子亏钱大甩卖，也不让我多亏一点咽。回头再去想极客时间运营们无比即视的眼光对我说：飞总，你的专栏真TMD难卖。我有一种哭也不是，笑也不是的感觉了。</p>
+<p>这个事情做完，我就知道亏本赚吆喝的事情其实也是很难的。但是极客时间双十一的活动也不得不参加啊。不然，都这么难卖的市场下，我还不努力，千年老么做一辈子啊。即使参加的代价是如此巨大的，我也认了。那么，我先说一下极客时间双十一这次空前力度买我专栏的方法，然后给大家算一算代价。</p>
+]]></content>
+      <categories>
+        <category>summary</category>
+      </categories>
+      <tags>
+        <tag>summary</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>ONE-words</title>
-    <url>/2019/12/02/191202-words/</url>
+    <url>/2019/12/01/191201-words/</url>
     <content><![CDATA[<blockquote>
 <p><font face="华文楷体">你来人间一趟，你要看看太阳，和你的心上人，一起走在街上</font></p>
 </blockquote>
 <a id="more"></a>
-<font face="华文新魏" color="#777777">
+<h3 id="URL"><a href="#URL" class="headerlink" title="URL"></a>URL</h3><ul>
+<li><a href="http://m.wufazhuce.com/article/3686" target="_blank" rel="noopener">一生热爱，回头太难</a></li>
+<li><a href="http://m.wufazhuce.com/movie/1189" target="_blank" rel="noopener">短暂的婚姻</a></li>
+<li><a href="">请回答1988</a></li>
+<li><a href="">最好的爱情就是你在我身边</a></li>
+<li><a href="">一个人的北京</a></li>
+<li><a href="http://m.wufazhuce.com/article/3806?channel=singlemessage" target="_blank" rel="noopener">你会不会爱上她？</a></li>
+<li><a href="http://m.wufazhuce.com/movie/1175" target="_blank" rel="noopener">关于《天才枪手》</a></li>
+<li><a href="http://m.wufazhuce.com/movie/1165" target="_blank" rel="noopener">爱一个人，是给你变很多很多的魔术</a></li>
+<li><a href="">我这么好笑，都是男人逼的</a></li>
+<li><a href="">在我 20 岁的时候，从没想过 40 岁的我会是这样</a></li>
+<li><a href="">不是我难追，是你根本没追啊</a></li>
+<li><a href="">我聪明好看又有趣，你却说我贤惠？</a></li>
+<li><a href="">你暗中关心了我几次，要记得告诉我</a></li>
+<li><a href="">男朋友老问我这些蠢问题，我该怎么办？</a></li>
+<li><a href="">滚滚红尘</a></li>
+<li><a href="">谁不是一边以为自己是天才，一边长成了路人？</a></li>
+<li><a href="">情人节最可怕的礼物，就是男朋友对我说的情话</a></li>
+<li><a href="">主动是勇敢，也是逃避</a></li>
+<li><a href="">疯狂的黄渤</a></li>
+</ul>
+<h3 id="摘抄"><a href="#摘抄" class="headerlink" title="摘抄"></a>摘抄</h3><font face="华文新魏" color="#777777">
 
 <p>我终于找到了让自己喜欢的工作方式。天色还暗时起床，打开笔记本电脑，接着写下去，直到手机又开始收到各种消息时就停止。在这段时间里，我头脑清醒，耳聪目明，如果运气好的话，往往写得很顺利。我不再信任夜晚写出来的文字，它们总有种快要睡着的仓促和疲惫。夜晚让人软弱，不如清晨坚定，现在我更喜欢铿锵有力的早上，而不是转辗反侧的深夜，这让我高兴。<br>&emsp;&emsp;&emsp;&emsp;——摘自《最正确的人生》<br></font></p>
 <hr>
@@ -1626,10 +2545,23 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <p>&emsp;&emsp;世界都过于庞大，我们小小人类，抱怨两声，并不算过分。只是抱怨完了，日子还要继续。诺顿先生，我偶尔羡慕头脑简单，执行力爆棚的人，他们坚定且盲目，似乎很少感到困惑。在旅行里遇到的人，大部分都是这样的，可如果我仔细注视他们的生活，发现他们过得也并不快乐，有时候不是多思多想才会带来痛苦，而是生活本身就充满了奇妙。<br>&emsp;&emsp;每个人都站在自己的鞋子里羡慕别人的人生，总怀疑他人的生活更轻松一点，可是真相并不是这样——无论采取哪种方式应对生活，烦恼都不会减少。我们需要的是更坚定的东西。诺顿先生，我想了很久，这些东西应该是：礼貌、教养、无差别的尊重和对世界的好奇心。<br></font></p>
 <hr>
 <font face="华文新魏" color="#777777">
+我们的问答板块，就有读者问过，为什么有些人住得差吃得糟，却还是要出去旅行。作者@pumel的回答一针见血：一只鸟不想被困在笼子里，和它有没有钱没有关系。
+</font>
+
+<hr>
+<font face="华文新魏" color="#777777">
 有哪些道理是你失去对象后才知道的？ <br>
 这些一去不复返的时光和精力
 </font>
 
+<hr>
+<p>“我想出去走走。”<br>“我陪你一起去。”<br>“我喜欢一个人走。”<br>“我也是，那我们正好可以一起。”<br>——《男孩遇见女孩》(1984)</p>
+<hr>
+<p>恬恬从来不忘谱，老老实实地从头拉到尾，一个音都不错。可明明是一块熟透了的火龙果，从恬恬手里出来，就成了嵌上芝麻的白萝卜。恬恬的魔术是化神奇为腐朽。<br>用功是用功，只是这曲子怎么听都觉得寡味。手风琴老师憋住潜台词，取而代之的是另一句：不错，你们要好好向她学习，每天练满三小时。老师再转头看向恬恬，见她勉强地扯起嘴角，笑里藏满心事。还好，一个被一眼看穿未来的人，多少有自知之明。</p>
+<hr>
+<p>类似《爱乐之城》结尾处，现实与想象交叠的那一段，男女主都过上了自己想要的生活，只是他们错过了原本可能会实现的另一种人生。<br>杨千嬅在《每当变幻时》里饰演的卖鱼女阿妙一直很想要一个名贵的钱包，Prada很好，Gucci也很好，想同时拥有会太贵，于是她想要一个像Prada的Gucci。<br>谁不贪恋人生的其他可能呢？但世界上并没有想Prada的Gucci</p>
+<hr>
+<p>因为死亡的存在，所以我们尊重生命的活力。因为能够享受自我，所以我们愿意感恩对方。因为有其他选择，所以我才确定我们在一起不是因为赚钱，不是因为恐惧，不是因为贪婪，而是因为，我想和你在一起。<br>因为我有其他选择，所以我才确定，现在，我想和你在一起。</p>
 <hr>
 <font face="华文新魏" color="#777777">
 
@@ -1825,12 +2757,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <hr>
 <font face="华文楷体" color="#777777">
 
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
 <p>如果你觉得这些是小说，那么：写这些的金庸先生自己，无论是身为媒体人还是作家的成就，都是名动四海。</p>
 <p>但最后变得更好的他，追到夏梦女士了么？</p>
 <p>李文秀的名句天下皆知：“那些都是很好很好的，我偏偏不喜欢。”</p>
@@ -1865,42 +2791,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
 <font face="华文楷体" color="#777777">
 
 <p>花绿绿的甜品放了满满一桌子，季东悠闲地看着窗外，没有一点着急的意思，我忍不住问其他人呢，他转了转手表，半晌才开口：“没有别人。“我突然有一种被幸运金蛋砸中的感觉，但紧接着无数种复杂的情绪涌了上来，似乎有些迟了。果然，季东表白了，他说相处这么久后才意识到喜欢我，现在能表达出来是件可幸的事，他说还好不是在去往广州的飞机上才反应过来。“所以点了很多甜品，女孩子都喜欢甜食的吧？”我默不作声地吃完了一碗蜜豆冰粥，很正宗，可惜没甜到我没心没肺答应他的程度：“还是算了吧。”任谁看来都是摇摇欲坠的一段关系，即使不提地理距离，职位，能力，就感情来看，对他而言也不过是刚认识了还没一年的普通女孩，一段正好够说喜欢，分开也不痛不痒的关系。</p>
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
-</font>
-
-<hr>
-<font face="华文楷体" color="#777777">
-
-
 </font>
 
 <hr>
@@ -2173,78 +3063,45 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
   </entry>
   <entry>
     <title>191202-QA</title>
-    <url>/2019/12/02/191202-QA/</url>
+    <url>/2019/12/01/191201-QA/</url>
     <content><![CDATA[<blockquote>
 <p><font face="华文楷体">生活无数，我只爱有你的那一个</font></p>
 </blockquote>
 <a id="more"></a>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/002.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/004.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/005.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/006.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/008.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/010.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/011.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/012.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/013.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/014.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/015.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/016.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/017.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/018.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/019.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/020.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/021.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/022.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/023.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/024.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/025.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/026.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/027.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/028.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/029.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/030.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/031.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/032.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/033.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/034.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/035.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/036.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/037.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/038.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/039.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/040.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/041.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/042.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/043.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/044.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/045.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/046.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/047.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/048.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/049.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/050.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/051.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/052.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/053.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/054.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/055.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/056.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/057.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/058.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/059.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/060.png" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/061.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/062.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/063.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/064.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/065.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/066.jpg" alt=""></div></div></div></div>
-
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/words/067.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/words/068.jpg" alt=""></div></div></div></div>]]></content>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/001.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/002.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/003.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/004.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/005.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/006.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/007.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/008.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/009.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/010.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/011.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/012.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/013.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/014.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/015.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/016.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/017.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/018.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/019.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/020.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/021.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/022.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/023.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/024.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/025.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/026.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/027.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/028.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/029.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/030.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/031.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/032.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/033.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/034.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/035.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/036.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/037.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/038.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/039.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/040.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/041.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/042.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/043.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/044.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/045.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/046.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/047.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/048.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/049.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/050.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/051.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/052.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/053.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/054.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/055.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/056.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/057.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/058.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/059.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/060.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/061.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/062.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/063.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/064.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/065.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/066.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/067.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/words/068.jpg" alt=""></div></div></div></div>]]></content>
       <categories>
         <category>ONE·一个</category>
       </categories>
@@ -2368,169 +3225,6 @@ Ps：做了妈妈之后，才发现，我永远不希望使用伟大，牺牲这
       </categories>
       <tags>
         <tag>ONE</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>摘抄</title>
-    <url>/2019/12/01/191201-summary/</url>
-    <content><![CDATA[<blockquote>
-<p><font face="华文楷体">如若至此，未来可期</font></p>
-</blockquote>
-<a id="more"></a>
-<h3 id="waiting"><a href="#waiting" class="headerlink" title="waiting"></a>waiting</h3><p><font face="华文新魏">罗素说：“蠢货对智者的言谈所做的翻译，永远都不可能准确，因为他会不知不觉地把他听到的话翻译成他自己能理解的东西。”</font></p>
-<hr>
-<font face="华文新魏" color="#777777">
-如果此时你站在高处，你会想什么：我还能怎么办。   一《大象席地而坐》
-</font>
-
-<hr>
-<p>在这个世界，有一点失望，有一点希望</p>
-<hr>
-<font face="华文楷体">
-&emsp;&emsp;另一方面，当追求阅读量的时候，我就会忽略阅读本身的趣味。有时会不自觉地倾向于去读更容易读的书、更薄的书、更口水的书、更熟悉的领域的书，而不是读那些艰难晦涩、历经时代锤炼的经典。<br>
-&emsp;&emsp;《禅与摩托车维修艺术》中说过：仓促本身就是最要不得的态度。当你做某件事的时候，一旦想要求快，就表示你再也不关心它，而想去做别的事。 <br>
-&emsp;&emsp;《如何阅读一本书》也用了很大的篇幅谈阅读速度的问题，我记得其中一个观点是如果我们读得超快，只能说明我们在读一本并不值得读的书。 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——摘自《二爷鉴书》
-</font>
-
-<hr>
-<font face="华文楷体">
-&emsp;&emsp;产品经理行走江湖不看招式也不看颜值，产品，才应该是他唯一的名片。 <br>
-&emsp;&emsp;如此看来，开个专栏写产品设计，对我来说实在是个忐忑之举。摸爬滚打数年，纵使有一腔倾诉欲，却又担心所观所想会误人视极客邦总裁池老听闻后，拍桌子瞪眼说：“你把我们用户当什么人，怎可能你一句两句就能给带偏了？” <br>
-&emsp;&emsp;我一想也是，专栏作品从来不是什么“教程”，而应当是一扇可供交谈的窗口，所谓知识经济，其实带来最有价值的不是知识，而是求知的启发。 <br>
-</font>
-
-<hr>
-<p><img src="/images/people/yu-jun.png" alt=""></p>
-<hr>
-<font face="华文楷体">
-
-<p>&emsp;&emsp;很明显，这些追逐热点的文章都是在抓人的注意力：使用耸人听闻的标题，引诱你去点击，点击以后头条会以为你喜欢，再给你推荐更多的垃圾信息。<br>&emsp;&emsp;这个App真是充分利用了人性的弱点：猎奇。<br>&emsp;&emsp;有段时间我感觉大脑的结构都要被改变了，变得喜欢这种刺激的标题，喜欢点击这种信息垃圾，喜欢一直不断地看下去，当然，时间也就悄悄地溜走了。<br>&emsp;&emsp;慢慢地，我感觉被今日头条给困住了。它像一个机器不断地通过管道给我输送信息碎片，我不用思考，信息碎片就会源源不断地端上来，喂给我，塞给我。我感觉到它在背后偷偷地笑：“看看，又一个上瘾的家伙！”<br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;——摘自《码农翻身》</p>
-</font>
-
-
-<blockquote class="blockquote-center">毕业在即，“你的第一份工作，是选择一个公司还是选择一个行业”</blockquote>
-
-
-<blockquote class="blockquote-center"><p>大象无形，大音希声</p>
-</blockquote>
-
-<font face="华文楷体">
-
-<p>&emsp;&emsp;毕竟大趋势已不可逆，与其为了面子“死熬”，还不如及时止损，将精力放在更有前途的业务上！<br>&emsp;&emsp;打败口香糖的不是木糖醇，而是微信、王者荣耀。在超市收银台这个消费场景，过去顾客在排队缴费的时候无聊就往购物篮里拿上两盒口香糖，而今天大家都在看微信、刷朋友圈、玩王者。<br>&emsp;&emsp;还有：街头的警察没有变得更多，而扒手却越来越少。消灭扒手的，也不是警察，而是微信、支付宝。越来越多的人，口袋里没有现金，扒手不得不失业。<br>&emsp;&emsp;&emsp;&emsp;——摘自《互联网情报》 </p>
-</font>
-
-
-<h3 id="Talks"><a href="#Talks" class="headerlink" title="Talks"></a>Talks</h3><font face="华文楷体">
-
-<p>&emsp;&emsp;大大小小的公众号每天都在关切女人们，关切她们的衣柜里是不是总是少一件衣服，尽管她们已经有了几十件无比昂贵但是只穿过一次的衣服。<br>&emsp;&emsp;话说这帮人真的很厉害，每隔一段时间，他们都能让女人们发自内心的觉得自己无比需要一只好像颜色区别也没有那么大的口红、一个价格明显多打了一个零的新包，以及一双虽然谁也说不出新在哪里但是你说新款就新款吧的鞋子。<br>&emsp;&emsp;如果男人无法理解这种需求的必要性，这帮人已经早早准备好了罪名等着你：不解风情的直男癌。<br></font></p>
-<hr>
-<font face="华文楷体">
-
-<p>所以，其实交接代码最重要的事儿，就是：<br>&emsp;不要被浩渺如烟并且陌生怪诞的代码吓得不敢动弹，现在就开始读，立刻，马上，坚持十分钟，再坚持十分钟，你就能妙悟真谛。<br>最后，当你再碰到这种事儿的时候，请记住老前辈的这句警世良言：<br>&emsp;那些不能将你击溃的代码，都将成为你成长的垫脚石。<br>&emsp;&emsp;&emsp;&emsp;——摘自《前端你别闹》<br></font></p>
-<hr>
-<font face="华文楷体">
-
-<p>&emsp;&emsp;我前段时间微博发了一个段子，当然段子不是真的，但反应的情况其实很常见。<br>&emsp;&emsp;“您认识不认识某某大佬？”，“认识啊。”<br>&emsp;&emsp;“能不能给我介绍一下？”，“麻烦再说一遍。”<br>&emsp;&emsp;“能不能给我介绍一下？”，“前面那句。” “您认识不认识某某大佬？”，”不认识。“<br>&emsp;&emsp;我认识谁谁就要给你介绍，凭什么？我介绍等于我的信用背书，我的信用是有成本的，不是说不介绍，第一能不能先自我简介一下，是干嘛的，为什么要认识某某大佬，自己有什么诉求。第二，这事和我的关系是什么，凭什么我的信用就随便拿出去用了。<br></font></p>
-<hr>
-<font face="华文楷体">
-
-<p>王牧笛：事实上老子思想的一个基本逻辑就是物极必反，所以赞成<br>“无为”。“无为”并不是说什么都不做，而是强调做事情的度。</p>
-<p>据说还要打造更豪华的纪念地，收费可能也更贵，您觉得这是一个好现象吗？<br>答：我听出了你的答案。但是，孔子早就不仅仅是学术文化界的现象，我们已经没有权利来设计他。历代皇帝祭孔，仪式宏大；普通民众朝圣，更喜欢热闹。与孔子几乎同时代的佛祖释迎年尼，哲思多么深奥，但世间庙堂出现的却是密集的叩拜和香火。圣人塑造社会几分，社会也塑造他几分。如果你不喜欢热闹，那么，你安静了，他也安静了。这就像你喜欢屈原，自可默默喜欢，不必嘲笑端午节赛龙舟的民众读不懂《离骚》。</p>
-<p>我想讲一句俗话了：为什么别人不喜欢你？因为你故意面目狰狞。</p>
-<p>天下皆知美之为美，斯恶矣。皆知善之为善，斯不善矣。<br>这是我选取的第二句。它的意思是：当人们都知道什么是美的时候，就是丑了；当大家都知道什么是善的时候，就是不善了。老子认为我们不能举着旗子去宣传“美”和“善”，不能刻意去追求好的</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>杜月笙有一句经典名言：“头等人，有本事，没脾气。二等人，有本事，有脾气。末等人，没本事，大脾气。”这句话非常适用于每一位蘑菇或者疑似蘑菇的人。换个说法，先做到不管有没有本事，先做到没脾气。那么不管你有没有遇到伯乐，有没有遇到好领导，小蘑菇大蘑菇都有一片成长的空间。</p>
-<p>其次，在病房里和父亲苏大强对峙的一场戏里，明玉提到自己曾做过DNA检测，想知道自己到底是不是父母的亲生女儿。其实一直困扰她的问题是，父母为什么不爱我，而对这个问题唯一合理的解答是，我不是父母的女儿。钱虽然是衡量爱的一种方式，但不是全部，失去的练习册、生活费、房子可以通过自己努力补回来，失去的爱却不能。卧室被卖、升学机会被剥夺，这种外在显性的不公待遇，不是明玉年少时人生困境的本质。家暴的阴影和父爱母爱的缺失，才是原生家庭带给明玉最大的伤害，这些伤害，本质上是无法通过个人奋斗和世俗上的成功来治愈的。相反，它还能随时把你打回原形，打回那个幼小无助的孩子。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>小地方很多人脑子转不开，你每天去跟他们吵吵，时间精力都浪费在这上面了。<br>小时候以为有钱人都很跋扈，心都是黑的。长大后才发现，很多有钱人都懂得很多，经历很丰富，做事儿很认真，为人很宽厚，理性，比穷人更好相处。<br>我以前有个做微商的朋友，她就说过一句话，原来以为十块钱的肯定比一千块的好卖，但是其实一千块的产品更好卖，因为卖十块钱的往往时间都浪费在顾客纠缠给不给包邮，能不能少一块这种事上了，而买一千块的东西的人反而更好说话。<br>这就引出一个时间价值的问题，当你处在层次越低的地方，你的时间价值就越小，一个小时都在争论一块钱的事，你这一小时就是值这一块，一下午都在讨论谁谁谁又出轨了，你的一下午也就值这点绯闻。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>他们为了要“逃避责任”，经常说：“我不懂业务，这次上线的内容，你要把每一步都写得清清楚楚，我只管执行，不问为什么，出了问题可不是我的责任。”你说气人不气人！难道他就想当个机器人吗？</p>
-<p>还有，他们运维团队每个人侧重不同，有人负责数据库脚本执行，有人负责Web服务器，有人负责SSO，我的天，每次上线前都得把一堆人拉过来开好几次会，让他们熟悉操作步骤。这个人部署了一次，好不容易熟悉了，下一次又换了一个人，还美其名日这是人力资源池，能提高效率，但是新人又需要从头儿学习，这怎么可能不出错？！唉.……</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>在他眼里，视频动态是朋友圈的反面。对于朋友圈，他说了一句扎心的话——越是自己的短处，越要发个朋友圈强化它。</p>
-<p>视频动态跟朋友圈不一样，提倡的是真实的，而不是美的。所以拍完一个视频动态底下的按钮不叫[完成」、不叫「发表」，而是「就这样」。「就这样]包含了一个含义是，这个视频可能并不好看，但是就这样了，我就发了。这就是很真实的。然后为了让用户能够勇敢发的，故意让别人看不到你的这个视频，必须要点你的头像进去再下拉一下才可以看到，来减少你发一下「就这样]视频的压力。<br>r就这样]这三个字，体现了微信的特点和文化。<br>—— 摘自《刘兴亮时间》</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>还有一个原因是最近发布的微信7.0版本。张小龙调侃说：当然又有5亿人吐槽，有1亿人教我怎样做产品了，并且还有8亿人看不懂「因你看见，所以存在 到底是什么意思。</p>
-<p>06</p>
-<p>PC时代，浏览量最大的页面是哪个？</p>
-<p>是Google的首页，还是百度的首页？抑或是Hao123？</p>
-<p>答案都不是，是微软E浏览器的404页面。这个页面浏览量那么大，那微软为啥不在页面放广告呢？</p>
-<p>微信的开机的那个地球页面访问量也非常大，为什么不放广告呢？每次打开微信，就光让大家盯着个地球看？</p>
-<p>—— 摘自《刘兴亮时间》<br></font></p>
-<hr>
-<font face="华文楷体">
-
-<p>2.朋友圈晒加班不是绝对不可以，只是尽量不要晒自己一个人在加班，最好在整个部门或团队加班的时候，把大家一起加班的照片拍进去，并配上一两句比较积极的话，这才是高级职场智慧。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-这世上，还有比生病更可怕的病，那恐怕就只有穷病了。钱这个东西，生不带来，死不带走，但是，在生活中，它能让你活的更自由；在生病的时候，它让你更有尊严。
-
-
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>我就问小Q，你被绿茶婊养备胎，花钱丢脸费时间的事，这么快就忘了吗？现在性别女变男，情场变职场，你小子又浪成背锅侠了。</p>
-<p>职场背锅侠就是一一创始人的心态+高管的责任+中层的能力+基层的权限+底层的待遇。</p>
-<p>职场背锅侠就是鸡汤文读多了，认为自己劳苦功高的“给大哥打江山”，将来大哥身价百亿，自己也能资产上亿做个VP。“大哥“每次宽慰背锅侠，也都是“忍忍将来不会亏待你”。</p>
-<p>我很理解小Q，仿佛看到了年轻时的自己，也不完全怪鸡汤文，除了奉献自己，小Q找不到更好的机会了，这次创业是他第一次有资格上牌桌进赌局。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-<p>检查一个偶像红不红的方法也很简单，你带大名说一句他的坏话，看看多久会有他的粉丝过来劝你删帖并友好地提示你的发言上了他们的“广场”（指搜索明星大名时微博显示的页面）。作为一个粉丝，察觉到偶像红了的重要时刻经常是-一当你一如既往地在自己的微博说一些有关他的屁话时，会有其它粉丝跑来留言说：“这样对XX不太尊重呢，劝删。”</p>
-<p>有句俗话可以清楚地概括其中的原理：当你爱上一个人时，既有了软肋，也有了铠甲。</p>
-<p>如果你成了某个偶像的粉丝，被鉴定拥有了这个人的“粉籍”，那么这个偶像的其他粉丝便会来规范你的行为–这是软肋。同时会在和别的偶像粉丝起冲突的时候来维护你——这是铠甲。相应地，路人对于偶像的恶意也会天然地降临在你的头上，这方面的心理准备是必须要有的。</p>
-<p>—— 摘自《GQ报道》<br></font></p>
-<hr>
-<font face="华文楷体">
-
-<p>不过，在实际工作中，大多数人都高估了自己可执行粒度，低估任务分解的程度。换句话说，如果你没做过任务分解的练习，你分解出来的大部分任务，粒度都会偏大。</p>
-<p>只有能把任务拆分得非常小，你才能对自己的执行能力有一个更清楚地认识，真正的高手都是有很强的分解能力。这个差别就相当于，同样观察一个物品，你用的是眼睛，而高手用的是显微镜。在你看来，高手全是微操作。关于这个话题，后面我们再来细聊。</p>
-<p>一旦任务分解得很小，调整也会变得很容易。很多人都在说计划赶不上变化，而真工的原因就是计划的粒度太大，没法调。</p>
-</font>
-
-<hr>
-<font face="华文楷体">
-
-
-</font>]]></content>
-      <categories>
-        <category>summary</category>
-      </categories>
-      <tags>
-        <tag>summary</tag>
       </tags>
   </entry>
 </search>
