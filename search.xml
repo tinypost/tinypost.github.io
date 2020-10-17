@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>wubi-manual</title>
+    <url>/2030/01/02/language/wubi-manual/</url>
+    <content><![CDATA[<blockquote>
+<p>生活要为自己创造惊喜</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="《现代汉语通用字笔顺规范》说明"><a href="#《现代汉语通用字笔顺规范》说明" class="headerlink" title="《现代汉语通用字笔顺规范》说明"></a>《现代汉语通用字笔顺规范》说明</h3><ul>
+<li>横、竖、撇、点、折 五个基本笔画表示，其中，(提)归为(横), (竖勾)归为(竖)，(捺)归为(点)，各种折笔笔画归为(折)  </li>
+<li>「点」是不区分「↘点」和「↙点」的，同记为「丶」  </li>
+<li>竖勾左：竖   | 竖勾右：折</li>
+</ul>
+<h3 id="concept"><a href="#concept" class="headerlink" title="concept"></a>concept</h3><ul>
+<li>每个区中的位号都是按照字母在键盘上的位置由中间向两边排列的</li>
+<li>半包围取被包围的部分作为识别码(<code>边</code>是半包围结构)</li>
+</ul>
+<h3 id="汉字结构"><a href="#汉字结构" class="headerlink" title="汉字结构"></a>汉字结构</h3><ol>
+<li>“单”结构汉字  构成汉字的字根只有一个<br>例： 上  五  日  小  八</li>
+<li>“散”结构汉字  构成汉字的字根有两个，且两个字根有距离，不相交也不相连<br>例： 明  对  务  打  休</li>
+<li>“连”结构汉字  由一个单笔画字根跟一个基本字根相连的汉字<br>例： 自 千</li>
+<li>“交”结构汉字  由几个字根相互交叉构成<br>例： 内 果 夫 中 申 丰</li>
+</ol>
+<h3 id="拆字"><a href="#拆字" class="headerlink" title="拆字"></a>拆字</h3><ul>
+<li>不确定的字按笔画拆</li>
+<li>基本笔画的输入(横竖撇捺折)<br>  打法： 先按两次该笔画所在的键位，再按两次<code>L</code>键<br>  例：<br>  一 –&gt; GG + LL<br>  乙 –&gt; NN + LL</li>
+</ul>
+<h3 id="【编码规律】"><a href="#【编码规律】" class="headerlink" title="【编码规律】"></a>【编码规律】</h3><pre><code>键名不拆打四下，（键名：X键除外，每键口诀的第一个字，X键为纟）  
+成报一二末笔画；（成：除键名和单笔画外的键面字根；报：字根所在键按一下）  
+一般一二三末根，（一般：拆分四码或四码以上的汉字）  
+不足才补识别码。 （不足：拆分不足四码的汉字）  </code></pre><h3 id="键名字和字根字"><a href="#键名字和字根字" class="headerlink" title="键名字和字根字"></a>键名字和字根字</h3><h4 id="键名字根"><a href="#键名字根" class="headerlink" title="键名字根"></a>键名字根</h4><pre><code>打法：重复按那个键名字的所在键4下</code></pre><h4 id="字根字"><a href="#字根字" class="headerlink" title="字根字"></a>字根字</h4><pre><code>打法：先字根 + 笔顺(先打字根所在键，再打第一笔、第二笔、最后一笔所在的键位)
+例： 古 是字根字</code></pre><h4 id="单字末笔"><a href="#单字末笔" class="headerlink" title="单字末笔"></a>单字末笔</h4><pre><code>关于单字末笔划的规定：
+1、末字根**为“力、刀、九、匕、乃、方”等时，一律以其“伸”得最长的“折”作为末笔；
+2、包围型汉字中，取被包围部分的末笔为整个字的末笔；
+3、含“辶廴”的汉字，以去掉“辶廴”后的末笔为整个字的末笔；
+4、“戈、我、成”等字取撇“丿”为末笔。因此，“我”的编码为TRNT，“肪”的编码为EYn。</code></pre><h3 id="汉字词组输入"><a href="#汉字词组输入" class="headerlink" title="汉字词组输入"></a>汉字词组输入</h3><p>　　1.两字词组的输入<br>　　两个字组成的词组的输入方法是：取第一个字的第一、二字根和第二个字的第一、二字根，组成四码。<br>　　例如：单独：UJQY  键盘：QVTE  速度：GKYA  经常：XCIP  </p>
+<p>　　2.三字词组的输入<br>　　三个字组成的词组的输入方法是：取第一个字和第二个字的第一字根，取第三个字的第一、二字根，组成四码。<br>　　例如：实际上：PBHH出版社：  BTPY打印机：RQSM</p>
+<p>　　3.四字词组的输入<br>　　四个字组成的词组、成语或短语的输入方法是：取第一、第二、第三和第四个字的第一字根组成四码。<br>　　例如：集成电路：WDJK  想方设法：SYYI  满腔热情：IERN  </p>
+<p>　　4.多字词组的输入<br>　　多个字组成的词组的输入方法是：取第一、第二、第三个字和最后一个字的第一字根组成四码。<br>　　例如：中国人民解放军：KLWP　　中华人民共和国：KWWL  </p>
+<h3 id="manual"><a href="#manual" class="headerlink" title="manual"></a>manual</h3><p><img src="/images/language/manual/wubi_dismantle_01.png" alt="wubi_dismantle_01.png"><br><img src="/images/language/manual/wubi_dismantle_02.png" alt="wubi_dismantle_02.png"><br><img src="/images/language/manual/wubi_dismantle_03.png" alt="wubi_dismantle_03.png"><br><img src="/images/language/manual/wubi_dismantle_04.png" alt="wubi_dismantle_04.png"><br><img src="/images/language/manual/wubi_dismantle_05.png" alt="wubi_dismantle_05.png"><br><img src="/images/language/manual/wubi_dismantle_06.png" alt="wubi_dismantle_06.png"><br><img src="/images/language/manual/wubi_dismantle_07.png" alt="wubi_dismantle_07.png"><br><img src="/images/language/manual/wubi_dismantle_08.png" alt="wubi_dismantle_08.png"><br><img src="/images/language/manual/wubi_dismantle_09.png" alt="wubi_dismantle_09.png"><br><img src="/images/language/manual/wubi_dismantle_10.png" alt="wubi_dismantle_10.png"><br><img src="/images/language/manual/wubi_dismantle_11.png" alt="wubi_dismantle_11.png"><br><img src="/images/language/manual/wubi_dismantle_12.png" alt="wubi_dismantle_12.png"><br><img src="/images/language/manual/wubi_dismantle_13.png" alt="wubi_dismantle_13.png"><br><img src="/images/language/manual/wubi_dismantle_14.png" alt="wubi_dismantle_14.png"><br><img src="/images/language/manual/wubi_dismantle_15.png" alt="wubi_dismantle_15.png"><br><img src="/images/language/manual/wubi_dismantle_16.png" alt="wubi_dismantle_16.png"><br><img src="/images/language/manual/wubi_dismantle_17.png" alt="wubi_dismantle_17.png"><br><img src="/images/language/manual/wubi_dismantle_18.png" alt="wubi_dismantle_18.png"><br><img src="/images/language/manual/wubi_dismantle_19.png" alt="wubi_dismantle_19.png"></p>
+<p><img src="/images/language/manual/wubi_partition_1.png" alt="wubi_partition_1.png"><br><img src="/images/language/manual/wubi_partition_2.png" alt="wubi_partition_2.png"><br><img src="/images/language/manual/wubi_partition_3.png" alt="wubi_partition_3.png"><br><img src="/images/language/manual/wubi_partition_4.png" alt="wubi_partition_4.png"></p>
+]]></content>
+      <categories>
+        <category>Language</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>wubi</title>
+    <url>/2030/01/01/language/wubi/</url>
+    <content><![CDATA[<blockquote>
+<p>For th things we have to learn before we can do them , we lean by doing them.</p>
+</blockquote>
+<a id="more"></a>
+<h3 id="Words"><a href="#Words" class="headerlink" title="Words"></a>Words</h3><ul>
+<li><a href="https://www.52wubi.com/wbbmcx/search.php" target="_blank" rel="noopener">www.52wubi.com</a></li>
+<li><a href="http://www.chaiwubi.com/bmcx/" target="_blank" rel="noopener">http://www.chaiwubi.com/bmcx/</a></li>
+<li><a href="http://www.4qx.net/Phrase_WuBi_ChaXun.php" target="_blank" rel="noopener">五笔词组</a></li>
+</ul>
+<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><p>套  餐  久  晓  藏   留   离   声   傻   辨   由<br>敖  毋  函  泳  旅   致   眠   万   卑   率</p>
+<h3 id="字根表"><a href="#字根表" class="headerlink" title="字根表"></a>字根表</h3><p><img src="/images/language/manual/classify.png" alt="汉字分类"><br><img src="/images/language/manual/86.jpg" alt="86版五笔字根表"><br><img src="/images/language/manual/wubi-root-01.png" alt="wubi-root-01.png"><br><img src="/images/language/manual/Picture1.jpg" alt="Picture1"><br><img src="/images/language/manual/Picture2.png" alt="Picture2"></p>
+]]></content>
+      <categories>
+        <category>Language</category>
+      </categories>
+  </entry>
+  <entry>
     <title>chat</title>
     <url>/2020/03/30/chat/</url>
     <content><![CDATA[<blockquote>
@@ -300,7 +364,8 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1051.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1052.png" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1053.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1054.png" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1055.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1056.png" alt=""></div></div></div></div>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1057.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1058.jpg" alt=""></div></div></div></div>]]></content>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1057.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1058.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1059.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/life/chat/chat-1060.jpg" alt=""></div></div></div></div>]]></content>
       <categories>
         <category>Life</category>
       </categories>
@@ -517,6 +582,7 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1051.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1052.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1053.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1054.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1055.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1056.png" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1057.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/1058.png" alt=""></div></div></div></div>
 
 <h3 id="gif"><a href="#gif" class="headerlink" title="gif"></a>gif</h3><div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-01.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-02.png" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-03.png" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/funtime/code-04.png" alt=""></div></div></div></div>
@@ -542,12 +608,7 @@
 <p>生活并不完美，但并不代表它不美</p>
 </blockquote>
 <a id="more"></a>
-<h3 id="life"><a href="#life" class="headerlink" title="life"></a>life</h3><blockquote>
-<p>如果快乐太难，祝你此生健康</p>
-</blockquote>
-<br>
-
-<p>期待周末。有大段属于自己的时间，可以选择如何度日。约朋友去玩乐，一个人出去走走，或者在家里读一本书，又或者只是睡觉。好时光，可以任意虚度。</p>
+<h3 id="life"><a href="#life" class="headerlink" title="life"></a>life</h3><p>期待周末。有大段属于自己的时间，可以选择如何度日。约朋友去玩乐，一个人出去走走，或者在家里读一本书，又或者只是睡觉。好时光，可以任意虚度。</p>
 <hr>
 <p>偶遇花店就让自己浪漫一次。给自己或者送人都会让你的心情好起来。浪漫如果期待别人，那么真的要等很久。自己做就轻易许多。</p>
 <hr>
@@ -573,7 +634,12 @@
 <p>岁数越大越明白，几个无话不谈的朋友是最大的财富；不管你如何努力，总有人不喜欢你，由他去吧；认真听取别人的意见，坚持走自己的路；不管你对别人多好，别人都未必领情，但求无愧于心；对自己好点，人活一世不是来委屈自己的；想到的事就去做吧，没准明天就没有勇气了。</p>
 <hr>
 <p>无论今天多么痛苦难熬，明天都会如约而至。所谓的信念就是，无论今天我多么彷徨迷茫，最终，我都要过上我想要的生活。</p>
-<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><p>三年五年以后，甚至更久更久以后，我们会变成什么样的大人呢？</p>
+<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><blockquote>
+<p>如果快乐太难，祝你此生健康</p>
+</blockquote>
+<br>
+三年五年以后，甚至更久更久以后，我们会变成什么样的大人呢？
+
 <hr>
 <p>《比海还深》里那个落魄的男人说，你才二十五岁，可以成为你想成为的任何人。<br>看这部电影的时候，我正好二十五岁，不多也不少，却并没有觉得他的话是对我说的。<br>不是我不想成为某一种别人，而是我被这句话表面的感伤意味蒙蔽，忘记了它实际上是一句劝诫。</p>
 <hr>
@@ -794,64 +860,6 @@
       </categories>
   </entry>
   <entry>
-    <title>wubi</title>
-    <url>/2020/01/30/language/wubi/</url>
-    <content><![CDATA[<blockquote>
-<p>For th things we have to learn before we can do them , we lean by doing them.</p>
-</blockquote>
-<a id="more"></a>
-<h3 id="Words"><a href="#Words" class="headerlink" title="Words"></a>Words</h3><ul>
-<li><a href="https://www.52wubi.com/wbbmcx/search.php" target="_blank" rel="noopener">www.52wubi.com</a></li>
-<li><a href="http://www.chaiwubi.com/bmcx/" target="_blank" rel="noopener">http://www.chaiwubi.com/bmcx/</a></li>
-<li><a href="http://www.4qx.net/Phrase_WuBi_ChaXun.php" target="_blank" rel="noopener">五笔词组</a></li>
-</ul>
-<h3 id="words"><a href="#words" class="headerlink" title="words"></a>words</h3><p>套  餐  久  晓  藏   留   离   声   傻<br>敖  毋  函  泳  旅   致   眠   万   卑</p>
-<h3 id="字根表"><a href="#字根表" class="headerlink" title="字根表"></a>字根表</h3><p><img src="/images/language/manual/%E6%B1%89%E5%AD%97%E5%88%86%E7%B1%BB.png" alt="汉字分类"><br><img src="/images/language/manual/wubi-root-01.png" alt="wubi-root-01.png"></p>
-]]></content>
-      <categories>
-        <category>Language</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>wubi-manual</title>
-    <url>/2020/01/29/language/wubi-manual/</url>
-    <content><![CDATA[<blockquote>
-<p>生活要为自己创造惊喜</p>
-</blockquote>
-<a id="more"></a>
-<h3 id="concept"><a href="#concept" class="headerlink" title="concept"></a>concept</h3><pre><code>《现代汉语通用字笔顺规范》说明：
-横、竖、撇、点、折 五个基本笔画表示，其中，(提)归为(横), (竖勾)归为(竖)，(捺)归为(点)，各种折笔笔画归为(折)
-
-「点」是不区分「↘点」和「↙点」的，同记为「丶」</code></pre><p>竖勾左：竖<br>竖勾右：折</p>
-<p>每个区中的位号都是按照字母在键盘上的位置由中间向两边排列的</p>
-<p>半包围取被包围的部分作为识别码(<code>边</code>是半包围结构)</p>
-<h3 id="拆字"><a href="#拆字" class="headerlink" title="拆字"></a>拆字</h3><ul>
-<li>不确定的字按笔画拆</li>
-</ul>
-<h3 id="基本笔画的输入-横竖撇捺折"><a href="#基本笔画的输入-横竖撇捺折" class="headerlink" title="基本笔画的输入(横竖撇捺折)"></a>基本笔画的输入(横竖撇捺折)</h3><pre><code>打法： 先按两次该笔画所在的键位，再按两次`L`键
-例： 
-一 --&gt; GG + LL
-乙 --&gt; NN + LL</code></pre><h3 id="【编码规律】"><a href="#【编码规律】" class="headerlink" title="【编码规律】"></a>【编码规律】</h3><pre><code>键名不拆打四下，（键名：X键除外，每键口诀的第一个字，X键为纟）  
-成报一二末笔画；（成：除键名和单笔画外的键面字根；报：字根所在键按一下）  
-一般一二三末根，（一般：拆分四码或四码以上的汉字）  
-不足才补识别码。 （不足：拆分不足四码的汉字）  </code></pre><h3 id="键名字和字根字"><a href="#键名字和字根字" class="headerlink" title="键名字和字根字"></a>键名字和字根字</h3><h5 id="键名字根"><a href="#键名字根" class="headerlink" title="键名字根"></a>键名字根</h5><pre><code>打法：重复按那个键名字的所在键4下</code></pre><h5 id="字根字"><a href="#字根字" class="headerlink" title="字根字"></a>字根字</h5><pre><code>打法：先字根 + 笔顺(先打字根所在键，再打第一笔、第二笔、最后一笔所在的键位)
-例： 古 是字根字</code></pre><h3 id="单字末笔"><a href="#单字末笔" class="headerlink" title="单字末笔"></a>单字末笔</h3><p>（以下回答基于86版五笔规则）你举的2个例子都是由于五笔对末笔的强制规定。</p>
-<pre><code>关于单字末笔划的规定：
-1、末字根**为“力、刀、九、匕、乃、方”等时，一律以其“伸”得最长的“折”作为末笔；
-2、包围型汉字中，取被包围部分的末笔为整个字的末笔；
-3、含“辶廴”的汉字，以去掉“辶廴”后的末笔为整个字的末笔；
-4、“戈、我、成”等字取撇“丿”为末笔。因此，“我”的编码为TRNT，“肪”的编码为EYn。</code></pre><h3 id="汉字词组输入"><a href="#汉字词组输入" class="headerlink" title="汉字词组输入"></a>汉字词组输入</h3><p>　　1.两字词组的输入<br>　　两个字组成的词组的输入方法是：取第一个字的第一、二字根和第二个字的第一、二字根，组成四码。<br>　　例如：单独：UJQY  键盘：QVTE  速度：GKYA  经常：XCIP  </p>
-<p>　　2.三字词组的输入<br>　　三个字组成的词组的输入方法是：取第一个字和第二个字的第一字根，取第三个字的第一、二字根，组成四码。<br>　　例如：实际上：PBHH出版社：  BTPY打印机：RQSM</p>
-<p>　　3.四字词组的输入<br>　　四个字组成的词组、成语或短语的输入方法是：取第一、第二、第三和第四个字的第一字根组成四码。<br>　　例如：集成电路：WDJK  想方设法：SYYI  满腔热情：IERN  </p>
-<p>　　4.多字词组的输入<br>　　多个字组成的词组的输入方法是：取第一、第二、第三个字和最后一个字的第一字根组成四码。<br>　　例如：中国人民解放军：KLWP　　中华人民共和国：KWWL  </p>
-<h3 id="manual"><a href="#manual" class="headerlink" title="manual"></a>manual</h3><p><img src="/images/language/manual/wubi_dismantle_01.png" alt="wubi_dismantle_01.png"><br><img src="/images/language/manual/wubi_dismantle_02.png" alt="wubi_dismantle_02.png"><br><img src="/images/language/manual/wubi_dismantle_03.png" alt="wubi_dismantle_03.png"><br><img src="/images/language/manual/wubi_dismantle_04.png" alt="wubi_dismantle_04.png"><br><img src="/images/language/manual/wubi_dismantle_05.png" alt="wubi_dismantle_05.png"><br><img src="/images/language/manual/wubi_dismantle_06.png" alt="wubi_dismantle_06.png"><br><img src="/images/language/manual/wubi_dismantle_07.png" alt="wubi_dismantle_07.png"><br><img src="/images/language/manual/wubi_dismantle_08.png" alt="wubi_dismantle_08.png"><br><img src="/images/language/manual/wubi_dismantle_09.png" alt="wubi_dismantle_09.png"><br><img src="/images/language/manual/wubi_dismantle_10.png" alt="wubi_dismantle_10.png"><br><img src="/images/language/manual/wubi_dismantle_11.png" alt="wubi_dismantle_11.png"><br><img src="/images/language/manual/wubi_dismantle_12.png" alt="wubi_dismantle_12.png"><br><img src="/images/language/manual/wubi_dismantle_13.png" alt="wubi_dismantle_13.png"><br><img src="/images/language/manual/wubi_dismantle_14.png" alt="wubi_dismantle_14.png"><br><img src="/images/language/manual/wubi_dismantle_15.png" alt="wubi_dismantle_15.png"><br><img src="/images/language/manual/wubi_dismantle_16.png" alt="wubi_dismantle_16.png"><br><img src="/images/language/manual/wubi_dismantle_17.png" alt="wubi_dismantle_17.png"><br><img src="/images/language/manual/wubi_dismantle_18.png" alt="wubi_dismantle_18.png"><br><img src="/images/language/manual/wubi_dismantle_19.png" alt="wubi_dismantle_19.png"></p>
-<p><img src="/images/language/manual/wubi_partition_1.png" alt="wubi_partition_1.png"><br><img src="/images/language/manual/wubi_partition_2.png" alt="wubi_partition_2.png"><br><img src="/images/language/manual/wubi_partition_3.png" alt="wubi_partition_3.png"><br><img src="/images/language/manual/wubi_partition_4.png" alt="wubi_partition_4.png"></p>
-]]></content>
-      <categories>
-        <category>Language</category>
-      </categories>
-  </entry>
-  <entry>
     <title>ONE·一个</title>
     <url>/2019/12/30/one/one/</url>
     <content><![CDATA[<blockquote>
@@ -920,6 +928,7 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_119.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_120.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_121.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_122.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_123.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_124.jpg" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_125.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/one/ONE_126.jpg" alt=""></div></div></div></div>
 ]]></content>
       <categories>
         <category>ONE·一个</category>
@@ -978,6 +987,8 @@
 <p>没有爱情电影看的一代，也没有恋爱可以谈。<br>现在年轻人信奉的都是：“一个人挺好啊。“追星不开心吗？剧不好看吗？为什么要去谈恋爱？“不谈恋爱屁事没有.…</p>
 <hr>
 <p>付出的时间多一点，感情多一点，温暖多一点。但是情感的天平总要倾斜一点，你才会觉得自己成为了这场爱情的胜利者，歆享着果实与收获。<br>我们总觉得爱情总要有所保留，才能收放自如。<br>毛姆在《月亮与六便士》里说：“在爱情的事上如果你考虑起自尊心来，那只能有一个原因：实际上你还是最爱自己。”<br>我很喜欢的一个词叫驯养，就是小王子和狐狸的关系。它意味着双向，你驯养了我，我也驯养了你。</p>
+<hr>
+<p>她抱着膝盖想了想，“那你会天天打电话给筱静吗？”<br>詹君兰摇头，“不会，我不想影响她的生活，我希望她能全力往前飞，忘了我也没关系。”她脸上闪过一瞬苍凉，“只不过这种感情很少有人能理解，平庸的大多数都害怕孤独，不懂孤独的自由和乐趣，他们会推己及人地多管闲事，有时候真的很烦一-”<br>伍真真点头，“要不啥时候你也教教我妈吧。”<br>詹君兰叹气，“我们能改变的只有自己，不是别人，更不是世界。”</p>
 <hr>
 <p>大卫本名魏峰，江苏睢宁人，现居北京，中国作家协会会员，中国诗歌学会理事，曾被读者以网络投票方式入选“中国十大优秀诗人”。做过医生十年，《诗刊》编辑五年，现为专栏作家，图书策划人，著有诗集《内心剧场》《荡漾》等。</p>
 <p>大卫就从不吝啬表达对女儿的爱，他曾经在专访里说过，在《诗刊》上班那会儿，他经常会在吃午饭的时候给女儿打电话，“听她声音，感觉天都是蓝的，云朵都是白的”。</p>
@@ -1430,36 +1441,6 @@
       </categories>
   </entry>
   <entry>
-    <title>books</title>
-    <url>/2019/11/01/read/books/</url>
-    <content><![CDATA[<blockquote>
-<p>你的快乐是哪一种</p>
-</blockquote>
-<a id="more"></a>
-<h3 id="learn"><a href="#learn" class="headerlink" title="learn"></a>learn</h3><p>它的胜出靠的是“层叠”特性。<br>CSS全称是Cascading Style Sheets<br>，翻译成中文就是“层叠样式表”。所谓“层叠”，顾名思义，就是样式可以层层累加，比方说页面元素都继承了12像素的大小，某标题就可以设置成14像素进行叠加。发现没？这种层叠策略对于样式的显示是相当的灵活。</p>
-<p>那么，为什么大学和实验室还把论文数量作为考核黑客工作的指标呢？这种事情其实在日常生活中普遍存在，比如，我们使用简单的标准化测试考核学生的“学术能力倾向”<br>（scholastic aptitude），再比如，我们使用代码的行数考核程序员的工作效率。这样的考核容易实施，而容易实施的考核总是首先被采用。黑客真正想做的是设计优美的软件，考核这种工作是非常困难的。你本人需要有良好的设计感，才能去考核别人的设计是否良好。但是，你觉得你有“良好的设计感”，与你实际是否具有，不存在相关关系，甚至可能存在负相关。<br>唯一有效的外部考核就是时间。经过岁月的洗礼，优美的东西生存发展的机会更大，丑陋的东西往往会被淘汰。不幸的是，这种考核需要的时间可能比一个人的生命还要长。塞缪尔·约翰逊A说过，人们对一个作家的评价，需要100年才能达成一致。你必须先等他的那些有影响力的朋友都死了，然后再等他的追随者都死了，才能对他有一个公正的评价。</p>
-<p>在校园里读书的回忆中。我曾经选过一门“网络安全”课，记得老师说了句极有意味的话：在工业上，不能用诡计（irick）来实现加密，因为花招迟早被人识破。一旦识破，它就很脆弱，不再有任何用处。那么，管用的、能够持久的加密是什么样的呢？答案是，在加密被标准化之后，也就是算法已知、解密程序存在的情况下，仍然需要长时间运算才能解开的编码。时间要长到什么程度？理论上说，用现存的数学算法，理论上都不能在可行时间内算完。典型的如RSA，该算法虽然不断改进，但其思想近30年铁打不动，就是因为大质数的幂运算本身有着很高的复杂度。理论上说，你等它算完的成本，高于解开秘密的成本。或者你算完的时间，比密码有效期还长。当然，这是理想情况。密码被破解的可能性还是存在的。</p>
-<p>中“嫡”（EniroPy）这个概念是衡量混乱度的，嫡值越高越混乱，故加密的理想正是找到一种编码方式，达到比较高的无序状态，让你看不出哪个字母出现频率高，并且在你设想出一条规律的时候来迷惑你，让规律显得似是而非。你看，多数时候科学研究都是寻找规律，但加密则相反，把牌洗到最乱，淹没规律一—这当然是为了对付人。所以人和人、人和自然界的关系转了个圈：你要掌握一个东西，要减低其熵，等你获得它之后要用盾对付别人的矛，也就是增强其混乱度。攻防之间，此规律输给彼规律——往往是复杂度比较高的规律获胜。<br>当然，解密也可以不那么正大光明地跟真正的数学问题对决。它可以通过分析时间来接近解密，特别是对某些算</p>
-<p>我买了一系列“永葆青春”的书，这些书占据了我80%的学习时间：<br>《程序员的修炼之道》<br>《代码整洁之道》<br>《程序员的职业素养》<br>《领域驱动设计》<br>《测试驱动的面向对象软件开发》<br>《持续交付》</p>
-<p>在这些概念当中，最知名的就是“重构”了，当时《重构》刚出来的时候，被誉为和《设计模式》齐名的著作，一个是倚天剑，一个是屠龙刀，我个人觉得炒作成分不少，它是比不上设计模式的地位的。<br>但是它确确实实推动了重构这个实践的普及，以至于在IDE中，重构变成了一个必备的功能，如果你还没有用过，应该好好反思一下。<br>重构还成了静态类型语言“鄙视”动态类型语言的一个重要方面。<br>重构的流行，也引发了另外一个市场：向模式重构，有一些书专门讲如何把“烂代码”重构为模式。</p>
-<p>《RESTful Web Clients：基于超媒体的可复用客户端》附有所有样例代码的GitHub地址，方便读者快速理解和实践。《RESTful WebClients：基于超媒体的可复用客户端》适合Web应用开发者，尤其适合希望Web应用程序的服务端与客户端能够独立演化的Web架构师。</p>
-<blockquote>
-<p>书犹药也，善读之可以医愚</p>
-</blockquote>
-<h4 id="《20个月赚130亿：YouTube创始人陈士骏自传》"><a href="#《20个月赚130亿：YouTube创始人陈士骏自传》" class="headerlink" title="《20个月赚130亿：YouTube创始人陈士骏自传》"></a>《20个月赚130亿：YouTube创始人陈士骏自传》</h4><blockquote>
-<p>你可以试着引导他，但你管不了他</p>
-</blockquote>
-<h3 id="PDF"><a href="#PDF" class="headerlink" title="PDF"></a>PDF</h3><ul>
-<li><a href="https://tinylive.oss-cn-hangzhou.aliyuncs.com/doc/DOS_introduction.pdf" target="_blank" rel="noopener">DOS_introduction</a></li>
-<li><a href="https://tinylive.oss-cn-hangzhou.aliyuncs.com/read/%E6%88%91%E5%9C%A8%E5%8D%8E%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%8D%81%E5%B9%B4%E7%9A%84%E6%84%9F%E6%82%9F%E2%80%94%E5%BE%90%E5%AE%B6%E9%AA%8F.pdf" target="_blank" rel="noopener">我在华为工作十年的感悟—徐家骏</a></li>
-<li><a href="https://tinylive.oss-cn-hangzhou.aliyuncs.com/read/%E9%9B%B7%E5%86%9B%E6%BC%94%E8%AE%B2%E8%BE%91%E5%BD%95.pdf" target="_blank" rel="noopener">雷军演讲辑录</a></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Read</category>
-      </categories>
-  </entry>
-  <entry>
     <title>ext</title>
     <url>/2019/11/01/read/ext/</url>
     <content><![CDATA[<blockquote>
@@ -1490,7 +1471,6 @@
 <p>剪一段时光，锁在心里珍藏</p>
 <p>知世故而不世故</p>
 <p>水清鱼读月；<br>花静鸟谈天</p>
-<p>如今最好，别说来日方长</p>
 <p>一个人至少拥有一个梦想，它不一定要像改变世界那样宏远，但它必须要能成为你努力拼搏的力量，让你在失望和悲伤时学会坚强。</p>
 <p>有些人的出现只是陪你写故事，写一点刻骨铭心，写一点今生不忘。有的人却是陪你看故事，陪你看平平淡淡，陪你看人间百态。</p>
 <p>人生而不同，后来逐渐相同</p>
@@ -1664,6 +1644,18 @@
 <li>《拖拉一点也无妨》</li>
 <li>《无论你在想什么，反过来想想》</li>
 </ul>
+<p>《20个月赚130亿：YouTube创始人陈士骏自传》</p>
+<blockquote>
+<p>你可以试着引导他，但你管不了他</p>
+</blockquote>
+<blockquote>
+<p>你的快乐是哪一种</p>
+</blockquote>
+<h3 id="other"><a href="#other" class="headerlink" title="other"></a>other</h3><blockquote>
+<p>书犹药也，善读之可以医愚</p>
+</blockquote>
+<p>孔子有云；“人而无信，不知其可。”</p>
+<p>“设绳墨而取曲直，立规矩以为方圆”</p>
 <p>爱看书也爱远行<br>        心情在路上</p>
 <p>林语堂     陈锦瑞     廖翠兰</p>
 <hr>
@@ -1794,7 +1786,7 @@
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1009.webp" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1010.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1011.webp" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1012.webp" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1013.webp" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1014.jpg" alt=""></div></div></div></div>
-<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1015.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1016.webp" alt=""></div></div></div></div>
+<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1015.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1016.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1017.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1018.jpg" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1019.webp" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1020.webp" alt=""></div></div></div></div>
 <div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1021.webp" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="/images/movie/1022.jpg" alt=""></div></div></div></div>
